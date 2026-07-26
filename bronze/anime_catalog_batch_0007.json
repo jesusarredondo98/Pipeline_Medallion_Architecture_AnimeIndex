@@ -1,0 +1,2440 @@
+{
+  "ingestion_timestamp": "2026-07-26T17:32:43.825933+00:00",
+  "source": "anilist_graphql",
+  "source_page": 7,
+  "records": [
+    {
+      "id": 325,
+      "idMal": 325,
+      "title": {
+        "romaji": "Peach Girl",
+        "english": "Peach Girl: Super Pop Love Hurricane",
+        "native": "ピーチガール"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 25,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2005,
+      "averageScore": 65,
+      "popularity": 21728,
+      "favourites": 423,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "Nomad"
+          },
+          {
+            "name": "Marvelous Entertainment"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Studio Comet"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 1,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 6,
+        "day": 25
+      },
+      "description": "Peach Girl is about an average high school girl, Momo Adachi, who everyone thinks is a beach bunny / slut because of her tanned skin. The actual reason she is so tanned is because she was on the swim team and tans very easily. She likes a boy, Toji, who she heard only likes non-tanned girls. This causes her to question who she is and have low self esteem. She spends a lot of time trying to remake herself into the girl she believes he wants. However, she has a friend, Sae, who likes to go behind Momo's back and make her life terrible, mostly by trying to take Toji away from her. All the while there's another boy, Kairi, who is in love with Momo.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 326,
+      "idMal": 326,
+      "title": {
+        "romaji": "Petshop of Horrors",
+        "english": "Petshop of Horrors",
+        "native": "Petshop of Horrors"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 4,
+      "duration": 22,
+      "season": "WINTER",
+      "seasonYear": 1999,
+      "averageScore": 68,
+      "popularity": 17093,
+      "favourites": 335,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Trans Arts"
+          },
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "Sentai Filmworks"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 3,
+        "day": 2
+      },
+      "endDate": {
+        "year": 1999,
+        "month": 3,
+        "day": 23
+      },
+      "description": "Count D, a quite interesting pet shop owner from an area called Chinatown, sells rare and hard to come by pets to people longing for something special, but with each sale comes a contract. If the rules of the contract are followed, everything goes fine, but if someone should break the rules of the contract, the pet shop cannot be held responsible for anything unfortunate that might happen. Leon Orcot, a homicide detective, has linked many odd and unexplainable deaths together; they all were customers of Count D's pet shop, and he intends to find out why.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 327,
+      "idMal": 327,
+      "title": {
+        "romaji": "Puchi Puri * Yuushi",
+        "english": "Petite Princess Yucie",
+        "native": "ぷちぷり*ユーシィ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 2002,
+      "averageScore": 69,
+      "popularity": 4490,
+      "favourites": 79,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Gainax"
+          },
+          {
+            "name": "AIC"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 9,
+        "day": 30
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 3,
+        "day": 24
+      },
+      "description": "Seventeen-year-old Yucie can never be taken seriously. How can she, when she's been cursed to be trapped in a ten-year-old's body? Bright, cheerful and optimistic, Yucie has never let her curse get in the way of living a happy life. Her life is about to change forever when she becomes a candidate to become the Platina Princess, an honor which will allow her ultimate wish to be granted! Then she finds out that she is one of many candidates, and the competition is intense!<br>\n<br>\n(Source: ADV Films)"
+    },
+    {
+      "id": 328,
+      "idMal": 328,
+      "title": {
+        "romaji": "PIANO",
+        "english": "Piano: The Melody of a Young Girl's Heart",
+        "native": "PIANO"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 10,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2002,
+      "averageScore": 58,
+      "popularity": 2029,
+      "favourites": 11,
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "OLM"
+          },
+          {
+            "name": "The Right Stuf International"
+          },
+          {
+            "name": "NYAV Post"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 11,
+        "day": 11
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 1,
+        "day": 13
+      },
+      "description": "When Miu was young, she was fascinated by the piano and took up lessons.<br><br>\nWhen the show opens, Miu is in middle school. She is shy, a softspoken girl who doesn't have a lot of confidence in herself. Her friends would describe her as &ldquo;sweet&rdquo; and &ldquo;quiet.&rdquo; At this point, Miu has been taking piano lessons for some time and while people have told her that she's gotten very good over the years, Miu herself feels she's not really good at anything &ndash; including the piano. Her teacher, Mr. Shirakawa, is often frustrated with her playing. Although she plays every note exactly correct, her heart just isn't in it&hellip;<br><br>\nMeanwhile, Miu's come of the age when she's noticing boys and this shy young lady has noticed the handsome Kazuya Takahashi &ndash; even if he hasn't noticed her.<br><br>\nThis is Miu's story. The story of a young girl who is on a journey to discover the melody within her own heart and the courage to express it. &nbsp;<br><br>\n(Source: RightStuf)"
+    },
+    {
+      "id": 329,
+      "idMal": 329,
+      "title": {
+        "romaji": "Planetes",
+        "english": "Planetes",
+        "native": "プラネテス"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 80,
+      "popularity": 63963,
+      "favourites": 1454,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 10,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 4,
+        "day": 17
+      },
+      "description": "In the year 2075, mankind has reached a point where journeying between Earth, the moon and the space stations is part of daily life. However, the progression of technology in space has also resulted in the problem of the space debris, which can cause excessive and even catastrophic damage to spacecrafts and equipment. This is the story of Technora's Debris Collecting section, its EVA worker, Hachirota \"Hachimaki\" Hoshino, and the newcomer to the group, Ai Tanabe.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 330,
+      "idMal": 330,
+      "title": {
+        "romaji": "Midori no Hibi",
+        "english": "Midori Days",
+        "native": "美鳥の日々"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2004,
+      "averageScore": 68,
+      "popularity": 34288,
+      "favourites": 424,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Ecchi",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          },
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Lantis"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "NYAV Post"
+          },
+          {
+            "name": "Toho"
+          },
+          {
+            "name": "Shogakukan"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 4,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 6,
+        "day": 27
+      },
+      "description": "High school delinquent Seiji Sawamura is desperate to have a girlfriend, especially after being rejected by 20 girls as of late. He's afraid that he will end his life with his right hand as his only companion. Apparently, that doesn't change when one day when he wakes up and discovers that his right hand has become a girl named Midori Kasugano, who confesses that she has had a crush on him for the last three years.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 331,
+      "idMal": 331,
+      "title": {
+        "romaji": "Mahoujin Guru Guru",
+        "english": "Magical Circle Guru Guru",
+        "native": "魔法陣グルグル"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 45,
+      "duration": 23,
+      "season": "FALL",
+      "seasonYear": 1994,
+      "averageScore": 72,
+      "popularity": 3862,
+      "favourites": 60,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Nippon Animation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 10,
+        "day": 13
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 9,
+        "day": 14
+      },
+      "description": "There is a small village called Jimuna on the continent of Jamu Jamu. This village is home to a girl named Kukuri. She is the last descendent of the Migu Migu Tribe. She is raised by an old witch who teaches her the secret magic of the tribe, but Kukuri is not a good student.<br><br>\nIn the same village lives a boy named Nike. He has been raised by very strict parents. They discipline their son to become a brave hero of the village. Nike himself does not want to be a hero at all, but he grows up to become a mighty boy.<br><br>\nOne day the king of the village, Kodai, recruits troops to fight against the ruler of the darkness, Giri. Kukuri and Nike are accepted. The two children, the strong but reluctant hero Nike, and the eager but unskilled little witch Kukuri, set out on a wonderful journey full of adventures and friendship.<br><br>\n(Source: Nippon Animation)"
+    },
+    {
+      "id": 332,
+      "idMal": 332,
+      "title": {
+        "romaji": "Doki Doki Densetsu: Mahoujin Guru Guru",
+        "english": "Magical Circle Guru Guru 2",
+        "native": "ドキドキ伝説 魔法陣グルグル"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 38,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 2000,
+      "averageScore": 67,
+      "popularity": 1289,
+      "favourites": 12,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Nippon Animation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2000,
+        "month": 4,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 12,
+        "day": 26
+      },
+      "description": "Join the new legend of Guru Guru, where Nike, the reluctant hero, and Kukuri, the innocent heroine, return to save the world. The magical adventure that unfolds, with its unique monsters and eccentric characters, is sure to draw you into this curious and exciting realm. <br><br>\nTo save the world from evil King Giri, Kukuri must locate the monsters in each territory and win them, one by one, over to her side. Meanwhile Nike`s task is to be recognized by the Four Kings of Nature and collect their swords. These swords are known as the \"Sword of Wind\", the \"Sword of Water\", the \"Sword of Earth\" and the \"Sword of Fire\". <br><br>\nCan Nike and Kukuri truly become hero and heroine? Follow their journey and find out! <br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": 333,
+      "idMal": 333,
+      "title": {
+        "romaji": "Mama wa Shougaku 4 Nensei",
+        "english": null,
+        "native": "ママは小学４年生"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 51,
+      "duration": 25,
+      "season": "WINTER",
+      "seasonYear": 1992,
+      "averageScore": 72,
+      "popularity": 2452,
+      "favourites": 46,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1992,
+        "month": 1,
+        "day": 10
+      },
+      "endDate": {
+        "year": 1992,
+        "month": 12,
+        "day": 25
+      },
+      "description": "Natsumi Mizuki is a 4th grader whose parents have gone to London. Her Aunt Izumi comes to live with her. Izumi is an aspiring manga writer who is trying to get her first big break, so she doesn't have time for a baby that appears out of thin air on Natsumi's first night alone. The baby's name is Mirai and her mother is *Natsumi*, but 15 years older. Somehow, Mirai had traveled back in time. Now the young Natsumi has to raise Mirai while trying to keep her 4th grade life from falling apart and keep Mirai-chan secret from everyone. She has the dubious help of Izumi and some baby-care gadgets from the future.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 334,
+      "idMal": 334,
+      "title": {
+        "romaji": "Marmalade Boy",
+        "english": "Marmalade Boy",
+        "native": "ママレード・ボーイ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 76,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 1994,
+      "averageScore": 70,
+      "popularity": 12656,
+      "favourites": 231,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 3,
+        "day": 13
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 9,
+        "day": 3
+      },
+      "description": "Miki Koishikawa lived a normal life - until her parents tell her they'll get divorced.. She doesn't agree, until she meets Yuu Matsuura... the handsome son of another couple, with whom her parents are switching spouses. They all live together now in an enormous house, and Miki and Yuu find themselves falling in love. They'll have to struggle with their own feelings, other people who want to be with them, and whatever Lady Luck and Fate throws in their ways...<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 335,
+      "idMal": 335,
+      "title": {
+        "romaji": "Matantei Loki RAGNAROK",
+        "english": "Mythical Detective Loki Ragnarok",
+        "native": "魔探偵ロキ RAGNAROK"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2003,
+      "averageScore": 68,
+      "popularity": 6674,
+      "favourites": 65,
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "Rakuonsha"
+          },
+          {
+            "name": "Sentai Filmworks"
+          },
+          {
+            "name": "MediaNet"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 4,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 9,
+        "day": 27
+      },
+      "description": "Loki, the Norse god of mischief, has been exiled to the human world for what was apparently a bad joke. Along with being exiled, he's forced to take the form of a child. He's told the only way he can get back to the world of the gods is if he can collect auras of evil that take over human hearts, and so to do this he runs a detective agency. Loki is soon joined by a human girl named Mayura who is a maniac for mysteries, and she soon helps out in her own way. However, soon other Norse gods begin to appear, and most have the intent to assassinate Loki for reasons unclear.\n<br><br>\n(Source: Anime News Network)\n<br>"
+    },
+    {
+      "id": 336,
+      "idMal": 336,
+      "title": {
+        "romaji": "Ginyuu Mokushiroku Meine Liebe",
+        "english": null,
+        "native": "吟遊黙示録 マイネリーベ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 57,
+      "popularity": 2568,
+      "favourites": 17,
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bee Train"
+          },
+          {
+            "name": "Rondo Robe"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 11,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 2,
+        "day": 3
+      },
+      "description": "The first season begins with introducing the characters, their past and their ambitions. Orpherus, Eduard, Camus, Lui and Naoji are five noblemen who attend the prestigious Rozenstolz academy, and who are a part of the Strahl class &ndash; a class for potential candidates for the advisory positions in the royal palace in the small European country of Kuchen. Isaac is an English writer who visits Kuchen. While still students, the five noblemen are forced to deal with corrupted politicians, secret agents, attempted murder and ambitious individuals from both inside and outside of school who threatens to break the fragile peace in their country, and even assassinate the king."
+    },
+    {
+      "id": 337,
+      "idMal": 337,
+      "title": {
+        "romaji": "Psychic Academy: Oura Banshou",
+        "english": "Psychic Academy",
+        "native": "サイキックアカデミー　煌羅万象"
+      },
+      "format": "ONA",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 11,
+      "season": "SPRING",
+      "seasonYear": 2002,
+      "averageScore": 55,
+      "popularity": 2101,
+      "favourites": 17,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Starchild Records"
+          },
+          {
+            "name": "GANSIS"
+          },
+          {
+            "name": "E&G Films"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 3,
+        "day": 29
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 9,
+        "day": 13
+      },
+      "description": "Insecure Ai Shiomi begins attending the prestigous Psychic Academy for psychically gifted students, following in the footsteps of his legendary older brother.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 338,
+      "idMal": 338,
+      "title": {
+        "romaji": "Versailles no Bara",
+        "english": "Lady Oscar: The Rose of Versailles",
+        "native": "ベルサイユのばら"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 40,
+      "duration": 23,
+      "season": "FALL",
+      "seasonYear": 1979,
+      "averageScore": 82,
+      "popularity": 33923,
+      "favourites": 1883,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Tokyo Movie Shinsha"
+          },
+          {
+            "name": "The Right Stuf International"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1979,
+        "month": 10,
+        "day": 10
+      },
+      "endDate": {
+        "year": 1980,
+        "month": 9,
+        "day": 3
+      },
+      "description": "Raised from birth as a man, the Lady Oscar commands the palace guards at Versailles in the years before the French Revolution. Her beauty and noble spirit make her a shining figure in the eyes of both men and women but she is torn between her chosen life of service and duty to class and country and her own heart and desires. She lives as a noble amidst the opulence of Versailles but her keen senses and compassion are not blinded to the poverty of the French people.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 339,
+      "idMal": 339,
+      "title": {
+        "romaji": "serial experiments lain",
+        "english": "Serial Experiments Lain",
+        "native": "serial experiments lain"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 23,
+      "season": "SUMMER",
+      "seasonYear": 1998,
+      "averageScore": 80,
+      "popularity": 247482,
+      "favourites": 15869,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          },
+          {
+            "name": "Genco"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Triangle Staff"
+          },
+          {
+            "name": "Pioneer LDC"
+          },
+          {
+            "name": "TV Tokyo Music"
+          },
+          {
+            "name": "Fujipacific Music"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 7,
+        "day": 6
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 9,
+        "day": 28
+      },
+      "description": "We're all connected... There is the world around us, a world of people, tactile sensation, and culture. There is the wired world, inside the computer, of images, personalities, virtual experiences, and a culture all of its own. The day after a classmate commits suicide, Lain, a 14-year-old girl, discovers how closely the two worlds are linked when she receives an e-mail from the dead girl: I just abandoned my body. I still live here...<br>\n<br>\nHas the line between the real world and the wired world begun to blur?<br>\n<br>\n(Source: Geneon Entertainment)"
+    },
+    {
+      "id": 340,
+      "idMal": 340,
+      "title": {
+        "romaji": "Mutsu Enmei Ryuu Gaiden: Shura no Toki",
+        "english": "Time of Shura",
+        "native": "陸奥圓明流外伝 修羅の刻"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 2004,
+      "averageScore": 71,
+      "popularity": 4266,
+      "favourites": 40,
+      "genres": [
+        "Action"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Comet"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "NYAV Post"
+          },
+          {
+            "name": "Sotsu"
+          },
+          {
+            "name": "TV Tokyo"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 4,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 9,
+        "day": 28
+      },
+      "description": "Legends tell of an invincible martial art known as Mutsu Enmei-Ryu, an unarmed style that allows the user to defeat any number of armed opponents using incredible speed and strength. This is the story of three generations of those who bear the name Mutsu, and their encounters and battles with the strongest fighters of their era.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 341,
+      "idMal": 341,
+      "title": {
+        "romaji": "Spiral: Suiri no Kizuna",
+        "english": "Spiral: Bond of Reasoning",
+        "native": "スパイラル -推理の絆-"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 25,
+      "duration": 23,
+      "season": "FALL",
+      "seasonYear": 2002,
+      "averageScore": 67,
+      "popularity": 8025,
+      "favourites": 87,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "Sotsu"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "SME Visual Works"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 10,
+        "day": 1
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 3,
+        "day": 25
+      },
+      "description": "Ayumu Narumi's older brother Kiyotaka, a renowned detective and piano player, disappears all of a sudden. The only clue Narumi has, are the Blade Children. Two years later a row of murders and incidents begin, relating to the Blade Children. Together with school journalist, Hiyono Yuizaki, Narumi tries to figure out their destiny.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 342,
+      "idMal": 342,
+      "title": {
+        "romaji": "Starship Operators",
+        "english": null,
+        "native": "スターシップ・オペレーターズ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2005,
+      "averageScore": 65,
+      "popularity": 4030,
+      "favourites": 29,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 1,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 30
+      },
+      "description": "For the 73rd class of cadets of the Defense University of the small planet Kibi, a shakedown cruise on the fleet's new starship \"Amaterasu\" is a fitting lead-up to graduation. As they are returning to their home planet, however, they are shocked to hear news of a declaration of war by the aggressive Kingdom against Kibi. When their planetary government surrenders without a struggle, the cadets decide to launch their own war, aboard the \"Amaterasu\". To gain funding, they make a deal with a galactic news network - and find themselves the \"stars\" of their own \"reality show\". Unfortunately, this is the kind of reality show that can get you killed...\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 343,
+      "idMal": 343,
+      "title": {
+        "romaji": "Tsukuyomi: MOON PHASE",
+        "english": "MoonPhase",
+        "native": "月詠 −MOON PHASE−"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 25,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 65,
+      "popularity": 15770,
+      "favourites": 133,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Shaft"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 28
+      },
+      "description": "Morioka Kouhei wants to become a photographer. Unfortunately, he has the tendency to unintentionally capture the images of ghosts on film.<br><br>\nOne day, he visits an old castle in Germany where he meets a vampire girl, Hazuki. It turns out that Hazuki is confined in the castle against her will. She tries to turn Kouhei into her slave by sucking his blood, with the intent to have him break the device sealing her in the castle. Although Kouhei proves to be immune to the vampire's curse, he is eventually forced to help her. Hazuki successfully escapes from the castle and leaves for Japan to look for her mother.<br><br>\nWhen she arrives in Japan, she goes to Kohei's house where he lives with his grandfather, who agrees to take in the girl. Due to his own childhood experiences, the sympathetic Kouhei agrees to aid Hazuki in her quest.<br><br>\nHowever, other vampires, including Elfried and Count Kinkell, manage to track Hazuki to Japan. They will stop at nothing to retrieve her.<br><br>\n(Source: AnimeNfo)"
+    },
+    {
+      "id": 344,
+      "idMal": 344,
+      "title": {
+        "romaji": "Futatsu no Spica",
+        "english": "Twin Spica",
+        "native": "ふたつのスピカ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 20,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 70,
+      "popularity": 3241,
+      "favourites": 45,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Group TAC"
+          },
+          {
+            "name": "NHK"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 11,
+        "day": 1
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 3,
+        "day": 27
+      },
+      "description": "When Kamogawa Asumi was just a baby, her mother was grievously injured when a rocket crashed to the ground. Five years later, having been in a coma all the time, Asumi's mother finally dies, and the little girl struggles to come to terms with the death of a mother she barely remembers. In the midst of her turmoil, she meets \"Lion-san\", a strange figure wearing a lion mask and claiming to be a ghost. Lion-san helps Asumi to bury her mother's ashes, and finally, Asumi reaches her own decision: \"When I grow up, I'm going to be a rocket pilot.\"\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 345,
+      "idMal": 345,
+      "title": {
+        "romaji": "Eikoku Koi Monogatari Emma",
+        "english": "Emma: A Victorian Romance",
+        "native": "英國戀物語エマ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 74,
+      "popularity": 14994,
+      "favourites": 227,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          },
+          {
+            "name": "Pony Canyon"
+          },
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "The Right Stuf International"
+          },
+          {
+            "name": "Toshiba Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 4,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 6,
+        "day": 19
+      },
+      "description": "In 19th-century London, class lines are sharply drawn, and the social standing to which people are born dictates the path their lives will follow. Emma, an honest and hardworking young maid, never felt her place in life to be a burden. But then she met William, a member of the gentry and the eldest son of a wealthy family. His warm smile and earnest affection threaten to capture her heart... but can love truly conquer all?<br><br>\n(Source: RightStuf)"
+    },
+    {
+      "id": 346,
+      "idMal": 346,
+      "title": {
+        "romaji": "W: Wish",
+        "english": "Double Wish",
+        "native": "W 〜ウィッシュ〜"
+      },
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 12,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 55,
+      "popularity": 3080,
+      "favourites": 13,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Picture Magic"
+          },
+          {
+            "name": "Trinet Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 12,
+        "day": 26
+      },
+      "description": "Based on a game by Princess Soft<br><br>\nThe main character, Junna has a twin sister Senna. He is an ordinal student of an elite school. However, in the past, a traffic accident deprived him of his parents and his memory. Junna survived the accident, and he has lived only with his sister though he has been looked after by his relatives.<br><br>\nAnd present...<br>\nThe life with Senna in the same high school is so pleasant that he can forget the severe past. Because he has been in the world where there is only Senna, his lives in this town, such as the beginning of a new life, new environments, and the meetings, are so refreshing.<br><br>\nHowever, he begins to recall the memories he lost in the accident. Though he enjoys happy and pleasant days, he is tossed by the past, the present, and the future. What is the truth hidden in his memory?<br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": 347,
+      "idMal": 347,
+      "title": {
+        "romaji": "Wild Arms: Twilight Venom",
+        "english": null,
+        "native": "ワイルドアームズ トワイライトヴェノム"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 22,
+      "duration": 20,
+      "season": "FALL",
+      "seasonYear": 1999,
+      "averageScore": 63,
+      "popularity": 2018,
+      "favourites": 23,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bee Train"
+          },
+          {
+            "name": "Production I.G"
+          },
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "WOWOW"
+          },
+          {
+            "name": "ADV Films"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 10,
+        "day": 18
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 3,
+        "day": 27
+      },
+      "description": "This anime is based on a PlayStation game under the same title. The story is about four people who travel the desolated land of Filgaea and carve themselves a legendary story while they`re at it. These adventurers are Sheyenne Rainstorm, a gunslinger who holds the legendary weapon called ARMs; Kiel Aromax, a scientist who looks like he should be carrying a sword; Roleta Oratorio the Crest Sorceress, a magic-user who uses cards called Crests to cast spells; and Mirabelle Graceland, one of the Noble Red, which are a family of vampiric creatures who live alongside human beings They also travel with cute little intelligent furry things, from the Popepi Pipepo Tribe, named Isaac and Jerusha.<br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": 348,
+      "idMal": 348,
+      "title": {
+        "romaji": "Binzume Yousei",
+        "english": "Bottle Fairy",
+        "native": "瓶詰妖精"
+      },
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 13,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 61,
+      "popularity": 4669,
+      "favourites": 41,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Xebec"
+          },
+          {
+            "name": "Hal Film Maker"
+          },
+          {
+            "name": "Genco"
+          },
+          {
+            "name": "Starchild Records"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 10,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 12,
+        "day": 26
+      },
+      "description": "Kururu, Chiriri, Sarara, and Hororo are four little fairies that live inside bottles on their &ldquo;Sensei&rdquo;&rsquo;s desk. Together, they have misadventures trying to understand the human world, seeking advice from the totally misinformed grade schooler next door.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 349,
+      "idMal": 349,
+      "title": {
+        "romaji": "Magical Canan",
+        "english": "Magical Kanan",
+        "native": "まじかるカナン"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2005,
+      "averageScore": 56,
+      "popularity": 2166,
+      "favourites": 19,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "AIC A.S.T.A."
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 1,
+        "day": 1
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 26
+      },
+      "description": "Based on the erotic game by Terios.<br>\n<br>\nFive dangerous \"seeds\" have been stolen from their vault in the world of Evergreen and taken to Earth. Natsuki, an agent of the Queen, has been sent to retrieve them. However, he cannot do this alone and enlists the aid of Chihaya, a middle school student, who is \"the only one\" who can help him. With his aid she transforms into Magical Warrior Carmine in order to save the humans possessed by the seeds. Questions abound though, such as why Chihaya's mother appears to know all about this secret activity, why Chihaya remembers her father who reportedly died before her birth, and why she dreams of Evergreen, which she has never seen.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 350,
+      "idMal": 350,
+      "title": {
+        "romaji": "Ojamajo Doremi",
+        "english": "Magical DoReMi",
+        "native": "おジャ魔女どれみ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 51,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 1999,
+      "averageScore": 74,
+      "popularity": 20810,
+      "favourites": 777,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "4Kids Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 2,
+        "day": 7
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 1,
+        "day": 30
+      },
+      "description": "Doremi Harukaze, 3rd grade student at Misora Elementary School, claims to be the world's unluckiest pretty girl. Fascinated by witchcraft, she is drawn into a mysterious shop where she meets Majo Rika and is able to deduce that this lady is in fact a real witch. Being exposed by a human triggers a curse that transforms witches into magical frogs. To regain her original body, Rika must turn Doremi into a witch by teaching her how to use magic. Thrilled by this odd development, Harukaze becomes a witch apprentice. Unfortunately, her two best friends, Hazuki Fujiwara and Aiko Senoo, discover that Doremi has become a magic user. Afraid that Harukaze might become a magical frog too, Majo Rika recruits both Hazuki and Aiko and makes them witch apprentices too. The trio has lots of adventures as they try to triumph the necessary trials to become real witches.<br><br>\n\n(Source: Anime News Network)"
+    },
+    {
+      "id": 351,
+      "idMal": 351,
+      "title": {
+        "romaji": "Ojamajo Doremi Sharp",
+        "english": null,
+        "native": "おジャ魔女どれみ♯"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 49,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2000,
+      "averageScore": 75,
+      "popularity": 7678,
+      "favourites": 212,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2000,
+        "month": 2,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 1,
+        "day": 28
+      },
+      "description": "Upon re-entering the witch world the girls accidentally come by a Blue rose field and witness the birth of the future witch queen: Hana-chan. Due to witnessing her birth the girls are then put in charge of baby Hana-chan and must raise her of their \"mothers\".\n\nBut will four ten year old girls be able to raise a baby when they're still children themselves?! Can Pop finally catch up with her older clumsy sister? Will Majorika finally turn back to normal?"
+    },
+    {
+      "id": 352,
+      "idMal": 352,
+      "title": {
+        "romaji": "Motto! Ojamajo Doremi",
+        "english": null,
+        "native": "も〜っと！おジャ魔女どれみ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 50,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2001,
+      "averageScore": 76,
+      "popularity": 6536,
+      "favourites": 211,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 2,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 1,
+        "day": 27
+      },
+      "description": "After the losing of magical ability to become witches, they once again become them. But, now they have to go through tests from the Witches of the Witch World. They also meet a new member, from New York, U.S. comes Momoko (the yellow Ojamajo). <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 353,
+      "idMal": 353,
+      "title": {
+        "romaji": "Ojamajo Doremi Dokkaan!",
+        "english": null,
+        "native": "おジャ魔女どれみドッカ〜ン！"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 51,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2002,
+      "averageScore": 79,
+      "popularity": 6032,
+      "favourites": 448,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 2,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 1,
+        "day": 26
+      },
+      "description": "Hana now becomes a peer of the Ojamajo. When Majotourbillon's spirit revives, the witches now have to break her curse. From the help from Pao-chan, Doremi, Hana, and the other witches are able to defeat the curses. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 354,
+      "idMal": 354,
+      "title": {
+        "romaji": "UG☆Ultimate Girls",
+        "english": "Ultimate Girls",
+        "native": "UG☆アルティメットガール"
+      },
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 13,
+      "season": "WINTER",
+      "seasonYear": 2005,
+      "averageScore": 53,
+      "popularity": 2348,
+      "favourites": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "m.o.e."
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 1,
+        "day": 10
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 28
+      },
+      "description": "During a monster attack on the city, which is something that happens quite often, Silk and her two friends try get close to the attacking monster for a better view. An unfortunate choice of location to watch from leads to UFO-man, the city's giant protector, to land on the girls crushing them to death. Feeling sorry, UFO-man blames their death on the monster and promises to bring Silk and her friends back to life by lending them his power but the catch is that they now have to become the city's protector as well.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 355,
+      "idMal": 355,
+      "title": {
+        "romaji": "Shakugan no Shana",
+        "english": "Shakugan no Shana",
+        "native": "灼眼のシャナ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 70,
+      "popularity": 95628,
+      "favourites": 1288,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Toshiba Entertainment"
+          },
+          {
+            "name": "Cosmic Ray"
+          },
+          {
+            "name": "Hakuhodo DY Music & Pictures"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 10,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 3,
+        "day": 23
+      },
+      "description": "He had thought his normal days would last forever, until they were ended abruptly by an encounter with a girl with red hair and eyes. He named her Shana.<br><br>\nNot long after he enters high school, Sakai Yuji&rsquo;s normal days come to an end. He sees something bizarre on his way home: people are frozen in a strange fire, and a monster that looks like a large doll is attacking them. Just when he's about to be killed, a girl in a dark cloak wielding a large sword appears, and slices the monster in half. Although Yuji survives the strange encounter, the girl informs him of a desolate truth: \" 'You' don't exist anymore.\"<br><br>\nShe calls herself a Flame Haze who hunts \"Guze no Tomogara\"; intruders from another world. She explains to him that he is a \"Torch\", a substitute of Yuji whose &ldquo;existence&rdquo; has already been devoured. She also told him that he is a special Torch, \"Mystes\", which contains a precious item in it. When he looks at his chest, he sees within himself a faint flame, just as she said.<br><br>\nIt is in this way that his eternal struggle alongside the girl begins. <br><br>\n(Source: AnimeNfo)"
+    },
+    {
+      "id": 356,
+      "idMal": 356,
+      "title": {
+        "romaji": "Fate/stay night",
+        "english": "Fate/stay night",
+        "native": "Fate/stay night"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2006,
+      "averageScore": 68,
+      "popularity": 186552,
+      "favourites": 2753,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          },
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "Frontier Works"
+          },
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "Sentai Filmworks"
+          },
+          {
+            "name": "Notes"
+          },
+          {
+            "name": "CREi"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 1,
+        "day": 7
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 6,
+        "day": 17
+      },
+      "description": "Raised by a mysterious sorcerer after the death of his parents in a catastrophic fire, Shirou Emiya has only just begun to learn small tidbits of magic. When he is caught in a battle between two powerful Magi, however, he ends up performing a spell above his expected ability, accidentally summoning a beautiful woman knight to protect him. \n<br><br>\nShirou is thus unwillingly thrust into the competition known as the Holy Grail War where Seven Magi called Masters, together with their spirit partners called Servants, fight to acquire a powerful artifact said to grant every wish. \n"
+    },
+    {
+      "id": 357,
+      "idMal": 357,
+      "title": {
+        "romaji": "Bokusatsu Tenshi Dokuro-chan",
+        "english": "Bludgeoning Angel Dokuro-chan",
+        "native": "撲殺天使ドクロちゃん"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 4,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 61,
+      "popularity": 43818,
+      "favourites": 588,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          },
+          {
+            "name": "Hal Film Maker"
+          },
+          {
+            "name": "Nomad"
+          },
+          {
+            "name": "Hakuhodo DY Music & Pictures"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 13
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 9,
+        "day": 22
+      },
+      "description": "In the future, a junior high student, Kusakabe Sakura, will offend God by inventing immortality so that women will stop aging after they turn twelve. Dokuro-chan is an angel from the future sent to kill him. However, Dokuro-chan thinks that Sakura can be spared, so her idea is to constantly occupy Sakura so that he will never be able to invent the technology. Sometimes the angel will go crazy and kill him with her bat, Excalibolg, but she can revive him easily. \"Pi-piru-piru-piru-pi-piru-pi!\""
+    },
+    {
+      "id": 358,
+      "idMal": 358,
+      "title": {
+        "romaji": "Iriya no Sora, UFO no Natsu",
+        "english": null,
+        "native": "イリヤの空、UFOの夏"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 6,
+      "duration": 25,
+      "season": "WINTER",
+      "seasonYear": 2005,
+      "averageScore": 64,
+      "popularity": 5964,
+      "favourites": 45,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Happinet Pictures"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 1,
+        "day": 28
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 7,
+        "day": 8
+      },
+      "description": "Asaba Naoyuki is an ordinary high school student. As a member of his school's press club, he's just spent the summer camping outside the local military base, in hopes of seeing the UFOs that are secretly kept there, according to local legend. Returning to school, he meets a strange girl, Iriya Kana, and gradually comes to realize that she is more than merely strange - and that a dark secret lies beneath the world that he knows.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 359,
+      "idMal": 359,
+      "title": {
+        "romaji": "I'll/CKBC",
+        "english": "I'll/CKBC",
+        "native": "I'll/CKBC"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 30,
+      "season": "FALL",
+      "seasonYear": 2002,
+      "averageScore": 53,
+      "popularity": 1575,
+      "favourites": 11,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sports"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "M.S.C"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 12,
+        "day": 18
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 3,
+        "day": 26
+      },
+      "description": "Two boys, Tachibana and Hiiragi were once brutal rivals in the game of basketball. Hiiragi soon transfers into Tachibana's school and basketball team. They begin as team-mates, but with Hiiragi's family pushing him to play on a better team. Tachibana and Hiiragi must now play against each other.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 360,
+      "idMal": 360,
+      "title": {
+        "romaji": "Himiko-Den",
+        "english": "Legend of Himiko",
+        "native": "火魅子伝"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 1999,
+      "averageScore": 57,
+      "popularity": 1726,
+      "favourites": 12,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Group TAC"
+          },
+          {
+            "name": "Central Park Media"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 1,
+        "day": 7
+      },
+      "endDate": {
+        "year": 1999,
+        "month": 4,
+        "day": 1
+      },
+      "description": "High school student Himiko Himejima finds her life change forever when a mysterious flame appears before her one day. Along with her schoolmate Kutani Masahiko, Himiko is transported by the flame to an ancient kingdom known as Yamatai. The Yamatai kingdom has recently come under the attack of the Kune empire during its ritual to select a queen among six candidates. As the evil general of Kune creates an army of undead for power, the six queen candidates lead a resistance force to overthrow the Kune empire. Himiko and Kutani soon find themselves fighting alongside the queen candidates to save the kindgom. With some new-found power, Himiko and Kutani slowly realize their links to the ancient world and discover the power of the sacred flame.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 361,
+      "idMal": 361,
+      "title": {
+        "romaji": "Memories Off",
+        "english": null,
+        "native": "Memories Off"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 30,
+      "season": "FALL",
+      "seasonYear": 2001,
+      "averageScore": 50,
+      "popularity": 2072,
+      "favourites": 12,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "E&G Films"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 11,
+        "day": 21
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 3,
+        "day": 6
+      },
+      "description": "Tomoya Mikami's life changed one day when his girlfriend Ayaka was hit by a car and killed on her way to meet Tomoya. He blamed himself for her death and never was the same after the accident. He began acting callously towards Yue and his other friends. Furthermore, every time Tomoya gets involved with a new girl, he sees images of Ayaka in his dreams. He decides he needs to find a way to say goodbye to his lost love once and for all, while dealing with several side romances at the same time.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 362,
+      "idMal": 362,
+      "title": {
+        "romaji": "Memories Off 2nd",
+        "english": null,
+        "native": "メモリーズオフ 2nd"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 30,
+      "season": "WINTER",
+      "seasonYear": 2003,
+      "averageScore": 54,
+      "popularity": 1336,
+      "favourites": 5,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Picture Magic"
+          },
+          {
+            "name": "Rikuentai"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 1,
+        "day": 22
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 5,
+        "day": 21
+      },
+      "description": "Shirakawa Hotaru, a girl who's in love with Inami Ken, finally confesses her love. From there on, they were happy couples, until one summer. Ken met a new friend, Tobise Tomoe, who is Hotaru's best friend. Tomoe seems to have her own charm. Ken, now have two paths to choose from; to be with Shirakawa Hotaru or Tobise Tomoe. Otherwise, he will lose them both.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 363,
+      "idMal": 363,
+      "title": {
+        "romaji": "Memories Off 3.5: Omoide no Kanata e",
+        "english": null,
+        "native": "メモリーズオフ3.5"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 4,
+      "duration": 27,
+      "season": "SPRING",
+      "seasonYear": 2004,
+      "averageScore": 54,
+      "popularity": 1157,
+      "favourites": 5,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Picture Magic"
+          },
+          {
+            "name": "Rikuentai"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 5,
+        "day": 12
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 20
+      },
+      "description": "This series is made up of two seperate stories with a few overlapping characters. The first story, Omoide no Kanata e, is about Shogo and his current girlfriend Neo. Kanata, a former girlfriend of Shogo's shows up one day and causes Shogo and Neo to think about their current situations. The second story, Inori no Todoku Koro, is about girl called Inori and her boyfriend Isshu. They had made a promise to always go to the fireworks festival together, since that was the place that they orginally became a couple. This year, Isshu says he cannot attend because of his work so Inori goes alone and recalls the previous two years.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 364,
+      "idMal": 364,
+      "title": {
+        "romaji": "Gallery Fake",
+        "english": null,
+        "native": "ギャラリーフェイク"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 37,
+      "duration": 25,
+      "season": "WINTER",
+      "seasonYear": 2005,
+      "averageScore": 68,
+      "popularity": 4380,
+      "favourites": 30,
+      "genres": [
+        "Mystery"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Tokyo Movie"
+          },
+          {
+            "name": "Tokyo Kids"
+          },
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "Trinity Sound"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 1,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 9,
+        "day": 24
+      },
+      "description": "Fujita Reiji is the owner of an art gallery, Gallery Fake. He deals with fake items, and is also familiar with the black market. However, he has a special talent for art, and used to work for the Metropolitan Museum of Art in New York as a curator.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 365,
+      "idMal": 365,
+      "title": {
+        "romaji": "FAKE",
+        "english": null,
+        "native": "FAKE"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 59,
+      "season": "SPRING",
+      "seasonYear": 1998,
+      "averageScore": 59,
+      "popularity": 4262,
+      "favourites": 57,
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "J.C.STAFF"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 4,
+        "day": 21
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 4,
+        "day": 21
+      },
+      "description": "Dee Laytner and Randy \"Ryo\" Maclane are two New York cops taking a needed vacation in England. Dee has very strong feelings for Ryo and wants to take this chance to advance their relationship (and if he's lucky, maybe seduce Ryo). Ryo doesn't understand his own feelings for Dee, and doesn't know if he wants to (or should) acknowledge them. Their vacation and relationship is suddenly disturbed when murders and missing person reports keep surfacing around their hotel. The only common tie the cases have is that all of the victims were Japanese or Japanese descent. Dee and Ryo have to solve the case before Ryo, who is half Japanese, becomes the next victim.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 366,
+      "idMal": 366,
+      "title": {
+        "romaji": "AIKa",
+        "english": "Agent Aika",
+        "native": "AIKa"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 7,
+      "duration": 30,
+      "season": "SPRING",
+      "seasonYear": 1997,
+      "averageScore": 57,
+      "popularity": 10912,
+      "favourites": 110,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Studio Fantasia"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1997,
+        "month": 4,
+        "day": 25
+      },
+      "endDate": {
+        "year": 1999,
+        "month": 4,
+        "day": 25
+      },
+      "description": "A catastrophic earthquake has left Tokyo, and most of the Earth for that matter, under the sea. Aika is a salvager who retrieves various remains from the watery ruins. When Aika accepts the dangerous mission of locating and obtaining the mysterious Lagu, she discovers that she's not the only one after it."
+    },
+    {
+      "id": 367,
+      "idMal": 367,
+      "title": {
+        "romaji": "Akazukin Chacha OVA",
+        "english": null,
+        "native": "赤ずきんチャチャ (1995)"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 1995,
+      "averageScore": 58,
+      "popularity": 823,
+      "favourites": 6,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Gallop"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1995,
+        "month": 12,
+        "day": 6
+      },
+      "endDate": {
+        "year": 1996,
+        "month": 3,
+        "day": 6
+      },
+      "description": "Following the original TV series, the story tells the efforts of Momiji Gakuen, Chacha's rival school principal, to discover what is so special about Urara Gakuen students and what she could do to \"produce\" the best students."
+    },
+    {
+      "id": 368,
+      "idMal": 368,
+      "title": {
+        "romaji": "Bible Black",
+        "english": null,
+        "native": "バイブルブラック"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 6,
+      "duration": 30,
+      "season": "SUMMER",
+      "seasonYear": 2001,
+      "averageScore": 59,
+      "popularity": 11045,
+      "favourites": 173,
+      "genres": [
+        "Hentai",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Milky Animation Label"
+          },
+          {
+            "name": "Active"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "Studio Jam"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 7,
+        "day": 21
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 6,
+        "day": 25
+      },
+      "description": "Based on the erotic game by Active.<br><br>\nMinase, a high school student, found a book of magic in an isolated room in his school. He started practicing black magic that has extreme sexual effects that benefited him and some of his friends. Intrigued, Minase got deeper and deeper into using the craft, not realizing the evils that will come forth. Eventually, the origins of the book was revealed, and so did the incident twelve years ago on the night of the Walpurgis, the night when the power of evil is at its strongest. After coming to his senses, Minase struggles to get himself out of the darkness that he had put himself into.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 369,
+      "idMal": 369,
+      "title": {
+        "romaji": "Boogiepop wa Warawanai: Boogiepop Phantom",
+        "english": "Boogiepop Phantom",
+        "native": "ブギーポップは笑わない Boogiepop Phantom"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2000,
+      "averageScore": 70,
+      "popularity": 42950,
+      "favourites": 865,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "VAP"
+          },
+          {
+            "name": "d-rights"
+          },
+          {
+            "name": "The Right Stuf International"
+          },
+          {
+            "name": "Triangle Staff"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2000,
+        "month": 1,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 3,
+        "day": 22
+      },
+      "description": "Five years ago, a string of grisly murders shook the city to its core and now the rumors have begun once more. Boogiepop... Everyone knows about Boogiepop: meet her one dark night and you are taken. People tell each other the stories and laugh: no one believes that she can possibly exist in this day and age. Still, strange things appear to be going on and the darkness is taking on many forms. Something is out there. Are you safe?<br><br>\r\n(Source: RightStuf)"
+    },
+    {
+      "id": 370,
+      "idMal": 370,
+      "title": {
+        "romaji": "BURN-UP EXCESS",
+        "english": "Burn Up Excess",
+        "native": "BURN-UP EXCESS"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 25,
+      "season": "WINTER",
+      "seasonYear": 1998,
+      "averageScore": 62,
+      "popularity": 3585,
+      "favourites": 52,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "AIC"
+          },
+          {
+            "name": "Magic Bus"
+          },
+          {
+            "name": "ADV Films"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1997,
+        "month": 12,
+        "day": 12
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 7,
+        "day": 1
+      },
+      "description": "Ready, aim, and fire up for another animated adventure with Team Warrior! Join rowdy Rio and her partners - the machine-gun maniac Maya, the lovely Lilica, tech talent Nanvel, guy friday Yuji, and their boss Maki - as they take on their hottest cases ever! Mechanical insects, firefighting jewel thieves, panty raiders, sexy sheiks, and fawning fathers - there's never a dull moment when the babes of <i>Burn Up Excess</i> are on the job!<br>\n<br>\n(Source: ADV Films)"
+    },
+    {
+      "id": 371,
+      "idMal": 371,
+      "title": {
+        "romaji": "Cardcaptor Sakura Movie",
+        "english": "Cardcaptor Sakura: The Movie",
+        "native": "劇場版 カードキャプターさくら"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 81,
+      "season": "SUMMER",
+      "seasonYear": 1999,
+      "averageScore": 74,
+      "popularity": 21534,
+      "favourites": 420,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Mahou Shoujo"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "NHK"
+          },
+          {
+            "name": "Kodansha"
+          },
+          {
+            "name": "Shelty"
+          },
+          {
+            "name": "NHK Enterprises"
+          },
+          {
+            "name": "Discotek"
+          },
+          {
+            "name": "Madman Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 8,
+        "day": 21
+      },
+      "endDate": {
+        "year": 1999,
+        "month": 8,
+        "day": 21
+      },
+      "description": "It's winter vacation and Sakura wins a trip to Hong Kong. Kero, skeptic of her luck in lotteries, questions whether she was merely lucky or was she summoned to Hong Kong upon inevitability. As Sakura strolls through Hong Kong's Bird Street, she senses an evil force calling to her. On chasing two strange birds, she is lead to a phantom world where she learns she was actually made to come to Hong Kong by a woman, Madoushi, who apparently wants revenge on Clow Reed. With Syaoran's mother, Yelan's help and the guidance from Clow Reed's voice, she must fight Madoushi and rescue her friends and loved ones, who have been captured."
+    },
+    {
+      "id": 372,
+      "idMal": 372,
+      "title": {
+        "romaji": "Cardcaptor Sakura Movie: Fuinsareta Card",
+        "english": "Cardcaptor Sakura the Movie 2: The Sealed Card",
+        "native": "劇場版 カードキャプターさくら 封印されたカード"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 79,
+      "season": "SUMMER",
+      "seasonYear": 2000,
+      "averageScore": 81,
+      "popularity": 24987,
+      "favourites": 681,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Kodansha"
+          },
+          {
+            "name": "Shelty"
+          },
+          {
+            "name": "NHK Enterprises"
+          },
+          {
+            "name": "Amber Film Works"
+          },
+          {
+            "name": "Discotek"
+          },
+          {
+            "name": "Madman Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2000,
+        "month": 7,
+        "day": 15
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 7,
+        "day": 15
+      },
+      "description": "During the summer holidays, Sakura and her class are preparing to present a play at the annual Nadeshiko Festival. The unexpected arrival of Syaoran (and Meiling) give Sakura the courage to finally reciprocate her feelings. But as the cards begin to disappear one by one, Sakura discovers a single cards still remains. One with power equal to all hers... It is during this summer that Sakura faces her final battle."
+    },
+    {
+      "id": 373,
+      "idMal": 373,
+      "title": {
+        "romaji": "Bannou Bunka Neko-Musume",
+        "english": "All Purpose Cultural Cat Girl Nuku Nuku",
+        "native": "万能文化猫娘"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 6,
+      "duration": 28,
+      "season": "FALL",
+      "seasonYear": 1992,
+      "averageScore": 64,
+      "popularity": 4999,
+      "favourites": 56,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Fantasia"
+          },
+          {
+            "name": "Starchild Records"
+          },
+          {
+            "name": "Animate"
+          },
+          {
+            "name": "Movic"
+          },
+          {
+            "name": "Discotek"
+          },
+          {
+            "name": "Animate Film"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1992,
+        "month": 10,
+        "day": 21
+      },
+      "endDate": {
+        "year": 1994,
+        "month": 5,
+        "day": 25
+      },
+      "description": "When Ryunosuke's pet cat dies in an accident, his inventor father \"resurrects\" the cat by placing its brain in an android body made in the form of a young girl. The Android, Nukunuku, has the dual purposes of being a companion/sister for Ryunosuke as well as being a bodyguard for his father. Nukunuku's extreme strength and feline agility are regularly needed to protect Ryunosuke and his father from Ryunusuke's mother who seeks to kidnap them both following her divorce from his father. Her motives towards Ryunusuke are simple motherly love, however her genius-inventor-ex-husband she wants to put to work designing weapons of mass destruction for her weapons company.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 374,
+      "idMal": 374,
+      "title": {
+        "romaji": "Bannou Bunka Neko-Musume DASH!",
+        "english": "All Purpose Cultural Cat Girl Nuku Nuku Dash!",
+        "native": "万能文化猫娘ＤＡＳＨ！"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 1998,
+      "averageScore": 60,
+      "popularity": 1821,
+      "favourites": 13,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Movic"
+          },
+          {
+            "name": "Ashi Productions"
+          },
+          {
+            "name": "Discotek"
+          },
+          {
+            "name": "King Records"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 9,
+        "day": 23
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 12,
+        "day": 23
+      },
+      "description": "It's in the not too distant future. One day Nuku-Nuku dropped in and began to live with the Natsume family. Having lost her memory, Nuku-Nuku assumed the identity of a beautiful girl named Atsuko Higuchi. She was so beautiful and gentle, and besides, she was such a great cook that Ryunosuke, 14, was all smiles. However, after her arrival in town, a series of mysterious incidents started to happen in Maneki City - Experimental machines running haywire, roaring fighter aircraft flying low, mass destruction in the city. In every case, a mysterious girl was spotted at the scene of the incident.<br><br>\n(Source: AnimeNfo)"
+    }
+  ]
+}

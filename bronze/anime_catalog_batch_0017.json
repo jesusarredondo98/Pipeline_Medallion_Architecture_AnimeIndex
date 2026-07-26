@@ -1,0 +1,2344 @@
+{
+  "ingestion_timestamp": "2026-07-26T17:33:16.967743+00:00",
+  "source": "anilist_graphql",
+  "source_page": 17,
+  "records": [
+    {
+      "id": 887,
+      "idMal": 887,
+      "title": {
+        "romaji": "Megami Kouhosei Special Curriculum",
+        "english": null,
+        "native": "女神候補生 スペシャルカリキュラム"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 2002,
+      "averageScore": 53,
+      "popularity": 883,
+      "favourites": 4,
+      "genres": [
+        "Action",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Visual"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 5,
+        "day": 25
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 5,
+        "day": 25
+      },
+      "description": "A retelling of the TV series from the point of view of one of the Goddess Pilots.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 888,
+      "idMal": 888,
+      "title": {
+        "romaji": "Megami Kouhosei",
+        "english": "Pilot Candidate",
+        "native": "女神候補生"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2000,
+      "averageScore": 57,
+      "popularity": 4462,
+      "favourites": 37,
+      "genres": [
+        "Action",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Xebec"
+          },
+          {
+            "name": "ING"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2000,
+        "month": 1,
+        "day": 20
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 3,
+        "day": 27
+      },
+      "description": "In the future humankind has expanded and colonized other planets. Then an alien species, Victim, attacks the human colonies leaving only one planet, Zion. In an effort to stop Victim from destroying the last planet a training school, GOA, is set up to gather boys from the Zion colonies and train them to become pilots of the Ingrids AKA The Goddesses, five fighting robots that protect Zion. The boys must possess a rare blood type, EO , as well as a special ability, or EX. Zero (Candidate 88) has just arrived in GOA when he falls into the cockpit of the Ingrid Eeva-Leena. Since the synch between pilot and Ingrid are very sensitive everyone believes the Goddess will kill Zero in an attempt to synch. Just before Zero passes out he makes a full synch with the Goddess. Before he can find out more about the incident, his pilot training begins.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 889,
+      "idMal": 889,
+      "title": {
+        "romaji": "BLACK LAGOON",
+        "english": "Black Lagoon",
+        "native": "BLACK LAGOON"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 78,
+      "popularity": 247409,
+      "favourites": 9228,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Selecta Visión"
+          },
+          {
+            "name": "Shogakukan-Shueisha Productions"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 4,
+        "day": 9
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 6,
+        "day": 25
+      },
+      "description": "Okajima Rokuro is a Japanese businessman in a town full of Japanese businessmen. His normal day consists of social drinking with clients and being kicked around by his bosses. He finally gets a break though, as he's sent by his company to the tropical seas of Eastern China to deliver a disc. But his boat gets hijacked by a band of mercenaries hired to retrieve the disc. Rock (as he is newly dubbed by his captors) catches the interest of the only female merc Revy as she thinks he's worth a ransom, taking him hostage. However, the disc that was stolen has a terrible secret that's unknown to Rock, which causes massive confusion and chaos for both him and his kidnappers."
+    },
+    {
+      "id": 890,
+      "idMal": 890,
+      "title": {
+        "romaji": "Yuusha-Ou GaoGaiGar",
+        "english": "The King of Braves: GaoGaiGar",
+        "native": "勇者王ガオガイガー"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 49,
+      "duration": 25,
+      "season": "WINTER",
+      "seasonYear": 1997,
+      "averageScore": 76,
+      "popularity": 8934,
+      "favourites": 297,
+      "genres": [
+        "Adventure",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Victor Entertainment"
+          },
+          {
+            "name": "Media Blasters"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1997,
+        "month": 2,
+        "day": 1
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 1,
+        "day": 31
+      },
+      "description": "In the year 2005, a race of alien monsters called Zonders emerge from underground and launch a series of attacks on the city of Tokyo. The only defense against these creatures is the secret agency known as the Gutsy Geoid Guard (or 3G) and their ultimate weapon, the awesome giant robot GaoGaiGar. GaoGaiGar's pilot, Guy Shishio, is a former astronaut who was nearly killed two years before when the Zonders first crashed to earth. Guy's life was spared when a mysterious robot lion called Galeon pulled him from the burning shuttle and brought him to Earth. Guy's father, Leo, then used Galeon's technology to rebuild his shattered son as a cyborg, in the hopes that he could stop the aliens when they appear. Now, with Galeon as its core, GaoGaiGar fights to protect Earth. He is aided by a team of transforming robots and by a young boy named Mamoru, who has the power to purify the Zonders' cores, and seems to be connected to the mysterious Galeon.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 891,
+      "idMal": 891,
+      "title": {
+        "romaji": "Dragon Ball: Majinjou no Nemuri Hime",
+        "english": "Dragon Ball: Sleeping Princess in Devil's Castle",
+        "native": "ドラゴンボール 魔神城のねむり姫"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 45,
+      "season": "SUMMER",
+      "seasonYear": 1987,
+      "averageScore": 63,
+      "popularity": 15454,
+      "favourites": 90,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1987,
+        "month": 7,
+        "day": 18
+      },
+      "endDate": {
+        "year": 1987,
+        "month": 7,
+        "day": 18
+      },
+      "description": "Goku and Kuririn are given an assignment by Kame-Sen'nin: \"Retrieve the sleeping princess from Lucifer and I will take you as my students.\" But the mission proves to be more perilous than originally thought.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 892,
+      "idMal": 892,
+      "title": {
+        "romaji": "Dragon Ball: Makafushigi Daibouken",
+        "english": "Dragon Ball: Mystical Adventure",
+        "native": "ドラゴンボール 摩訶不思議大冒険"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 45,
+      "season": "SUMMER",
+      "seasonYear": 1988,
+      "averageScore": 64,
+      "popularity": 14451,
+      "favourites": 98,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1988,
+        "month": 7,
+        "day": 9
+      },
+      "endDate": {
+        "year": 1988,
+        "month": 7,
+        "day": 9
+      },
+      "description": "A retelling of the meeting of Goku, Tenshinhan, and Chiaotzu. Also of the 23rd Tenkaichi Budokai.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 893,
+      "idMal": 893,
+      "title": {
+        "romaji": "Dragon Ball: Saikyou e no Michi",
+        "english": "Dragon Ball: The Path to Power",
+        "native": "ドラゴンボール 最強への道"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 74,
+      "season": "SPRING",
+      "seasonYear": 1996,
+      "averageScore": 68,
+      "popularity": 15463,
+      "favourites": 156,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1996,
+        "month": 3,
+        "day": 2
+      },
+      "endDate": {
+        "year": 1996,
+        "month": 3,
+        "day": 2
+      },
+      "description": "A retelling of Dragon Ball's origin with a different take on the meeting of Goku, Bulma, and Kame-Sen'nin. It also retells the Red Ribbon Army story; but this time they find Goku rather than Goku finding them.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 894,
+      "idMal": 894,
+      "title": {
+        "romaji": "Dragon Ball Z: Ora no Gohan wo Kaese!!",
+        "english": "Dragon Ball Z: Dead Zone",
+        "native": "ドラゴンボールZ オラの悟飯をかえせッ!!"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 41,
+      "season": "SUMMER",
+      "seasonYear": 1989,
+      "averageScore": 62,
+      "popularity": 30153,
+      "favourites": 197,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1989,
+        "month": 7,
+        "day": 15
+      },
+      "endDate": {
+        "year": 1989,
+        "month": 7,
+        "day": 15
+      },
+      "description": "Kami-sama's old nemesis's son has come to exact revenge on Kami-sama for winning the title of Earth's Guardian. After kidnapping Son Gohan and using the dragon balls to gain immortality, he has a final showdown with Goku.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 895,
+      "idMal": 895,
+      "title": {
+        "romaji": "Dragon Ball Z: Konoyo de Ichiban Tsuyoi Yatsu",
+        "english": "Dragon Ball Z: The World's Strongest",
+        "native": "ドラゴンボールＺ この世で一番強いヤツ"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 60,
+      "season": "SPRING",
+      "seasonYear": 1990,
+      "averageScore": 61,
+      "popularity": 26590,
+      "favourites": 166,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1990,
+        "month": 3,
+        "day": 10
+      },
+      "endDate": {
+        "year": 1990,
+        "month": 3,
+        "day": 10
+      },
+      "description": "The evil Dr. Wheelo has resurrected his brain into a robot and now desires to inhabit the body of the world's strongest warrior. This means he must face Son Goku and company in a fight for Goku's life.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 896,
+      "idMal": 896,
+      "title": {
+        "romaji": "Dragon Ball Z: Chikyuu Marugoto Chou Kessen",
+        "english": "Dragon Ball Z: The Tree of Might",
+        "native": "ドラゴンボールＺ 地球まるごと超決戦"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 61,
+      "season": "SUMMER",
+      "seasonYear": 1990,
+      "averageScore": 63,
+      "popularity": 32507,
+      "favourites": 237,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1990,
+        "month": 7,
+        "day": 7
+      },
+      "endDate": {
+        "year": 1990,
+        "month": 7,
+        "day": 7
+      },
+      "description": "The Saiyajin named Turlus has come to Earth in order to plant a tree that will both destroy the planet and give him infinite strength. Son Goku and the Z Warriors cannot let this happen and duke it out with the invaders for the sake of the planet.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 897,
+      "idMal": 897,
+      "title": {
+        "romaji": "Dragon Ball Z: Super Saiyajin da Son Goku",
+        "english": "Dragon Ball Z: Lord Slug",
+        "native": "ドラゴンボールＺ 超サイヤ人だ孫悟空"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 52,
+      "season": "SPRING",
+      "seasonYear": 1991,
+      "averageScore": 61,
+      "popularity": 30141,
+      "favourites": 206,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1991,
+        "month": 3,
+        "day": 19
+      },
+      "endDate": {
+        "year": 1991,
+        "month": 3,
+        "day": 19
+      },
+      "description": "A Super Namekian named Slug comes to invade Earth. But the Z Warriors do their best to stop Slug and his gang.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 898,
+      "idMal": 898,
+      "title": {
+        "romaji": "Dragon Ball Z: Tobikkiri no Saikyou Tai Saikyou",
+        "english": "Dragon Ball Z: Cooler's Revenge",
+        "native": "ドラゴンボールZ とびっきりの最強対最強"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 48,
+      "season": "SUMMER",
+      "seasonYear": 1991,
+      "averageScore": 68,
+      "popularity": 37864,
+      "favourites": 379,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1991,
+        "month": 7,
+        "day": 20
+      },
+      "endDate": {
+        "year": 1991,
+        "month": 7,
+        "day": 20
+      },
+      "description": "After defeating Freeza, Goku returns to Earth and goes on a camping trip with Gohan and Krillin. Everything is normal until Cooler - Freeza's brother - sends three henchmen after Goku. A long fight ensues between our heroes and Cooler, in which he transforms into the fourth stage of his evolution and has the edge in the fight...until Goku transforms into Super Saiyan.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 899,
+      "idMal": 899,
+      "title": {
+        "romaji": "Dragon Ball Z: Gekitotsu!! 100-oku Power no Senshi-tachi",
+        "english": "Dragon Ball Z: The Return of Cooler",
+        "native": "ドラゴンボールZ 激突!!100億パワーの戦士たち"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 45,
+      "season": "SPRING",
+      "seasonYear": 1992,
+      "averageScore": 64,
+      "popularity": 33453,
+      "favourites": 268,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1992,
+        "month": 3,
+        "day": 7
+      },
+      "endDate": {
+        "year": 1992,
+        "month": 3,
+        "day": 7
+      },
+      "description": "Cooler has resurrected himself as a robot and is enslaving the people of New Namek. Goku and the gang must help.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 900,
+      "idMal": 900,
+      "title": {
+        "romaji": "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiyajin",
+        "english": "Dragon Ball Z: Super Android 13!",
+        "native": "ドラゴンボールＺ 極限バトル！三大超サイヤ人"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 45,
+      "season": "SUMMER",
+      "seasonYear": 1992,
+      "averageScore": 64,
+      "popularity": 30958,
+      "favourites": 226,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1992,
+        "month": 7,
+        "day": 11
+      },
+      "endDate": {
+        "year": 1992,
+        "month": 7,
+        "day": 11
+      },
+      "description": "Dr. Gero's Androids #13, #14, and #15 are awakened by the laboratory computers and immediately head to the mall where Goku is shopping. After Goku, Trunks, and Vegeta defeat #14 and #15, #13 absorbs their inner computers and becomes a super being greater than the original three separately were. Now it is up to Goku to stop him.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 901,
+      "idMal": 901,
+      "title": {
+        "romaji": "Dragon Ball Z: Moetsukiro!! Nessen - Ressen - Chou Gekisen",
+        "english": "Dragon Ball Z: Broly - The Legendary Super Saiyan",
+        "native": "ドラゴンボールZ 燃えつきろ!!熱戦・烈戦・超激戦"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 72,
+      "season": "WINTER",
+      "seasonYear": 1993,
+      "averageScore": 70,
+      "popularity": 41089,
+      "favourites": 543,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1993,
+        "month": 3,
+        "day": 6
+      },
+      "endDate": {
+        "year": 1993,
+        "month": 3,
+        "day": 6
+      },
+      "description": "As Goku investigates the destruction of the Southern Galaxy, Vegeta is taken to be King of the New Planet Vegeta, and to destroy the Legendary Super Saiyan, Brolly. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 902,
+      "idMal": 902,
+      "title": {
+        "romaji": "Dragon Ball Z: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu",
+        "english": "Dragon Ball Z: Bojack Unbound",
+        "native": "ドラゴンボールZ 銀河ギリギリ!! ぶっちぎりの凄い奴"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 50,
+      "season": "SUMMER",
+      "seasonYear": 1993,
+      "averageScore": 68,
+      "popularity": 33145,
+      "favourites": 317,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1993,
+        "month": 7,
+        "day": 10
+      },
+      "endDate": {
+        "year": 1993,
+        "month": 7,
+        "day": 10
+      },
+      "description": "Mr. Money is holding another Tenka'ichi Budokai and Mr. Satan invites everyone in the world to join in. Little does he know that Bojack, an ancient villain who has escaped his prison, is competing. Since Goku is currently dead, it is up to Gohan, Vegeta, and Trunks to defeat Bojack and his henchman.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 903,
+      "idMal": 903,
+      "title": {
+        "romaji": "Dragon Ball Z: Kiken na Futari! Super Senshi wa Nemurenai",
+        "english": "Dragon Ball Z: Broly - Second Coming",
+        "native": "ドラゴンボールZ 危険なふたり! 超戦士はねむれない"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 50,
+      "season": "SPRING",
+      "seasonYear": 1994,
+      "averageScore": 64,
+      "popularity": 35474,
+      "favourites": 301,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 3,
+        "day": 12
+      },
+      "endDate": {
+        "year": 1994,
+        "month": 3,
+        "day": 12
+      },
+      "description": "After his loss to Goku, Broly crash lands and hibernates on earth. After some time, he is awakened by Trunks and Goten, who Broly believes is Kakarott, and goes on a rampage to kill both of them. At the same time, Gohan is on his way to challenge the Legendary Super Saiyan alone."
+    },
+    {
+      "id": 904,
+      "idMal": 904,
+      "title": {
+        "romaji": "Dragon Ball Z: Super Senshi Gekiha!! Katsu no wa Ore da",
+        "english": "Dragon Ball Z: Bio-Broly",
+        "native": "ドラゴンボールＺ 超戦士撃破!!勝のはオレだ"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 50,
+      "season": "SUMMER",
+      "seasonYear": 1994,
+      "averageScore": 52,
+      "popularity": 32861,
+      "favourites": 198,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 7,
+        "day": 9
+      },
+      "endDate": {
+        "year": 1994,
+        "month": 7,
+        "day": 9
+      },
+      "description": "Jaga Bada, Mr. Satan's old sparring partner, has invited Satan to his personal island to hold a grudge match. Trunks and Goten decide to come for the adventure and Android #18 is following Satan for the money he owes her. Little do they know that Jaga Bada's scientist have found a way to resurrect Broly, the legendary Super Saiyan."
+    },
+    {
+      "id": 905,
+      "idMal": 905,
+      "title": {
+        "romaji": "Dragon Ball Z: Fukkatsu no Fusion!! Goku to Vegeta",
+        "english": "Dragon Ball Z: Fusion Reborn",
+        "native": "ドラゴンボールＺ 復活のフュージョン!!悟空とベジータ"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 55,
+      "season": "SPRING",
+      "seasonYear": 1995,
+      "averageScore": 74,
+      "popularity": 41847,
+      "favourites": 702,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Studio Take Off"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1995,
+        "month": 3,
+        "day": 4
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 3,
+        "day": 4
+      },
+      "description": "Not paying attention to his job, a young demon allows the evil cleansing machine to overflow and explode, turning the young demon into the infamous monster Janemba. Goku and Vegeta make solo attempts to defeat the monster, but realize their only option is fusion.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 906,
+      "idMal": 906,
+      "title": {
+        "romaji": "Dragon Ball Z: Ryuuken Bakuhatsu!! Goku ga Yaraneba Dare ga Yaru",
+        "english": "Dragon Ball Z: Wrath of the Dragon",
+        "native": "ドラゴンボールＺ 龍拳爆発!!悟空がやらねば誰がやる"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 51,
+      "season": "SUMMER",
+      "seasonYear": 1995,
+      "averageScore": 71,
+      "popularity": 35969,
+      "favourites": 464,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1995,
+        "month": 7,
+        "day": 15
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 7,
+        "day": 15
+      },
+      "description": "The Z Warriors discover an unopenable music box and are told to open it with the dragon balls. The contents turn out to be a warrior named Tapion who had sealed himself inside along with a monster called Hildegarn. Goku must now perfect a new technique to defeat the evil monster.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 907,
+      "idMal": 907,
+      "title": {
+        "romaji": "Princess Princess",
+        "english": "Princess Princess",
+        "native": "プリンセス・プリンセス"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 65,
+      "popularity": 10999,
+      "favourites": 123,
+      "genres": [
+        "Comedy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "TV Asahi"
+          },
+          {
+            "name": "Media Blasters"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 4,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 6,
+        "day": 21
+      },
+      "description": "When beautiful Tooru transferred to an all-boys school, he received a warm welcome...but little did he know that his new classmates had nominated him for the academy's \"Princess System.\" The lovely campus \"Princesses\" must dress as girls (in frilly Gothic Lolita costumes) at school events in order to lighten the stolid masculine atmosphere. Tooru balks at first, but soon comes to realize the advantages of being a \"Princess.\"\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 908,
+      "idMal": 908,
+      "title": {
+        "romaji": "Hagane no Renkinjutsushi: PREMIUM COLLECTION",
+        "english": "Fullmetal Alchemist: Premium OVA Collection",
+        "native": "鋼の錬金術師 PREMIUM COLLECTION"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 8,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 68,
+      "popularity": 13125,
+      "favourites": 92,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "bones"
+          },
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "Square Enix"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 3,
+        "day": 29
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 3,
+        "day": 29
+      },
+      "description": "1. State Alchemists vs Seven Homunculi<br>\r\nA 10 minute film featuring: Ed, Al, Mustang and many other members of the State doing battle with the deadly Homonculi in an alternate reality Amestris.<br><br>\r\n2. Chibi Party (Enkai-hen)<br>\r\nShort 6 minute Skit drawn in Super Deformed style where every character in the series (including bad guys) are celebrating an \"After Party\" of the Conqueror of Shambala movie.<br><br>\r\n3. Kids (Kodomo-hen)<br>\r\nShort 3 minute story which features Edward and his grankids in present day 2005.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 909,
+      "idMal": 909,
+      "title": {
+        "romaji": "Geneshaft",
+        "english": "Gene Shaft",
+        "native": "ジーンシャフト"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 2001,
+      "averageScore": 58,
+      "popularity": 3685,
+      "favourites": 23,
+      "genres": [
+        "Adventure",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Satelight"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 4,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 6,
+        "day": 28
+      },
+      "description": "In the 21st century mankind was on the brink of destruction. Through genetic engineering however they eradicated such feelings as love and the desire for power. Since women are naturally less agressive than men, women to man ratio was set to 9:1. Now people are engineered to have skills that others view as being necessary. There is a giant ring that now orbits the earth, that sits there and relays information back to an alien race that sent it. Now a team of five women will try to eradicate the alien threat.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 910,
+      "idMal": 910,
+      "title": {
+        "romaji": "Himawari!",
+        "english": "Himawari!",
+        "native": "ひまわりっ!"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 58,
+      "popularity": 5214,
+      "favourites": 19,
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "ARMS"
+          },
+          {
+            "name": "Touhouku Shinsha"
+          },
+          {
+            "name": "Genco"
+          },
+          {
+            "name": "Starchild Records"
+          },
+          {
+            "name": "Maiden Japan"
+          },
+          {
+            "name": "Tohokushinsha Film Corporation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 4,
+        "day": 9
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 7,
+        "day": 2
+      },
+      "description": "Himawari Hinata recently transfered to Shinobi Gakuen to train to become the best kunoichi she can be. She wanted to be a ninja ever since she was saved by one when she was little. On her first day, she meets Hayato Madenokoji (a new transfer teacher) who saves her life. Hayato does not possess any ninja skills or traits, he is teaching the ninjas about normal society to pay off his debt. However, Himawari notices that Hayato bares the same mark on his neck as the ninja who saved her when she was young.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 911,
+      "idMal": 911,
+      "title": {
+        "romaji": "Konjiki no Gash Bell!!: Mecha Vulkan no Raishuu",
+        "english": "Zatch Bell! Attack of Mechavulcan",
+        "native": "劇場版　金色のガッシュベル!!　メカバルカンの来襲"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 84,
+      "season": "SUMMER",
+      "seasonYear": 2005,
+      "averageScore": 65,
+      "popularity": 1928,
+      "favourites": 21,
+      "genres": [
+        "Adventure",
+        "Mecha",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 8,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 8,
+        "day": 6
+      },
+      "description": "With only Coast School in mind, Takamine Kiyomaro leaves Gash bewildered that he&rsquo;ll make a new Volcan 300 for him to play with. The genius tries to catch up with the bus that would take him there, but a giant Volcan 300 kidnaps him. Meanwhile Gash befriends the same Vulcan that kidnapped Kiyomaro later named: Volcan 300 Generation 4. The genius wakes up to see that he isn&rsquo;t in Coast School, but that a doctor by the name M2 wants him to be his partner in the future. However, Gash and the other demons interfere with M2's plan in taking Kiyomaro to the future by the help of Generation 4 who agreed to take Gash there by a glitch in its system. Still the doctor tries to get Kiyomaro to come back with him, but with the help of everyone, he is defeated. Though a new situation is at hand, the time warp that M2 came from is out of control. It&rsquo;s up to Gash and the others to save the city or be sucked into it.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 912,
+      "idMal": 912,
+      "title": {
+        "romaji": "NINKU",
+        "english": null,
+        "native": "NINKU -忍空-"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 55,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 1995,
+      "averageScore": 65,
+      "popularity": 2569,
+      "favourites": 22,
+      "genres": [
+        "Adventure"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          },
+          {
+            "name": "Fuji TV"
+          },
+          {
+            "name": "Yomiuri Advertising"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1995,
+        "month": 1,
+        "day": 14
+      },
+      "endDate": {
+        "year": 1996,
+        "month": 2,
+        "day": 24
+      },
+      "description": "In the war, a group of warriors called Ninku fought against the Imperial Army and almost annihilated it. But in the end, the Ninku lost and got shattered. After the war, the imperial army established themselves as the defender of the people with the help of propaganda. They also managed to get the people to think the Ninku were the villains and had started the war. Fusuke looks like a child but he is the former captain of the first Ninku division. His mother was taken during the war and after the Ninku were defeated, he goes on a journey to find her. On his journey he meets Aicho and Touji, both also former Ninku captains, and together they fight against the imperial army that tries to kill the last remaining Ninkus.<br><br>\nThe ninku is a clan of extinct ninjas who command esoteric and powerful techniques, hence a lot of other groups are constantly trying to steal their techniques to take over the country. Their primary target is Fusuke, a weird looking kid but one of the most powerful Ninku ninja. Fusuke, together with other Ninku ninja with different specialties must fight those threat that caused the downfall of the Ninku clan.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 913,
+      "idMal": 913,
+      "title": {
+        "romaji": "Fighting Beauty Wulong",
+        "english": "Fighting Beauty Wulong",
+        "native": "格闘美神 武龍"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 25,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 59,
+      "popularity": 1622,
+      "favourites": 14,
+      "genres": [
+        "Action",
+        "Ecchi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TMS Entertainment"
+          },
+          {
+            "name": "TV Tokyo"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 10,
+        "day": 10
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 3,
+        "day": 26
+      },
+      "description": "At first glance, Mao Ran is a normal cute girl, but she is a master of a martial arts handed down by Mao family. One day, she is tricked by her grandfather, and forced to take part in the fighting match, \"Prime Mat\". First, she is reluctant to fight, but fighting against the rivals, she is gradually fascinated by the \"fighting\".<br><br>\n(Source: AnimeNfo)"
+    },
+    {
+      "id": 914,
+      "idMal": 914,
+      "title": {
+        "romaji": "Ike! Ina-chuu Takkyuubu",
+        "english": "The Ping-Pong Club",
+        "native": "行け! 稲中卓球部"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 1995,
+      "averageScore": 65,
+      "popularity": 4475,
+      "favourites": 55,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Sports"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Trans Arts"
+          },
+          {
+            "name": "Kitty Film"
+          },
+          {
+            "name": "Studio Hibari"
+          },
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "Central Park Media"
+          },
+          {
+            "name": "Grouper Production"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1995,
+        "month": 4,
+        "day": 6
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 9,
+        "day": 28
+      },
+      "description": "Inaho Jr. High's Boys Ping Pong Club has only 6 members, the club minimum. Takeda is your average nice guy. Kinoshita is good looking and popular with girls. Unfortunately, the rest are branded as losers. Tanabe is too foreign, while Tanaka is petite and perverse. Maena and Izawa are truly deviant, and their crazed antics have earned the team some powerful enemies. In spite of their differences, the team needs to work together to retain their practice room and club status.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 915,
+      "idMal": 915,
+      "title": {
+        "romaji": "Ginga Densetsu Weed",
+        "english": null,
+        "native": "銀牙伝説ウィード"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 68,
+      "popularity": 2937,
+      "favourites": 77,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "NAS"
+          },
+          {
+            "name": "SKY Perfect Well Think"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 11,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 5,
+        "day": 11
+      },
+      "description": "A dog named Weed happens to hear that he is the son of Gin, The great leader of Ohu, Who lead the dogs of Ohu to victory in a fight against monsterous bear Akakabuto. Weed wants to find his father no matter of what. On a way to his father Weed meets many friends and enemies.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 916,
+      "idMal": 916,
+      "title": {
+        "romaji": "TOKKOU",
+        "english": "Tokko",
+        "native": "TOKKÔ[特公]"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 59,
+      "popularity": 7459,
+      "favourites": 46,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror",
+        "Mystery",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Group TAC"
+          },
+          {
+            "name": "Manga Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 4,
+        "day": 16
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 7,
+        "day": 30
+      },
+      "description": "\"Shindou Ranmaru has just graduated from police academy and assigned to Tokko: Special Mobile Investigation Force. On the day of his graduation, he meets the half-naked girl he has been seeing in his dreams. Her name is Rokujo Sakura and she works for a secret group within Tokki, known as Tokko: Special Public Safety Task Force. Shindou ends up joining Tokko to avenge his parents' death, and solve the mysterious mass murder of residents in his hometown of Machida. Meanwhile, bottomless pits begin appearing around Japan, and mysterious creatures emerge from them. Could these events be linked to Machida Massacre?\"<br><br>\n(Source: DVD Complete Series Back Cover)"
+    },
+    {
+      "id": 917,
+      "idMal": 917,
+      "title": {
+        "romaji": "Riding Bean",
+        "english": null,
+        "native": "ライディング・ビーン"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 46,
+      "season": "WINTER",
+      "seasonYear": 1989,
+      "averageScore": 69,
+      "popularity": 10343,
+      "favourites": 124,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Youmex"
+          },
+          {
+            "name": "AnimEigo"
+          },
+          {
+            "name": "AIC"
+          },
+          {
+            "name": "Artmic"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1989,
+        "month": 2,
+        "day": 22
+      },
+      "endDate": {
+        "year": 1989,
+        "month": 2,
+        "day": 22
+      },
+      "description": "Bean Bandit and his partner Rally Vincent are couriers for hire - transporting clients and delivering goods in his custom sports car \"Roadbuster\" for a hefty price. But when they are hired to escort a kidnapped girl named Chelsea to her home, they don't realize they're being framed for kidnapping as their former clients Semmerling and Carrie plan their escape with Chelsea's father and the ransom money.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 918,
+      "idMal": 918,
+      "title": {
+        "romaji": "Gintama",
+        "english": "Gintama",
+        "native": "銀魂"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 201,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 85,
+      "popularity": 290931,
+      "favourites": 17064,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "Dentsu"
+          },
+          {
+            "name": "Trinity Sound"
+          },
+          {
+            "name": "Audio Highs"
+          },
+          {
+            "name": "Miracle Robo"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 4,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2010,
+        "month": 3,
+        "day": 25
+      },
+      "description": "Life isn't easy in feudal Japan... especially since the aliens landed and conquered everything! Oh sure, the new health care is great, but the public ban on the use of swords has left a lot of defeated samurai with a difficult decision to make concerning their future career paths! This is especially true if, as in the case of Gintoki Sakata, they're not particularly inclined towards holding a day job, which is why Gintoki's opted for the freelance route, taking any job that's offered to him as long as the financial remuneration sounds right. Unfortunately, in a brave new world filled with stray bug-eyed monsters, upwardly mobile Yakuza and overly ambitious E.T. entrepreneurs, those jobs usually don't pay as well as they should for the pain, suffering and indignities endured!<br><br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": 919,
+      "idMal": 919,
+      "title": {
+        "romaji": "RAY THE ANIMATION",
+        "english": "Ray",
+        "native": "RAY THE ANIMATION"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 62,
+      "popularity": 3972,
+      "favourites": 27,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "OLM"
+          },
+          {
+            "name": "Touhouku Shinsha"
+          },
+          {
+            "name": "Maiden Japan"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 4,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 6,
+        "day": 28
+      },
+      "description": "If you have enough money, you can buy anything. So why wait for an organ you need to become available? Raised to be harvested for parts, Ray had already lost her eyes when renegade surgeon Black Jack rescued her. Now, ten years later, she has grown up to be a surgeon herself. And thanks to the unique artificial eyes she received as replacements, she has a reputation for performing incredible medical operations that no one else could even attempt. But unknown to any but a select few, her surgical endeavors are only part of a greater mission: to discover what happened to the other children she was raised with, and to find the men who stole the eyes she was born with and to bring them to justice. <br><br>\n(Source: The Anime Network)"
+    },
+    {
+      "id": 920,
+      "idMal": 920,
+      "title": {
+        "romaji": "Nurse Witch Komugi-chan Magikarte: Kanwakyuudai Special - Futatabi Matsuri no Yokan de Wasshoi!",
+        "english": "Nurse Witch Komugi Special Ep: Hunch of another Festival",
+        "native": "ナースウィッチ小麦ちゃんマジカルて 特別 閑話休題すぺしゃる ~再び祭りの予感でワッショイ!~"
+      },
+      "format": "SPECIAL",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 27,
+      "season": "SUMMER",
+      "seasonYear": 2003,
+      "averageScore": 61,
+      "popularity": 2124,
+      "favourites": 10,
+      "genres": [
+        "Comedy",
+        "Mahou Shoujo"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "Rondo Robe"
+          },
+          {
+            "name": "Pioneer LDC"
+          },
+          {
+            "name": "Toshiba Entertainment"
+          },
+          {
+            "name": "Tatsunoko Production"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 6,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 6,
+        "day": 6
+      },
+      "description": "TV special, known as episode 2.5, takes place between episodes 2 and 3.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 921,
+      "idMal": 921,
+      "title": {
+        "romaji": "Nurse Witch Komugi-chan Magikarte Z",
+        "english": null,
+        "native": "ナースウィッチ小麦ちゃんマジカルてZ"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 30,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 64,
+      "popularity": 2501,
+      "favourites": 12,
+      "genres": [
+        "Comedy",
+        "Mahou Shoujo"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          },
+          {
+            "name": "Tatsunoko Production"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 9,
+        "day": 10
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 9,
+        "day": 22
+      },
+      "description": "Sequel to the first series."
+    },
+    {
+      "id": 924,
+      "idMal": 924,
+      "title": {
+        "romaji": "Transformers Masterforce",
+        "english": "Transformers Super-God Masterforce",
+        "native": "トランスフォーマー・超神マスターフォース"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 43,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 1988,
+      "averageScore": 60,
+      "popularity": 1127,
+      "favourites": 18,
+      "genres": [
+        "Adventure",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1988,
+        "month": 4,
+        "day": 12
+      },
+      "endDate": {
+        "year": 1989,
+        "month": 3,
+        "day": 7
+      },
+      "description": "Even though the Destrons have been driven off Earth, a small team of Cybertron Pretenders have remained behind, just in case. Led by Metalhawk (\"Hawk\" in his human identity), the Pretenders live among the humans, using their Pretender shells to assume human size and appearance. The Cybertrons' caution is rewarded: Destron Pretenders soon appear, led by a mysterious force called Devil Z. The Cybertrons and Destrons soon build up their forces, recruiting humans to become Junior Headmasters and Godmasters (Powermasters).\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 925,
+      "idMal": 925,
+      "title": {
+        "romaji": "Transformers Headmasters",
+        "english": "Transformers The Headmasters",
+        "native": "トランスフォーマー・ザ・ヘッドマスターズ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 35,
+      "duration": 23,
+      "season": "SUMMER",
+      "seasonYear": 1987,
+      "averageScore": 57,
+      "popularity": 1360,
+      "favourites": 15,
+      "genres": [
+        "Adventure",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1987,
+        "month": 7,
+        "day": 3
+      },
+      "endDate": {
+        "year": 1988,
+        "month": 3,
+        "day": 28
+      },
+      "description": "Headmasters starts with Galvatron leading a new batch of Destrons to wage war on Seibertron, the Destron Headmasters. The Cybertrons are rescued by the arrival of the Cybertron Headmasters, led by Fortress (Cerebros, the head of Fortress Maximus). It is revealed that Fortress left Seibertron millions of years ago in search of energy, and have finally managed to come home. He explains that the Headmasters are from a planet called Master; the human-sized robots who live there built themselves Transformers-sized bodies. They can then transform themselves into the heads of the robots, and have now joined the Cybertron-Destron war.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 926,
+      "idMal": 926,
+      "title": {
+        "romaji": "Transformers Victory",
+        "english": "Transformers Victory",
+        "native": "トランスフォーマー・ビクトリー"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 44,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 1989,
+      "averageScore": 64,
+      "popularity": 1136,
+      "favourites": 27,
+      "genres": [
+        "Adventure",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1989,
+        "month": 3,
+        "day": 14
+      },
+      "endDate": {
+        "year": 1989,
+        "month": 12,
+        "day": 19
+      },
+      "description": "Set in 2025 A.D., Transformers Victory introduces Star Saber, the mightiest Cybertron warrior and the greatest swordsman in the galaxy. The Destrons are continuing to invade planets throughout the universe, so the Cybertrons have joined with the humans to form the Space Defense Force, with Star Saber as its leader. Leading the Destrons is Deathzaras, who has targeted Earth as the next planet to plunder...\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 927,
+      "idMal": 927,
+      "title": {
+        "romaji": "Transformers: Superlink",
+        "english": "Transformers: Energon",
+        "native": "トランスフォーマー スーパーリンク"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 51,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2004,
+      "averageScore": 55,
+      "popularity": 1738,
+      "favourites": 28,
+      "genres": [
+        "Adventure",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Actas"
+          },
+          {
+            "name": "Hasbro"
+          },
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "NAS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 1,
+        "day": 9
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 12,
+        "day": 24
+      },
+      "description": "It has been 10 years since the fateful battle with Unicron. Many of the Decepticons who fought in the battle against Unicron have joined forces with the Autobos to mine for Energon, an alternate energy source. But a new source of evil has a risen, Alpha Q who plans to steal the Energon from the Autobots with the help of Scorponok and the Terrorcons. This new evil is trying to revive Megatron and Unicron in order to rekindle the old flames of war. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 928,
+      "idMal": 928,
+      "title": {
+        "romaji": "Transformers: Galaxy Force",
+        "english": "Transformers: Cybertron",
+        "native": "トランスフォーマー ギャラクシーフォース"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 52,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2005,
+      "averageScore": 62,
+      "popularity": 1879,
+      "favourites": 32,
+      "genres": [
+        "Adventure",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "GONZO"
+          },
+          {
+            "name": "Hasbro"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 1,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 12,
+        "day": 31
+      },
+      "description": "A huge black hole is about to swallow the entire universe, including the Transformers' home planet Cybertron.. While Galaxy Convoy and the others search for a solution, the Transformers escape from the collapsing planet and infiltrate Earth as \"robots in disguise\"...Galaxy Convoy encounters Vector Prime and learns of the existence of \"Planet Force\", an ancient relic capable of resetting entire planets, believed to have been lost thousands of years ago with Cybertronian explorers who failed to build a space bridge to the edge of the universe.\n<br><br>\nThus, Galaxy Convoy and the Cybertron warriors he leads embark on a grand adventure across the vast universe in order to find the Planet Force and awaken the ancient warrior Primus to save the universe. \n<br><br>\nHowever, Master Megatron and his underlings plot to control the entire universe by acquiring this power, and they relentlessly obstruct Galaxy Convoy and his friends...Will Galaxy Convoy and his friends be able to safely obtain Planet Force? \n<br><br>\n(Source: TV-Aichi, translated, edited)\n<br><br>\n<i>Note: The international version considers this series a sequel to Micron Densetsu (Armada) and Superlink (Energon), featuring references to characters and events from the two, as well as an additional scene in episode 51 linking the three.</i>\n<br><br>\n<i>Note: The US release initially combined episodes 1 and 2 into one, before ultimately airing a dubbed version of episode 2 as episode 52.</i>"
+    },
+    {
+      "id": 929,
+      "idMal": 929,
+      "title": {
+        "romaji": "Seisenshi Dunbine",
+        "english": "Aura Battler Dunbine",
+        "native": "聖戦士ダンバイン"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 49,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 1983,
+      "averageScore": 69,
+      "popularity": 7199,
+      "favourites": 94,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "ADV Films"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1983,
+        "month": 2,
+        "day": 5
+      },
+      "endDate": {
+        "year": 1984,
+        "month": 1,
+        "day": 21
+      },
+      "description": "Pulled into the mystical word of Byston Well from Japan after an accident, Show Zama is recruited with others by Lord Drake Luft to pilot his newest weapons. These Aura Battlers are a combination of Byston Well magic and Earthien technology. Marvel approaches Show during battle and convinces him of Luft’s sinister intentions.<br>\n<br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": 930,
+      "idMal": 930,
+      "title": {
+        "romaji": "Densetsu Kyojin Ideon",
+        "english": "Space Runaway Ideon",
+        "native": "伝説巨神イデオン"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 39,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 1980,
+      "averageScore": 73,
+      "popularity": 10816,
+      "favourites": 268,
+      "genres": [
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "Tokyu Agency"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1980,
+        "month": 5,
+        "day": 8
+      },
+      "endDate": {
+        "year": 1981,
+        "month": 1,
+        "day": 30
+      },
+      "description": "From the continuing reclamation of the ruins of the planet Solo, mysterious mechas are excavated. But suddenly, an alien called Buff Clan attacks seeking the limitless energy “Ide.” The earthlings are backed into a corner, when the three mechas piloted by the earth boy Yuki Cosmo and others fuse together. Becoming the giant robot Ideon, they use their incredible power to fight back against Buff Clan. <br><br>\n(Source: Sunrise)"
+    },
+    {
+      "id": 932,
+      "idMal": 932,
+      "title": {
+        "romaji": "Ichigeki Sacchuu!! Hoihoi-san",
+        "english": null,
+        "native": "一撃殺虫!!ホイホイさん"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 11,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 58,
+      "popularity": 2835,
+      "favourites": 30,
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Daume"
+          },
+          {
+            "name": "Genco"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 9,
+        "day": 30
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 9,
+        "day": 30
+      },
+      "description": "The time is the near future. Cockroaches and other household pests have become immune to all forms of insecticides. In response to this crisis, a Japanese company has created small, doll-like, insect exterminating robots called Hoi Hoi-san. A competing company has also released their own version, Combat-san. Because of their adorable appearance, these little robots have become somewhat of a phenomenon and have gained many fans. Late at night, in the home of one such fan, Hoi Hoi-san and Combat-san search for insects to exterminate... but Combat-san is not above trying to exterminate Hoi Hoi-san while she's at it."
+    },
+    {
+      "id": 933,
+      "idMal": 933,
+      "title": {
+        "romaji": "Dai Mahou Touge",
+        "english": "Magical Witch Punie-Chan",
+        "native": "大魔法峠"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 8,
+      "duration": 12,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 66,
+      "popularity": 9353,
+      "favourites": 90,
+      "genres": [
+        "Comedy",
+        "Mahou Shoujo",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "diomedéa"
+          },
+          {
+            "name": "Media Blasters"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 3,
+        "day": 20
+      },
+      "endDate": {
+        "year": 2007,
+        "month": 3,
+        "day": 21
+      },
+      "description": "Punie is next in line to become queen of Magical Land. However, she must spend a year on Earth before she can inherit the throne, so she transfers into a school in Japan. She's usually a sweet and gentle girl... that is unless someone does something to displease her, then she'll drop the act. She won't hesitate to whip out her magic stick and cheerfully rain bloody destruction down on the hapless fool, or barring that, simply use wrestling moves she calls \"Submission\" to punish them. Accompanied by her animal mascot Paya-tan, who makes regular attempts on her life (still bitter about being defeated and then forcibly recruited from Waku Waku Mascot Village), and forced to fend off random attacks by various people from her Kingdom who all have different reasons for wanting her dead, she must complete this year of training on Earth without fail."
+    },
+    {
+      "id": 934,
+      "idMal": 934,
+      "title": {
+        "romaji": "Higurashi no Naku Koro ni",
+        "english": "When They Cry",
+        "native": "ひぐらしのなく頃に"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 76,
+      "popularity": 175291,
+      "favourites": 5959,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "Frontier Works"
+          },
+          {
+            "name": "Sotsu"
+          },
+          {
+            "name": "DAX Production"
+          },
+          {
+            "name": "Sentai Filmworks"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 4,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 9,
+        "day": 27
+      },
+      "description": "After moving into the quiet town of Hinamizawa, Maebara Keiichi spends his days blissfully in school often playing games with his local friends. However, appearances can be deceiving. One fateful day, Keiichi stumbles upon news of a murder that had occurred in Hinamizawa. From this point on, horrific events unfold in front of Keiichi, as he soon learns his close friends may not be all that they seem. Based on the amateur mystery game by 07th Expansion, the story is told in a series of different scenarios."
+    },
+    {
+      "id": 935,
+      "idMal": 935,
+      "title": {
+        "romaji": "Witchblade",
+        "english": "Witchblade",
+        "native": "ウィッチブレイド"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 68,
+      "popularity": 21567,
+      "favourites": 274,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "GONZO"
+          },
+          {
+            "name": "GDH"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "SKY Perfect Well Think"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 4,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 9,
+        "day": 21
+      },
+      "description": "Masane Amaha and her daughter Rihoko are on the run from a government child welfare agency that wants to take Rihoko away from her mother. They are caught and Rihoko is taken away. Meanwhile, Masane is attacked by an advanced weapon that can disguise itself as a human being. When faced with the danger, a strange light emits from her wrist and she transforms into a powerful being. She destroys the weapon and consequently becomes involved in a power struggle between powerful organizations, with her at the center of their attention. Because she holds the greatest power of them all, the legendary Witchblade.<br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": 936,
+      "idMal": 936,
+      "title": {
+        "romaji": "NARUTO: Dai Gekitotsu! Maboroshi no Chitei Iseki Dattebayo",
+        "english": "Naruto the Movie: Legend of the Stone of Gelel",
+        "native": "劇場版 NARUTO -ナルト- 大激突!幻の地底遺跡だってばよ"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 97,
+      "season": "SUMMER",
+      "seasonYear": 2005,
+      "averageScore": 65,
+      "popularity": 46469,
+      "favourites": 313,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          },
+          {
+            "name": "Viz Media"
+          },
+          {
+            "name": "Bandai"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 8,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 8,
+        "day": 6
+      },
+      "description": "Naruto, Shikamaru, and Sakura are executing their mission of delivering a lost pet to a certain village. However, right in the midst of things, troops led by the mysterious knight, Temujin, attack them. In the violent battle, the three become separated. Temujin challenges Naruto to a fight and at the end of the fierce battle, both fall together from a high cliff. Furthermore, Shikamaru, having been left behind, beholds a giant moving fortress as it appears before his very eyes. In order to get a grasp on the situation, he infiltrates the fortress by himself, however once there he witnesses a frightening sight...\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 937,
+      "idMal": 937,
+      "title": {
+        "romaji": "Appleseed",
+        "english": "Appleseed",
+        "native": "アップルシード"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 68,
+      "season": "SPRING",
+      "seasonYear": 1988,
+      "averageScore": 59,
+      "popularity": 9239,
+      "favourites": 78,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Touhouku Shinsha"
+          },
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "Movic"
+          },
+          {
+            "name": "Gainax"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1988,
+        "month": 4,
+        "day": 21
+      },
+      "endDate": {
+        "year": 1988,
+        "month": 4,
+        "day": 21
+      },
+      "description": "Earth's last city, Olympus, rose from the ashes of global war on the backs of Bioroids, artificial clones who make up half the city's population. Under the guidance of a supercomputer, humanity's last survivors enjoy peace, but only on the surface. Human terrorists within the military seek a return to power and clash with the government's forces led by the legendary soldier, Deunan Knute, and her boyfriend who is 75% machine.<br>\n<br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": 938,
+      "idMal": 938,
+      "title": {
+        "romaji": "Shin Getter Robo vs. Neo Getter Robo",
+        "english": "Shin Getter Robo vs. Neo Getter Robo",
+        "native": "真ゲッターロボ対ネオゲッターロボ"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 4,
+      "duration": 27,
+      "season": "FALL",
+      "seasonYear": 2000,
+      "averageScore": 71,
+      "popularity": 3285,
+      "favourites": 78,
+      "genres": [
+        "Action",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Bee Media"
+          },
+          {
+            "name": "Discotek"
+          },
+          {
+            "name": "Dynamic Planning"
+          },
+          {
+            "name": "Brain's Base"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2000,
+        "month": 12,
+        "day": 21
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 6,
+        "day": 25
+      },
+      "description": "Years after the defeat of the Reptilian Empire, Getter Team has begun training on a new super robot, Neo Getter Robo. But a surprise attack from the Empire's revived leader forces them to recruit a street fighter named Go Ichimonji as Getter One's pilot. Faced with an enormously powerful foe, the new team's only hope for victory may lie in the resurrection of the lost weapon of humanity, Shin Getter Robo.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 940,
+      "idMal": 940,
+      "title": {
+        "romaji": "Inukami!",
+        "english": "Inukami!",
+        "native": "いぬかみっ!"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 67,
+      "popularity": 10993,
+      "favourites": 55,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Seven Arcs"
+          },
+          {
+            "name": "Starchild Records"
+          },
+          {
+            "name": "Yomiuri Advertising"
+          },
+          {
+            "name": "ASCII Media Works"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 4,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 9,
+        "day": 28
+      },
+      "description": "Kawahira Keita is a descendant of a historic Inukami tamer family. However, because he lacked in its ability, he was forsaken by the family. One day, an Inukami named Youko came. She looked graceful, obedient, above all, beautiful. Soon he contracted with her, and she paid homage to him. However, she was a problematic Inukami that no one had been able to control.<br><br>\nThis is a slap stick comedy of an Inukami Tamer, Keita and an Inukami, Youko. Keita is a man of worldly passions, and he likes money and girls very much. On the other hand, Youko likes to destroy things and is very jealous.<br><br>\n(Source: AnimeNfo)"
+    }
+  ]
+}

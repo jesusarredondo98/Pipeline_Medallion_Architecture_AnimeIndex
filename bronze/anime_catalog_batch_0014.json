@@ -1,0 +1,2307 @@
+{
+  "ingestion_timestamp": "2026-07-26T17:33:09.305936+00:00",
+  "source": "anilist_graphql",
+  "source_page": 14,
+  "records": [
+    {
+      "id": 706,
+      "idMal": 706,
+      "title": {
+        "romaji": "Comic Party Revolution",
+        "english": "Comic Party Revolution",
+        "native": "こみっくパーティー Revolution"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 61,
+      "popularity": 2310,
+      "favourites": 17,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Radix"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 4,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 6,
+        "day": 27
+      },
+      "description": "Sendo Kazuki, failed the entrance exam for the art college he was applying to, His childhood friend, Kuhonbutsu Taishi forced Kazuki to enter the doujin (private publishing) world. <br><br>\n(Source: AnimeNfo)"
+    },
+    {
+      "id": 707,
+      "idMal": 707,
+      "title": {
+        "romaji": "Comic Party Specials",
+        "english": null,
+        "native": "こみっくパーティー"
+      },
+      "format": "SPECIAL",
+      "status": "FINISHED",
+      "episodes": 4,
+      "duration": 7,
+      "season": "WINTER",
+      "seasonYear": 2003,
+      "averageScore": 56,
+      "popularity": 1040,
+      "favourites": 4,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "OLM"
+          },
+          {
+            "name": "KSS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 1,
+        "day": 13
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 1,
+        "day": 13
+      },
+      "description": "The DVD Specials.<br><br>\nKazuki, together with his friends, goes to a Comic Party that's going to be held in a hot spring. There, they make an incredible discovery that is going to reveal something amazing about comic conventions."
+    },
+    {
+      "id": 708,
+      "idMal": 708,
+      "title": {
+        "romaji": "Patapata Hikousen no Bouken",
+        "english": null,
+        "native": "パタパタ飛行船の冒険"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 25,
+      "season": "WINTER",
+      "seasonYear": 2002,
+      "averageScore": 71,
+      "popularity": 2838,
+      "favourites": 47,
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Telecom Animation Film"
+          },
+          {
+            "name": "SEGA"
+          },
+          {
+            "name": "WOWOW"
+          },
+          {
+            "name": "Telecom Animation Film"
+          },
+          {
+            "name": "ZET"
+          },
+          {
+            "name": "TMS Entertainment"
+          },
+          {
+            "name": "KOKO ENTERPRISE"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 1,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 6,
+        "day": 29
+      },
+      "description": "Jane's mother dies when she is born, and her father, a rich English aristocrat, soon remarries to a woman with a son, William, who despises his new father and brother. George and Jane grow up with a dream to make a flying machine. George believes the distant Asian sands hold a secret: a mysterious cerulean sand which can make machines fly. He goes on an expedition to find it, and soon is reported executed for treason. William disappears too. After she recieves an unsigned letter holding a handful of pale-blue sand which floats in the air, Jane is sure her brother is alive and leaves to the East to find him and prove him innocent. There are many mysteries to unravel in store for Jane and her new friends on her journey. But perhaps a mystery should forever remain a mystery... <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 709,
+      "idMal": 709,
+      "title": {
+        "romaji": "Mujin Wakusei Survive",
+        "english": null,
+        "native": "無人惑星サヴァイヴ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 52,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 75,
+      "popularity": 9610,
+      "favourites": 199,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Telecom Animation Film"
+          },
+          {
+            "name": "NHK"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 10,
+        "day": 16
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 28
+      },
+      "description": "In the future, most of mankind lives in artificial space colonies, climate-controlled and completely safe. The orphan girl Luna, selected to receive a scholarship at the prestigious Soria Academy, finds herself in quite different circumstances. An excursion gone terribly awry leads to Luna and her classmates being stranded on an uninhabited planet. Without any experience of untamed nature, the motley crew is faced with a challenging struggle to stay alive until rescue comes. If it comes...\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 710,
+      "idMal": 710,
+      "title": {
+        "romaji": "Rec",
+        "english": null,
+        "native": "レック"
+      },
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "episodes": 9,
+      "duration": 13,
+      "season": "WINTER",
+      "seasonYear": 2006,
+      "averageScore": 69,
+      "popularity": 24238,
+      "favourites": 165,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Shaft"
+          },
+          {
+            "name": "TBS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 2,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 3,
+        "day": 31
+      },
+      "description": "Fumihiko Matsumaru is an average salaryman with no girlfriend. He invited his colleague Miss Tanaka to a movie but was stood up. Right at the time he was about to toss tickets into a trash can, a cute girl appeared and asked him not to waste those two tickets. After movie and dinner, he escorted her home and found they live in the same neighborhood, yet unfortunately her apartment caught on fire hours later. Having nowhere else to stay, rookie seiyuu Aka Onda moved to Matsumaru's place, and the two had started a \"more than friend but not yet lovers\" relationship under the same roof while keeping this secret from their employers.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 711,
+      "idMal": 711,
+      "title": {
+        "romaji": "Uchuu Senkan Yamato (Movie)",
+        "english": "Space Battleship Yamato",
+        "native": "宇宙戦艦ヤマト"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 140,
+      "season": "SUMMER",
+      "seasonYear": 1977,
+      "averageScore": 64,
+      "popularity": 2796,
+      "favourites": 27,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Delfi Sound"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1977,
+        "month": 8,
+        "day": 6
+      },
+      "endDate": {
+        "year": 1977,
+        "month": 8,
+        "day": 6
+      },
+      "description": "In the distant future, the war between the human race and the Gamilon has taken its toll on the planet Earth. Constant bombardment of radioactive asteroids has rendered the planet's atmosphere uninhabitable. As a means of relief aid, Queen Starsha of the planet Iscandar offers the Earth Forces a device that can completely neutalize the radiation off the planet. For this task, the space battleship Yamato is launched from the remains of its World War II ancestor on a 148,000 light-year journey. However, the crew of the Yamato has only one Earth year to travel to Iscandar and back, or the human race will come to an end.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 712,
+      "idMal": 712,
+      "title": {
+        "romaji": "Zoids Genesis",
+        "english": "Zoids Genesis",
+        "native": "ゾイド ジェネシス"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 50,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 68,
+      "popularity": 3085,
+      "favourites": 42,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Mecha"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Viz Media"
+          },
+          {
+            "name": "Shogakukan Music & Digital Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 4,
+        "day": 10
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 3,
+        "day": 26
+      },
+      "description": "Natural disasters have devastated planet Zi, killing off almost all life. A thousand years later humans have gradually re-established civilization, salvaging ancient Zoids through diving and mining efforts. In a village whose most previous item is a giant sword which they worship as a holy symbol. A teenage boy discovers an ancient Liger-type Zoid while on a deep water salvage operation. Suddenly the village is attacked by skeletal Bio-Zoids intent on stealing a powerful generator located in the village. Our teenage hero awakens the Liger and discovers that the town`s sacred sword is the Liger`s weapon, together they fight off the mysterious Bio-Zoids. At least for now...<br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": 713,
+      "idMal": 713,
+      "title": {
+        "romaji": "AIR (Movie)",
+        "english": "Air: The Motion Picture",
+        "native": "AIR (劇場版)"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 91,
+      "season": "WINTER",
+      "seasonYear": 2005,
+      "averageScore": 67,
+      "popularity": 10258,
+      "favourites": 81,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Frontier Works"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 2,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 2,
+        "day": 5
+      },
+      "description": "Centuries ago, Kanna, a princess and the last of a winged race, was held prisoner in a castle as she was feared by the rest of the world. However, when she met a soldier named Ryuuya, she fell in love with him and told him of her wishes to see the outside world and to find her mother. Ryuuya attempted to fulfill these wishes. However, his efforts were in vain as Kanna was sealed in the sky through magic and cursed to be in pain for all eternity.<br><br>\nHundreds of years later, Yukito, a decendant of Ryuuya, comes to a quiet town one week before their annual festival with hopes that he can make some money. However, when he meets an unusual girl called Misuzu, he is reminded of what his mother once told him - \"When you go out on your journey, if you find the winged girl's re-incarnation, you must use your power to set her free\".<br><br>\nYukito and Misuzu's fates soon become intertwined with each other, with each developing feelings for the other. However when Yukito realizes Misuzu's connection to the past, he must decide on whether to leave, or to attempt to break the curse that has bound Kanna in centuries of pain.<br><br>\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": 714,
+      "idMal": 714,
+      "title": {
+        "romaji": "High School! Kimengumi",
+        "english": "High School! Kimengumi",
+        "native": "ハイスクール！奇面組"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 86,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 1985,
+      "averageScore": 69,
+      "popularity": 1843,
+      "favourites": 33,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Comet"
+          },
+          {
+            "name": "Tsuchida Productions"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1985,
+        "month": 10,
+        "day": 20
+      },
+      "endDate": {
+        "year": 1987,
+        "month": 10,
+        "day": 3
+      },
+      "description": "A group of 5 male high school students that call themselves the funny-face group cause trouble at school with their crazy antics. <br><br>\r\n(Source: AniDB)"
+    },
+    {
+      "id": 715,
+      "idMal": 715,
+      "title": {
+        "romaji": "Yume de Aetara",
+        "english": "If I See You in My Dreams",
+        "native": "夢で逢えたら (1999)"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 30,
+      "season": "SPRING",
+      "seasonYear": 1998,
+      "averageScore": 60,
+      "popularity": 2193,
+      "favourites": 22,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Ecchi",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "Shueisha"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 4,
+        "day": 21
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 12,
+        "day": 19
+      },
+      "description": "Masuo managed to get through all of high school and college without a girlfriend. A wizened fortune teller has predicted that it is his destiny to be alone for his entire life! When Masuo sees the beautiful Nagisa, his heart is awakened for the first time. He has serious competition in the form of the flawlessly handsome Kaizuka and the amazingly ugly Kujira.\nMasuo is determined to succeed, but he is stalled by his knack for ending up in compromising situations with other women at exactly the wrong moment.<br><br>\n(Source: Media Blasters, edited)"
+    },
+    {
+      "id": 718,
+      "idMal": 718,
+      "title": {
+        "romaji": "Yume de Aetara (TV)",
+        "english": "If I See You in My Dreams",
+        "native": "夢で逢えたら"
+      },
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "episodes": 16,
+      "duration": 7,
+      "season": "FALL",
+      "seasonYear": 1998,
+      "averageScore": 58,
+      "popularity": 2235,
+      "favourites": 17,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "J.C.STAFF"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 11,
+        "day": 30
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 12,
+        "day": 24
+      },
+      "description": "Fuguno Matsuo has never had a girlfriend all his 22 years in life and what makes things worse is that a fortune teller predicted that he never will. However, when he laid his eye on Nagisa-sensei he fell in-love right away and began earnestly wooing her. Along comes Hamaoka, a co-worker who is smitten with Fuguno, and a love-triangle ensues.<br>"
+    },
+    {
+      "id": 719,
+      "idMal": 719,
+      "title": {
+        "romaji": "Ai no Kusabi",
+        "english": "Ai no Kusabi",
+        "native": "間の楔"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 54,
+      "season": "SUMMER",
+      "seasonYear": 1992,
+      "averageScore": 62,
+      "popularity": 7091,
+      "favourites": 144,
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "AIC"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1992,
+        "month": 8,
+        "day": 1
+      },
+      "endDate": {
+        "year": 1994,
+        "month": 5,
+        "day": 1
+      },
+      "description": "On planet Amoi, a great society has developed, creating a computerized city called Tanagura, ruled by supercomputer Jupiter. The populace is almost entirely male and is based on hair color; silver and/or blonds are the elitist, ending with dark/black haired as the bottom of society, often known as \"mongrels\". Blondies keep \"pets\", young boys kept for a few years, especially made for performing sexual actions for the Blondie's voyeurism entertainment. Blondies aren't suppose to keep pets for long or interact sexually with pets, but one blondie named Iason Mink has kept a pet named Riki, for years and is rumored to sleep with him. Iason refuses to let go of Riki, even with Jupiter's disapproval. Riki fights with his emotions and society problems, unable to decide what to do about his old friend/lover Gai (Guy) and their gang. Iason is obsessed with keeping Riki, and Riki doesn't know what to do; fight against him or surrender to him."
+    },
+    {
+      "id": 721,
+      "idMal": 721,
+      "title": {
+        "romaji": "Princess Tutu",
+        "english": "Princess Tutu",
+        "native": "プリンセスチュチュ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 38,
+      "duration": 16,
+      "season": "SUMMER",
+      "seasonYear": 2002,
+      "averageScore": 81,
+      "popularity": 46169,
+      "favourites": 3067,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Mystery",
+        "Psychological",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Hal Film Maker"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "Memory-Tech"
+          },
+          {
+            "name": "GANSIS"
+          },
+          {
+            "name": "Marvelous"
+          },
+          {
+            "name": "Sentai Filmworks"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 8,
+        "day": 16
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 5,
+        "day": 23
+      },
+      "description": "In a fairy tale come to life, the clumsy, sweet, and gentle Ahiru (Japanese for 'duck') seems like an unlikely protagonist. In reality, Ahiru is just as magical as the talking cats and crocodiles that inhabit her town - for Ahiru really is a duck! Transformed by the mysterious Drosselmeyer into a human girl, Ahiru soon learns the reason for her existence. Using her magical egg-shaped pendant, Ahiru can transform into Princess Tutu - a beautiful and talented ballet dancer whose dances relieve people of the turmoil in their hearts. With her newfound ability, Ahiru accepts the challenge of collecting the lost shards of her prince's heart, for long ago he had shattered it in order to seal an evil raven away for all eternity.<br><br>\nPrincess Tutu is a tale of heroes and their struggle against fate. Their beliefs, their feelings, and ultimately their actions will determine whether this fairy tale can reach its \"happily ever after.\"<br>\n<br>\n<i>Note: Princess Tutu aired in two parts. The first part included 13 25-minute-long episodes, while the second part consisted of 24 12-minute-long episodes with a 25-minute-long final episode for a total of 38 episodes.</i>"
+    },
+    {
+      "id": 722,
+      "idMal": 722,
+      "title": {
+        "romaji": "Baby★LOVE",
+        "english": null,
+        "native": "ベイビィ★LOVE"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 30,
+      "season": "FALL",
+      "seasonYear": 1997,
+      "averageScore": 54,
+      "popularity": 1560,
+      "favourites": 7,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Comet"
+          },
+          {
+            "name": "Asatsu DK"
+          },
+          {
+            "name": "Nelke Planning"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1997,
+        "month": 11,
+        "day": 1
+      },
+      "endDate": {
+        "year": 1997,
+        "month": 11,
+        "day": 1
+      },
+      "description": "Seara loved Shuhei ever since she was a little girl. Although, Shuhei was three years older and much bigger than her. He told her to come back when she was older and more grown-up. A few years later, Seara grew to look like a high school student and managed to riggle her way into Shuhei's home. She will now attempt to win his heart, although there might be some obstacles in her path. <br>"
+    },
+    {
+      "id": 723,
+      "idMal": 723,
+      "title": {
+        "romaji": "Candy Candy (Movie)",
+        "english": null,
+        "native": "キャンディ・キャンディ"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 28,
+      "season": "SPRING",
+      "seasonYear": 1992,
+      "averageScore": 60,
+      "popularity": 1013,
+      "favourites": 10,
+      "genres": [
+        "Drama",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1992,
+        "month": 4,
+        "day": 25
+      },
+      "endDate": {
+        "year": 1992,
+        "month": 4,
+        "day": 25
+      },
+      "description": "A young girl named Candice White who was left on the doorstep of the \"Pony Home\", an orphanage, when she was just a baby. The sisters took her first name from a doll she had in her basket, with the name \"Candy\" on it, and her last name from the snowstorm she was rescued from. Life is quiet and happy.. or.. as quiet as life can be with Candy around. She has a penchant for getting into trouble, climbing trees and tussling with the best of them. However, tragedy begins to strike.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 724,
+      "idMal": 724,
+      "title": {
+        "romaji": "Enzai",
+        "english": null,
+        "native": "冤罪"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 2004,
+      "averageScore": 41,
+      "popularity": 2281,
+      "favourites": 14,
+      "genres": [
+        "Hentai",
+        "Horror"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Langmaor"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 4,
+        "day": 23
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 22
+      },
+      "description": "The protagonist is Guys, a young boy from a poor family, who gets caught for stealing candy from a Paris store. <br><br>\nHowever, after being railroaded by a city detective named Guildias, Guys finds himself accused, convicted, and sentenced to life imprisonment for the murder of a man he never met.<br><br>\nFrom that point on, most Enzai takes place inside a dark, claustrophobic, dirty prison, in there, Guys experiences humiliation and torture of various kinds, much of it involving sexual acts such as rape and forcible sodomy.<br><br>"
+    },
+    {
+      "id": 725,
+      "idMal": 725,
+      "title": {
+        "romaji": "First Kiss★Monogatari: Kiss kara Hajimaru Monogatari",
+        "english": null,
+        "native": "ファーストKiss★物語 〜Kissからはじまる物語〜"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 31,
+      "season": "WINTER",
+      "seasonYear": 2000,
+      "averageScore": 43,
+      "popularity": 985,
+      "favourites": 6,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Broccoli"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2000,
+        "month": 2,
+        "day": 14
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 2,
+        "day": 14
+      },
+      "description": "Kana's having trouble studying for her college entrance exams, and the way her older boyfriend is all but ignoring her isn't helping the matter. It all changes when she meets Shogo, a new teacher at her school and a relative of her father... one that's moving into her house!"
+    },
+    {
+      "id": 727,
+      "idMal": 727,
+      "title": {
+        "romaji": "Kingyo Chuuihou!",
+        "english": null,
+        "native": "きんぎょ注意報!"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 54,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 1991,
+      "averageScore": 70,
+      "popularity": 2045,
+      "favourites": 53,
+      "genres": [
+        "Comedy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1991,
+        "month": 1,
+        "day": 12
+      },
+      "endDate": {
+        "year": 1992,
+        "month": 2,
+        "day": 29
+      },
+      "description": "The show starts with the tale of Chitose Fujinomiya, a girl who goes from riches to rags and back and remains a snob despite it all. When her wealthy father dies, remaining debts leave Chitose almost broke, and she is kicked out of the affluent Tokai no Gakuen, or City Academy. She is left with nothing in the world but the clothes on her back and one pink goldfish named Gyopi-chan, the only memento she has of her father. Wandering lost, she collapses on the grounds of the poor-but-happy Inaka no Chugakko (Country Jr. High School), where the students are rough if friendly, and farm animals regularly roam the school grounds and even attend class. Recovering, she enters into the school but is repelled by its air of poverty, to which she is unaccustomed.  <br><br>\n(Source: AnimeNfo)"
+    },
+    {
+      "id": 729,
+      "idMal": 729,
+      "title": {
+        "romaji": "Hiatari Ryoukou!",
+        "english": "Sunny Ryoko",
+        "native": "陽あたり良好！"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 48,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 1987,
+      "averageScore": 67,
+      "popularity": 2351,
+      "favourites": 28,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Sports"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Group TAC"
+          },
+          {
+            "name": "Toho"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1987,
+        "month": 3,
+        "day": 29
+      },
+      "endDate": {
+        "year": 1988,
+        "month": 3,
+        "day": 20
+      },
+      "description": "Kishimoto Kasumi, a 15-year-old girl, was supposed to live at her auntie's house in order to go to high school since April. However, when she moved to the house she was surprised with the fact that there were already four new male students living in the same house. To make the matter worse, that day while she was taking a bath, Takasugi Yusaku, one of those boys, came into the bath and saw her naked. This is how Kasumi's troublesome high school days started. <br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": 730,
+      "idMal": 730,
+      "title": {
+        "romaji": "Houkago no Shokuinshitsu",
+        "english": "After School in the Teachers' Lounge",
+        "native": "放課後の職員室"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 28,
+      "season": "SPRING",
+      "seasonYear": 1994,
+      "averageScore": 39,
+      "popularity": 1399,
+      "favourites": 6,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Daiei"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 4,
+        "day": 16
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 1,
+        "day": 27
+      },
+      "description": "Two teachers and their ups and downs of being in love with each other."
+    },
+    {
+      "id": 731,
+      "idMal": 731,
+      "title": {
+        "romaji": "Interstella 5555: THE 5TORY OF THE 5ECRET 5TAR 5YSTEM",
+        "english": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+        "native": "インターステラ5555：THE 5TORY OF THE 5ECRET 5TAR 5YSTEM"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 67,
+      "season": "SPRING",
+      "seasonYear": 2003,
+      "averageScore": 77,
+      "popularity": 20303,
+      "favourites": 663,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Music",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "EMI"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 5,
+        "day": 28
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 5,
+        "day": 28
+      },
+      "description": "This film is a visual companion piece to \"Discovery\", an album by Daft Punk. It tells the story of a band of four extraterrestrial musicians who are kidnapped and brought back to Earth by an evil manager. Their only hopes lie with a space pilot from their home planet who, after receiving a distress call broadcasted during the abduction, seeks out to rescue them."
+    },
+    {
+      "id": 732,
+      "idMal": 732,
+      "title": {
+        "romaji": "Vampire Hunter D",
+        "english": "VAMPIRE HUNTER D",
+        "native": "吸血鬼ハンターD"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 80,
+      "season": "FALL",
+      "seasonYear": 1985,
+      "averageScore": 65,
+      "popularity": 34190,
+      "favourites": 564,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Ajiado"
+          },
+          {
+            "name": "Trans Arts"
+          },
+          {
+            "name": "Movic"
+          },
+          {
+            "name": "Studio Kyuuma"
+          },
+          {
+            "name": "Ashi Productions"
+          },
+          {
+            "name": "Studio Live"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1985,
+        "month": 12,
+        "day": 21
+      },
+      "endDate": {
+        "year": 1985,
+        "month": 12,
+        "day": 21
+      },
+      "description": "10,000 years in the future, the world has become a very different place; monsters roam the land freely, and people, although equiped with high tech weapons and cybernetic horses, live a humble life more suited to centuries past. The story focuses on a small hamlet plagued by monster attacks and living under the shadow of rule by Count Magnus Lee, a powerful vampire lord who has ruled the land for thousands of years. When a young girl is bitten by the Count and chosen as his current plaything, she seeks out help of a quiet wandering stranger, D. It so happens that D is one of the world`s best vampire hunters, and he takes it upon himself to cut through Magnus Lee`s many minions, and put an end to the Count`s rule.<br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": 733,
+      "idMal": 733,
+      "title": {
+        "romaji": "KIZUNA",
+        "english": null,
+        "native": "KIZUNA－絆－"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 30,
+      "season": "SUMMER",
+      "seasonYear": 1994,
+      "averageScore": 53,
+      "popularity": 2084,
+      "favourites": 17,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "SIDO"
+          },
+          {
+            "name": "Daiei"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 8,
+        "day": 12
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 9,
+        "day": 29
+      },
+      "description": "Ranmaru and Kei have a strong and passionate relationship built on years of trust, sacrifice and love. But when the mysterious son of a Yakuza boss begins to pursue Ranmaru's affection, tempers flare, and hidden emotions rise to the surface. Will Ranmaru and Kei's love survive, or will the emotional conflict finally come to a head?<br><br>\n(Source: Be Beautiful)"
+    },
+    {
+      "id": 734,
+      "idMal": 734,
+      "title": {
+        "romaji": "KIZUNA: Koi no Karasawagi",
+        "english": "Kizuna: Much Ado About Nothing",
+        "native": "KIZUNA -絆- 恋のから騒ぎ"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 44,
+      "season": "SPRING",
+      "seasonYear": 2001,
+      "averageScore": 56,
+      "popularity": 1244,
+      "favourites": 14,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "ZEXCS"
+          },
+          {
+            "name": "KSS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 3,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 3,
+        "day": 3
+      },
+      "description": "Enjouji and Ranmaru are a mostly-happy couple, but when Ranmaru finds lipstick on Enjouji, he becomes suspicious and leaves in a huff. Enjouji follows Ranmaru throughout the day. As they do so, the two men think about their past and their uncertain future. <br>"
+    },
+    {
+      "id": 736,
+      "idMal": 736,
+      "title": {
+        "romaji": "Kairaku no Houteishiki: LEVEL-C",
+        "english": "Level C: Pleasure Equation",
+        "native": "快楽の方程式 LEVEL-C"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 30,
+      "season": "SUMMER",
+      "seasonYear": 1995,
+      "averageScore": 49,
+      "popularity": 1652,
+      "favourites": 5,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "Milky Animation Label"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "Kitty Media"
+          },
+          {
+            "name": "Video Project"
+          },
+          {
+            "name": "Super BBC"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1995,
+        "month": 7,
+        "day": 14
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 7,
+        "day": 14
+      },
+      "description": "Mizuki is a male fashion model with a nice apartment. Kazuomi just had his girlfriend kick him out. Kazuomi sets out to find someone new to live with and sees Mizuki on the street. Kazuomi thinks Mizuki is cute and asks to stay with him in exchange for great sex. Mizuki thinks he is joking until they are at his apartment later that night and Kazuomi makes good on his promise.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 738,
+      "idMal": 738,
+      "title": {
+        "romaji": "MÄR",
+        "english": "Marchen Awakens Romance",
+        "native": "メル"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 102,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 67,
+      "popularity": 10363,
+      "favourites": 158,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "Shogakukan-Shueisha Productions"
+          },
+          {
+            "name": "SynergySP"
+          },
+          {
+            "name": "Viz Media"
+          },
+          {
+            "name": "A Line"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 4,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2007,
+        "month": 3,
+        "day": 25
+      },
+      "description": "Dreaming of a magical world every night, the young Toramizu Ginta yearns to be able to go there. With only his friend Koyuki believing in his dreams, Ginta remains positive despite the slander he receives from others over his dreams. But his wishes are answered, as one day a large door appears in front of Ginta, summoning him to the land of MAR Heaven. In this land, the weapons known as ARMS exist. While initially Ginta greatly enjoyed the discovery of this magical world, he soon learns of the terrible wars that have once plagued MAR Heaven and the upcoming war that may soon appear."
+    },
+    {
+      "id": 740,
+      "idMal": 740,
+      "title": {
+        "romaji": "Bishoujo Senshi Sailor Moon R",
+        "english": "Sailor Moon R",
+        "native": "美少女戦士セーラームーン R"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 43,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 1993,
+      "averageScore": 76,
+      "popularity": 35074,
+      "favourites": 732,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "TV Asahi"
+          },
+          {
+            "name": "Viz Media"
+          },
+          {
+            "name": "Madman Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1993,
+        "month": 3,
+        "day": 6
+      },
+      "endDate": {
+        "year": 1994,
+        "month": 3,
+        "day": 12
+      },
+      "description": "The season is divided into two arcs.<br><br>\nThe first arc shows Usagi and Co. having their memories restored from the first season. Their enemies are a pair of aliens, Ail and Ann, who are seeking human energy to restore their life tree. Mamoru had yet to recover his memories and he appeared as the Moonlight Knight rather than Tuxedo Kamen. This arc only lasted for 13 episodes. <br><br>\nThe second arc introduces Chibi-Usa, a little girl from the future who is searching for the Silver Crystal. The new enemies are the Black Moon Clan, comprising of the Ayakashi sisters (Cooan, Beruche, Karaberas, and Petz), Rubeus, Safir, Esmeraude, Prince Demando, and Wiseman. They too want the Silver Crystal so that they can take over the future. The Sailor Senshi's adventure continues..."
+    },
+    {
+      "id": 741,
+      "idMal": 741,
+      "title": {
+        "romaji": "Sensitive Pornograph",
+        "english": null,
+        "native": "センシティブ・ポルノグラフ"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 31,
+      "season": "WINTER",
+      "seasonYear": 2004,
+      "averageScore": 58,
+      "popularity": 4792,
+      "favourites": 43,
+      "genres": [
+        "Drama",
+        "Hentai",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Phoenix Entertainment"
+          },
+          {
+            "name": "Digital Works"
+          },
+          {
+            "name": "Slash"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 12,
+        "day": 20
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 12,
+        "day": 20
+      },
+      "description": "Featuring two short stories, the first is about two manga-ka  with a ten year age difference, Seiji Yamada and Sono Hanasaki and their intimate love life and problems. The second story is about the strange incident that happens to pet-sitter Ueno when he goes to take care of a pet rabbit named Aki, who he finds out is actually a human man.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 743,
+      "idMal": 743,
+      "title": {
+        "romaji": "Umi ga Kikoeru",
+        "english": "Ocean Waves",
+        "native": "海がきこえる"
+      },
+      "format": "SPECIAL",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 72,
+      "season": "SPRING",
+      "seasonYear": 1993,
+      "averageScore": 63,
+      "popularity": 47738,
+      "favourites": 682,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "Studio Ghibli"
+          },
+          {
+            "name": "GKIDS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1993,
+        "month": 5,
+        "day": 5
+      },
+      "endDate": {
+        "year": 1993,
+        "month": 5,
+        "day": 5
+      },
+      "description": "Ocean Waves is high school love story set in Kochi, Japan. Morisaki Taku and Matsuno Yutaka are best friends when a girl from Tokyo named Muto Rikako transfers to their school. Excluding herself from group activities, she&rsquo;s eventually labeled a snob. Matsuno has a crush on Rikako, so it&rsquo;s no surprise that he gets a little jealous when Morisaki and Rikako start spending more time together. The rumors around school get worse, but Morisaki still insists there is nothing between him and Rikako. <br>"
+    },
+    {
+      "id": 744,
+      "idMal": 744,
+      "title": {
+        "romaji": "Trouble Chocolate",
+        "english": null,
+        "native": "トラブルチョコレート"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 20,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 1999,
+      "averageScore": 61,
+      "popularity": 1734,
+      "favourites": 19,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Robot"
+          },
+          {
+            "name": "AIC"
+          },
+          {
+            "name": "TV Asahi"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 10,
+        "day": 9
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 3,
+        "day": 25
+      },
+      "description": "Cacao, a student at Micro Grand Academy, wakes up one morning to find a girl made of wood sleeping in bed with him. She is Hinano, a tree spirit who possessed the body of a wooden puppet after Cacao messed up his magic teacher's spell. Having taken an instant liking to Cacao, Hinano enrolls in his school. Between Hinano, monsters, two strange twins and their four-eyed cat master, a demon boy, odd teachers and students, and the fact that he may have the potential to be one of the greatest magic users of all time, Cacao's life seems to have taken several turns for the worse...and the weird.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 746,
+      "idMal": 746,
+      "title": {
+        "romaji": "Papa to♥KISS IN THE DARK",
+        "english": "Papa to Kiss in the Dark",
+        "native": "パパと♥KISS IN THE DARK"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 30,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 46,
+      "popularity": 6259,
+      "favourites": 50,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TNK"
+          },
+          {
+            "name": "Hakusensha"
+          },
+          {
+            "name": "Three Fat Samurai"
+          },
+          {
+            "name": "Sol Blade"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 11,
+        "day": 23
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 12,
+        "day": 21
+      },
+      "description": "Munakata Mira is in love with his father, the famous Hollywood actor Munakata Kyousuke. Unknown to the public, both of them are father and son as well as lovers. When Mira turns 15 and enters high school, he faces trouble with his childhood friend falling in love with him. Also, finding out he is adopted only distresses him further. Then there's the problem of Kyousuke probably marrying a famous actress, whose son seems to have an interest in Mira.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 747,
+      "idMal": 747,
+      "title": {
+        "romaji": "Haru wo Daiteita",
+        "english": "Embracing Love: Cherished Spring",
+        "native": "春を抱いていた"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 29,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 58,
+      "popularity": 3794,
+      "favourites": 45,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Kitty Media"
+          },
+          {
+            "name": "Trinet Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 31
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 5,
+        "day": 27
+      },
+      "description": "The adorable and attractive main characters of Haru wo Daiteita are Kyousuke Iwaki and Youji Katou who are both in the film industry, having starred in various adult video films and are trying to climb the ladder of success and become greater actors. Iwaki is accepted to star in a popular movie, having beaten Katou in the auditions. During their time together, Katou believes he is in love with Iwaki-San, who on the contrary refuses to believe that he is in love. It is later on that another gay actor comes back to Japan and co-stars with Katou that problems starting arising. And it is from then on that the two realise where their hearts are set.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 748,
+      "idMal": 748,
+      "title": {
+        "romaji": "True Love Story Summer Days; and yet...",
+        "english": null,
+        "native": "True Love Story Summer Days; and yet..."
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 53,
+      "popularity": 1317,
+      "favourites": 4,
+      "genres": [
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "KSS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 9,
+        "day": 26
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 4,
+        "day": 23
+      },
+      "description": "When Morisaki Yuuta ran into a girl in the school hallway that day, he had no idea his life would change forever. As a member of the photography club and a fledgling to the world of women, Yuuta's life has been turned upside down by the entrance of not one, but several women into his life! From old friends to new acquaintances, it will be tough figuring out who to choose!<br><br>\n It is based on the latest installment of the True Love Story series of dating sims."
+    },
+    {
+      "id": 749,
+      "idMal": 749,
+      "title": {
+        "romaji": "Nanami-chan",
+        "english": null,
+        "native": "ななみちゃん"
+      },
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 5,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 51,
+      "popularity": 370,
+      "favourites": 1,
+      "genres": [
+        "Comedy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Robot"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 2
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 1,
+        "day": 8
+      },
+      "description": "Michi and her family have just moved into the Happiness House, a huge tree with all sorts of little buildings and houses built on and inside of it. Upon exploring what is to be her new bedroom, Michi finds an odd nut-like object. Before long, a strange creature, Nanami-chan, hatches out of it. The two become fast friends. Together, Michi and Nanami-chan learn all kind of new things, and everyday they meet more eccentric residents of the Happiness House. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 750,
+      "idMal": 750,
+      "title": {
+        "romaji": "Binchou-tan",
+        "english": null,
+        "native": "びんちょうタン"
+      },
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 12,
+      "season": "WINTER",
+      "seasonYear": 2006,
+      "averageScore": 68,
+      "popularity": 4858,
+      "favourites": 123,
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "Frontier Works"
+          },
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "Alchemist"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 2,
+        "day": 2
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 4,
+        "day": 15
+      },
+      "description": "This is a story about a little girl who lives in an old house in the mountains. Her name is Bincho-tan. Each episode depicts a day in the life of Bincho-tan as she prepares her breakfast in the morning, goes to the forest to gather vegetables, does her household chores and rests at night after a day's work. She is surrounded by a group of close friends who add color to her ordinary yet simple life."
+    },
+    {
+      "id": 751,
+      "idMal": 751,
+      "title": {
+        "romaji": "Bomberman Jetters",
+        "english": null,
+        "native": "ボンバーマン ジェッターズ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 52,
+      "duration": 23,
+      "season": "FALL",
+      "seasonYear": 2002,
+      "averageScore": 62,
+      "popularity": 1444,
+      "favourites": 35,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio DEEN"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 10,
+        "day": 2
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 9,
+        "day": 24
+      },
+      "description": "Deep Space, many different cultures have come together to live on planet Jet. To keep the peace an organization known as the Jetters is formed. This space police group fight against the villains known as the \"Hige hige dan\" making sure that the universe is safe. The leader of the Jetters Mighty is a powerful Bomberman, who is looked up to and respected....his brother however is a lazy crude slacker named Shirobon. Suddenly Mighty disappears and Shiro finds himself placed in a new situation. Shiro steps up and become a responsible Bomberman, and with the new friends he made of the Jetters it may become possible for him to be the next \"Jetters leader.\"\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 752,
+      "idMal": 752,
+      "title": {
+        "romaji": "Osakana wa Ami no Naka",
+        "english": null,
+        "native": "おさかなはあみの中"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 30,
+      "season": "SUMMER",
+      "seasonYear": 1994,
+      "averageScore": 36,
+      "popularity": 1284,
+      "favourites": 8,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Echo"
+          },
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "Oakla Publishing"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 7,
+        "day": 21
+      },
+      "endDate": {
+        "year": 1994,
+        "month": 7,
+        "day": 21
+      },
+      "description": "The story is about Yuuji Tsukamoto, a young buisnessman and great swimmer, and Matsui Takahiro, who is still attending school and is also a beginner in swimming."
+    },
+    {
+      "id": 753,
+      "idMal": 753,
+      "title": {
+        "romaji": "Chijoku Shinsatsushitsu",
+        "english": "Doctor Shameless",
+        "native": "恥辱診察室"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 30,
+      "season": "SPRING",
+      "seasonYear": 2003,
+      "averageScore": 55,
+      "popularity": 1068,
+      "favourites": 12,
+      "genres": [
+        "Hentai"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Milky Animation Label"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "T-REX"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 5,
+        "day": 25
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 9,
+        "day": 25
+      },
+      "description": "Dr. Shinji Ishida is a doctor working at a hospital on the brink of ruin. People have heard that this doctor has brought many hospitals back from financial ruin, however his methods are what you might say \"unorthodox\". After his sessions the patients can't seem to get enough of being treated by him which naturally causes the hospital to be full of money again.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 754,
+      "idMal": 754,
+      "title": {
+        "romaji": "Yuki no Joou",
+        "english": "The Snow Queen",
+        "native": "雪の女王"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 36,
+      "duration": 20,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 67,
+      "popularity": 1739,
+      "favourites": 21,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "NHK Enterprises"
+          },
+          {
+            "name": "TMS Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 5,
+        "day": 22
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 2,
+        "day": 12
+      },
+      "description": "Based on the children's story by Hans Christian Andersen. <br><br>\nGerda and Kai have been neighbors and best friends since childhood. Gerda is eleven, Kai twelve. They were happy children who worked and played as they should. All that changed when the Snow Queen's mirror broke. The shards spread all through the world, each containing evil. If a shard went inside your eye, it would turn your heart to ice. A shard went into Kai's eye. After that, he grew cold to those he loved. <br><br>\nOne night, the Snow Queen came in her carriage and took Kai back to her ice castle at the farthest north point of the world. Everyone in Kai and Gerda's village didn't know where he went and believed he died from drowning in the frozen-over lake. Gerda doesn't believe this, for she dreamed of seeing Kai enter the carriage. When a drunk man admits that he also saw this, Gerda starts realizing that maybe what she saw wasn't a dream. She packs her things and goes on a journey to save Kai and bring him back home. <br><br>\n(Source: Wikipedia)"
+    },
+    {
+      "id": 755,
+      "idMal": 755,
+      "title": {
+        "romaji": "Boku no Sexual Harassment",
+        "english": "My Sexual Harassment",
+        "native": "僕のセクシャルハラスメント"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 36,
+      "season": "WINTER",
+      "seasonYear": 1994,
+      "averageScore": 45,
+      "popularity": 2051,
+      "favourites": 13,
+      "genres": [
+        "Drama",
+        "Hentai"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "Triple X"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 12,
+        "day": 15
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 10,
+        "day": 6
+      },
+      "description": "Mochizuki is a young business man who works in an office. While doing his job, his boss, Honma, comes in and starts to fondle him. Honma says that Mochizuki should be expected to do stuff so he can climb the ladder to become a successful business man. Mochizuki then starts to sleep with other men so he can become successful. Some men think Mochizuki is sexy, so they then force themselves onto Mochizuki.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 756,
+      "idMal": 756,
+      "title": {
+        "romaji": "School Days",
+        "english": null,
+        "native": "School Days"
+      },
+      "format": "ONA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 21,
+      "season": "WINTER",
+      "seasonYear": 2005,
+      "averageScore": 51,
+      "popularity": 16725,
+      "favourites": 179,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Avex Entertainment"
+          },
+          {
+            "name": "Lantis"
+          },
+          {
+            "name": "Animation Planet"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 2,
+        "day": 25
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 2,
+        "day": 25
+      },
+      "description": "The story is about a love triangle between the male protagonist Makoto, and the two heroines Kotonoha and Sekai. Makoto develops a love interest in Kotonoha, a girl in the same year but different class. Although they both take the same train to school, she is unaware of his existence. His classmate, Sekai, manages to put the two together despite holding strong feelings towards Makoto.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 757,
+      "idMal": 757,
+      "title": {
+        "romaji": "Kaze wo Mita Shounen",
+        "english": "The Boy Who Saw the Wind",
+        "native": "風を見た少年"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 97,
+      "season": "SUMMER",
+      "seasonYear": 2000,
+      "averageScore": 62,
+      "popularity": 1515,
+      "favourites": 5,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Brain's Base"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2000,
+        "month": 7,
+        "day": 22
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 7,
+        "day": 22
+      },
+      "description": "Young boy Amon has mysterious powers. His dad is the cheif scientist for the Empire of the Golden Snake. He's invented weapons for this country in the past, but does not want his boy's powers to be used for destruction so he burns his research and tries to escape the country with his family. The mom and dad die in the escape and only Amon is left. He runs from the military, ends up on an island where he learns about the ancient people who could fly on the wind and talk to animals (as he can). Amon then ends up in a fishermen's village and makes friends with Maria. After this village is attacked by the Golden Snake army, the two run away with a band of rebels. Together, they try to stop the Empire of the Golden Snake from destroying and conquering everything. Based on the book by C.W. Nicol."
+    },
+    {
+      "id": 758,
+      "idMal": 758,
+      "title": {
+        "romaji": "RahXephon: Pluralitas Concentio",
+        "english": "RahXephon: The Motion Picture",
+        "native": "ラーゼフォン 多元変奏曲"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 116,
+      "season": "SPRING",
+      "seasonYear": 2003,
+      "averageScore": 66,
+      "popularity": 3699,
+      "favourites": 25,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Psychological",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "bones"
+          },
+          {
+            "name": "Media Factory"
+          },
+          {
+            "name": "Shouchiku"
+          },
+          {
+            "name": "Asatsu DK"
+          },
+          {
+            "name": "Victor Entertainment"
+          },
+          {
+            "name": "Fuji TV"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 4,
+        "day": 19
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 4,
+        "day": 19
+      },
+      "description": "Ayato Kamina was separated from the girl he loved, Haruka Mishima, when an event occurred that was thought to have killed everyone outside of Tokyo. But one day three years later, invaders suddenly attacked the city. It was then that he meets an agent of TERRA, Haruka Shitow, who tells him that she will give him the truth about the world. It is the beginning of a series of strange events, which involve him activating a giant mecha, the RahXephon and finding out that many people, including his own mother, has blue blood, and that he was actually living in a self-encased dimension where time moves slower than that of the outside world.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 759,
+      "idMal": 759,
+      "title": {
+        "romaji": "Tokyo Godfathers",
+        "english": "Tokyo Godfathers",
+        "native": "東京ゴッドファーザーズ"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 92,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 81,
+      "popularity": 88971,
+      "favourites": 3191,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Sony Pictures Entertainment"
+          },
+          {
+            "name": "Dentsu"
+          },
+          {
+            "name": "Genco"
+          },
+          {
+            "name": "Techno Sound"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 11,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 11,
+        "day": 8
+      },
+      "description": "In modern-day Tokyo, three homeless people’s lives are changed forever when they discover a baby girl at a garbage dump on Christmas Eve. As the New Year fast approaches, these three forgotten members of society band together to solve the mystery of the abandoned child and the fate of her parents. Along the way, encounters with seemingly unrelated events and people force them to confront their own haunted pasts, as they learn to face their future, together.<br>\n<br>\n(Source: Shout! Factory)<br>\n<br>\n<i>Note: The film received an early premiere at the Big Apple Anime Fest on August 30, 2003.</i>"
+    },
+    {
+      "id": 760,
+      "idMal": 760,
+      "title": {
+        "romaji": "Tenjou Tenge: THE PAST CHAPTER",
+        "english": "TenjhoTenge: The Past Chapter",
+        "native": "天上天下　THE PAST CHAPTER"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 92,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 66,
+      "popularity": 3622,
+      "favourites": 24,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 30
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 30
+      },
+      "description": "Mitsuomi Takayanagi and Maya Natsume both want to become stronger. On there way to becoming the best they learn that there are many things going on behind the scenes, and Shin, Maya's brother, may be the cause of all of it. Mitsuomi feels that he is the only one that can stop him. A retelling of what happened in the past of tenjou tenge, in movie form.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 761,
+      "idMal": 761,
+      "title": {
+        "romaji": "NARUTO: Akaki Yotsuba no Clover wo Sagase",
+        "english": null,
+        "native": "NARUTO -ナルト- 紅き四つ葉のクローバーを探せ"
+      },
+      "format": "SPECIAL",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 17,
+      "season": "SPRING",
+      "seasonYear": 2003,
+      "averageScore": 62,
+      "popularity": 18223,
+      "favourites": 120,
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 5,
+        "day": 24
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 5,
+        "day": 24
+      },
+      "description": "The grandson of the 3rd Hokage, Konohamaru, finally has a crush on a girl, but he has a big problem she is soon to be moving away from the hidden leaf village. Konohamaru trying to make her stay seeks out the legendary crimson four-leaf clover, which is rumored to grant one wish.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 763,
+      "idMal": 763,
+      "title": {
+        "romaji": "Zoids",
+        "english": "Zoids",
+        "native": "ゾイド"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 67,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 1999,
+      "averageScore": 70,
+      "popularity": 8666,
+      "favourites": 178,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Xebec"
+          },
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          },
+          {
+            "name": "Viz Media"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 9,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 12,
+        "day": 23
+      },
+      "description": "Zoids are beast-like fighting machines used in both everyday use such as transportation, and special use such as war. Some types of Zoids, know as Organoids, are miniature Zoids that are living organisms. These Organoids have the capability to fuse with a non-living Zoid and make it much more powerful.<br><br>\nVan (Ban) Freiheit discovers a Zoid Organoid in an abandoned laboratory while running from two strangers piloting Zoids. Also in the laboratory, in an animated suspension tube is a strange girl. He breaks the tube open and takes her and the Organoid with him. Spotting a ruined Shield Liger Zoid outside nearby, the Organoid fuses with it and repairs the damages. Making his escape, Van names the Organoid Zeke, and decides to keep him as a friend. The girl, who says her name is Fiona, wants to find something called Zoids Eve, and so Van, Zeke, and Fiona begin their adventure.<br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": 764,
+      "idMal": 764,
+      "title": {
+        "romaji": "Zoids Shin Seiki/Zero",
+        "english": "Zoids New Century/Zero",
+        "native": "ゾイド新世紀／ゼロ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2001,
+      "averageScore": 69,
+      "popularity": 5429,
+      "favourites": 113,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Mecha",
+        "Sci-Fi",
+        "Sports"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Xebec"
+          },
+          {
+            "name": "Viz Media"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 1,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 6,
+        "day": 30
+      },
+      "description": "Zoids - powerful animal-shaped combat mechs - are no longer used in warfare, but in organized sporting competitions.  The Blitz Team, a group of pilots struggling to carve out a niche for themselves in the Zoid battling leagues, experience a stroke of luck when Bit Cloud, a vagrant junk dealer, wanders into their midst and proves himself capable of piloting the temperamental Liger Zero, a Zoid that refuses to let anyone else into its cockpit.  Led by Bit and the Liger, the Blitz Team steadily make their way to the top - but along the way they attract the unwelcome attention of the Backdraft Group, an organization of Zoid pilots that operates outside the laws set down by the Zoid Battle Commission.  The Backdraft want powerful Zoids to add to their ranks, and they have their eye on the Liger Zero..."
+    },
+    {
+      "id": 765,
+      "idMal": 765,
+      "title": {
+        "romaji": "Chou Henshin Cosprayers Specials",
+        "english": null,
+        "native": "超変身コス∞プレイヤー Specials"
+      },
+      "format": "SPECIAL",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 14,
+      "season": "SUMMER",
+      "seasonYear": 2004,
+      "averageScore": 39,
+      "popularity": 744,
+      "favourites": 4,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "m.o.e."
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 7,
+        "day": 16
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 7,
+        "day": 26
+      },
+      "description": "DVD specials.<br><br>\n\n<b>Episode 2.5:</b> Defeat of Red / The Hot Spring in Paradise<br>\n<b>Episode 3.5:</b> Horrible Green / Violet Has Slept<br>\n<b>Episode 4.5:</b> Movie Trap / Dream Carnival<br>"
+    },
+    {
+      "id": 766,
+      "idMal": 766,
+      "title": {
+        "romaji": "Kishin Houkou Demonbane",
+        "english": "Demonbane OVA",
+        "native": "機神咆吼デモンベイン"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 24,
+      "season": "SUMMER",
+      "seasonYear": 2004,
+      "averageScore": 53,
+      "popularity": 2306,
+      "favourites": 7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Group TAC"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 7,
+        "day": 1
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 7,
+        "day": 1
+      },
+      "description": "Lily Bridge, a young journalist, arrives at Arkham City, hoping to find a big scoop. However, with all the strange things occuring around the city, only the exceptional findings are news-worthy, such as the mysterious mecha known as Demonbane. However, upon finding a small piece of machinery that seemed to be connected with the Hadou Combine, Lily is determined to find the truth. Little does she know, she enters into a dark world, involving herself with Demonbane and the powerful forces that control the city.\n<br><br>\n(Source: Anime News Network)"
+    }
+  ]
+}

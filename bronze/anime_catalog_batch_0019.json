@@ -1,0 +1,2434 @@
+{
+  "ingestion_timestamp": "2026-07-26T17:33:21.655589+00:00",
+  "source": "anilist_graphql",
+  "source_page": 19,
+  "records": [
+    {
+      "id": 998,
+      "idMal": 998,
+      "title": {
+        "romaji": "BLUE SEED",
+        "english": "Blue Seed",
+        "native": "BLUE SEED"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 23,
+      "season": "FALL",
+      "seasonYear": 1994,
+      "averageScore": 65,
+      "popularity": 7037,
+      "favourites": 59,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Production I.G"
+          },
+          {
+            "name": "NAS"
+          },
+          {
+            "name": "Movic"
+          },
+          {
+            "name": "Ashi Productions"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 10,
+        "day": 5
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 3,
+        "day": 29
+      },
+      "description": "Momiji is an average girl until the day she finds she is the descendant of the great Kushinada family. Only she, with her Kushinada blood, can stop the Aragami, demonic plant-like monsters threatening to destroy Japan. Along to help her is the TAC, and a possible love interest in a young man named Kusanagi.\n<br><br>\n(Source: Anime News Network)\n<br>"
+    },
+    {
+      "id": 999,
+      "idMal": 999,
+      "title": {
+        "romaji": "BLUE SEED 2",
+        "english": "Blue Seed Beyond",
+        "native": "BLUE SEED 2"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 28,
+      "season": "SUMMER",
+      "seasonYear": 1996,
+      "averageScore": 60,
+      "popularity": 1788,
+      "favourites": 10,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Horror",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Production I.G"
+          },
+          {
+            "name": "Movic"
+          },
+          {
+            "name": "Discotek"
+          },
+          {
+            "name": "Xebec"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1996,
+        "month": 7,
+        "day": 24
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 2,
+        "day": 4
+      },
+      "description": "A renegade scientist in San Francisco has found a way to create a new creature called a Neo-Aragami without the power of Susanoo. When these monsters start to terrorize California, the U.S. turns to the old members of the Terrestrial Administration Center (TAC) for help.\n<br><br>\n(Source: Anime News Network)\n<br>"
+    },
+    {
+      "id": 1000,
+      "idMal": 1000,
+      "title": {
+        "romaji": "Uchuu Kaizoku Captain Harlock",
+        "english": "Captain Harlock Space Pirate",
+        "native": "宇宙海賊キャプテンハーロック"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 42,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 1978,
+      "averageScore": 73,
+      "popularity": 12130,
+      "favourites": 248,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Studio Nue"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1978,
+        "month": 3,
+        "day": 14
+      },
+      "endDate": {
+        "year": 1979,
+        "month": 2,
+        "day": 13
+      },
+      "description": "The year is 2977. Mankind has become complacent and stagnant. All work is done by machines, while humans spend all their time on entertainment. But when a mysterious invader from the stars catches Earth unawares, only the legendary space pirate Captain Harlock and the crew of the Arcadia have the will to stand against them. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1001,
+      "idMal": 1001,
+      "title": {
+        "romaji": "Tide-Line Blue: Kyoudai",
+        "english": null,
+        "native": "タイドライン・ブルー 兄弟"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 20,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 56,
+      "popularity": 500,
+      "favourites": 1,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Entertainment"
+          },
+          {
+            "name": "Lantis"
+          },
+          {
+            "name": "Telecom Animation Film"
+          },
+          {
+            "name": "TV Asahi"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 4,
+        "day": 26
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 4,
+        "day": 26
+      },
+      "description": "13th episode of the series (DVD only)."
+    },
+    {
+      "id": 1002,
+      "idMal": 1002,
+      "title": {
+        "romaji": "Top wo Nerae 2! DIEBUSTER",
+        "english": "Gunbuster 2: Diebuster",
+        "native": "トップをねらえ2！DIEBUSTER"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 6,
+      "duration": 30,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 74,
+      "popularity": 25810,
+      "favourites": 671,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Gainax"
+          },
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 8,
+        "day": 25
+      },
+      "description": "While Gunbuster's final mission destroyed the space monsters' star system, the intergalactic war still continues. Earth's only hope lies in the hands of \"TOPLESS\", an elite mecha group with children possessing supernatural powers and new Buster Machines. Among their ranks is a rookie named Nono and the ace pilot Lal'C - whom Nono looks at as a \"big sister\". Together with their teammates Nicholas and Chiko they must aim for the top and protect all of mankind from the wrath of the space monsters. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1003,
+      "idMal": 1003,
+      "title": {
+        "romaji": "Aa! Megami-sama! Specials",
+        "english": "Oh! My Goddess Specials",
+        "native": "ああっ女神さまっ"
+      },
+      "format": "SPECIAL",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 72,
+      "popularity": 4490,
+      "favourites": 25,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "AIC"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "NYAV Post"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 9,
+        "day": 22
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 9,
+        "day": 29
+      },
+      "description": "Due to the recent events that happened at the end of season 1, the Goddesses are having some stability problems with their body systems. The always adult-looking Urd becomes a little girl and has a fateful encounter with a boy, whereas little Skuld becomes an adult and wants to experiment adulthood together with Keiichi.<br>\n<br>\nEpisodes 25 and 26 of Aa! Megami-sama! (TV) that aired separately from it's season 1 original broadcast."
+    },
+    {
+      "id": 1004,
+      "idMal": 1004,
+      "title": {
+        "romaji": "Kanojo to Kanojo no Neko",
+        "english": "She and Her Cat: Their Standing Points",
+        "native": "彼女と彼女の猫"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 5,
+      "season": null,
+      "seasonYear": null,
+      "averageScore": 66,
+      "popularity": 23056,
+      "favourites": 137,
+      "genres": [
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "CoMix Wave"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": null,
+        "day": null
+      },
+      "endDate": {
+        "year": 1999,
+        "month": null,
+        "day": null
+      },
+      "description": "A cat reminisces about his life with and feelings for his owner, a single woman.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1005,
+      "idMal": 1005,
+      "title": {
+        "romaji": "Star Ocean EX",
+        "english": "Star Ocean EX",
+        "native": "スターオーシャンEX"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 22,
+      "season": "SPRING",
+      "seasonYear": 2001,
+      "averageScore": 61,
+      "popularity": 2582,
+      "favourites": 21,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "Discotek"
+          },
+          {
+            "name": "Dentsu"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 4,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 9,
+        "day": 25
+      },
+      "description": "Claude C. Kenni, a crewmember on the spaceship Calnus and son of the commander of the ship, is transported to Expel, a backwards planet with swords and magic. He teams up with Rena Lanford, who thinks he is the legendary Warrior of Light, and other characters to investigate the Sorcery Globe, a meteorite that has been causing problems all over the world. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1006,
+      "idMal": 1006,
+      "title": {
+        "romaji": "Tenchi Muyou! in Love",
+        "english": "Tenchi Muyo! In Love",
+        "native": "天地無用! in Love"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 94,
+      "season": "SPRING",
+      "seasonYear": 1996,
+      "averageScore": 71,
+      "popularity": 5065,
+      "favourites": 64,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          },
+          {
+            "name": "AIC"
+          },
+          {
+            "name": "Pioneer LDC"
+          },
+          {
+            "name": "GAGA"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1996,
+        "month": 4,
+        "day": 20
+      },
+      "endDate": {
+        "year": 1996,
+        "month": 4,
+        "day": 20
+      },
+      "description": "The demonic space criminal Kain has escaped from prison and destroyed the Galaxy Police headquarters. To ensure that the Jurai will not stop him, Kain travels back to 1970 to eliminate Tenchi's mother before he is even born. Now, Tenchi and the gang must travel to the past to stop him before he ceases to exist. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1007,
+      "idMal": 1007,
+      "title": {
+        "romaji": "Ranma 1/2 (OVA)",
+        "english": "Ranma ½ (OVA)",
+        "native": "Ranma 1/2 (OVA)"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 6,
+      "duration": 30,
+      "season": "SUMMER",
+      "seasonYear": 1993,
+      "averageScore": 74,
+      "popularity": 7479,
+      "favourites": 93,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Viz Media"
+          },
+          {
+            "name": "Pony Canyon"
+          },
+          {
+            "name": "Fuji TV"
+          },
+          {
+            "name": "Kitty Film"
+          },
+          {
+            "name": "Gainax"
+          },
+          {
+            "name": "Studio DEEN"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1993,
+        "month": 10,
+        "day": 21
+      },
+      "endDate": {
+        "year": 1994,
+        "month": 8,
+        "day": 19
+      },
+      "description": "Ranma Saotome continues his search for a way to become a normal teenage boy again. He gets into many hilarious situations involving the many girls in his life. One of the biggest challenges is overcoming the proposals from others who have found a suitable bride for Ranma. But he has his own worries and must muster up the best of his wits and martial arts to keep his sanity. It's not easy being desired by so many women (and men) and not breaking hearts of a few along the way. He just might be able to find it in his heart to confess to Akane or simply find another excuse that he can't marry such a tomboy girl.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1008,
+      "idMal": 1008,
+      "title": {
+        "romaji": "Ranma 1/2 Special",
+        "english": null,
+        "native": "らんま1/2 スペシャル"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 27,
+      "season": "WINTER",
+      "seasonYear": 1994,
+      "averageScore": 72,
+      "popularity": 4876,
+      "favourites": 51,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Gainax"
+          },
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "Viz Media"
+          },
+          {
+            "name": "Pony Canyon"
+          },
+          {
+            "name": "Fuji TV"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 12,
+        "day": 16
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 2,
+        "day": 17
+      },
+      "description": "\"Reawakening Memories\" deals with Akane suddenly remembering a trip to Ryugenzawa when she was a small child. While there she was saved from a giant platypus by Shinnosuke. Akane travels back to Ryogenzawa and once again meets Shinnosuke, who falls in love with her. Akane blames herself for Shinnosuke`s life-threatening injuries, and decides to stay and help out. This irritates Ranma, who thinks that Akane has fallen in love with Shinnosuke, and will do what it takes to get her back."
+    },
+    {
+      "id": 1009,
+      "idMal": 1009,
+      "title": {
+        "romaji": "Battle Spirits: Ryuuko no Ken",
+        "english": "Art of Fighting",
+        "native": "バトルスピリッツ　龍虎の拳"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 50,
+      "season": "FALL",
+      "seasonYear": 1993,
+      "averageScore": 48,
+      "popularity": 1371,
+      "favourites": 12,
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Starchild Records"
+          },
+          {
+            "name": "NAS"
+          },
+          {
+            "name": "Central Park Media"
+          },
+          {
+            "name": "Nihon Ad Systems"
+          },
+          {
+            "name": "Studio Comet"
+          },
+          {
+            "name": "Fuji TV"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1993,
+        "month": 12,
+        "day": 23
+      },
+      "endDate": {
+        "year": 1993,
+        "month": 12,
+        "day": 23
+      },
+      "description": "After events involving a home invasion, a house cat, an ancient artifact, and an unpaid electrical bill, martial artist Ryo Sakazaki and his best friend Robert Garcia must fight their way into the Southtown underworld to save Ryo's sister Yuri from the crimelord known as Mr. Big. <br>"
+    },
+    {
+      "id": 1010,
+      "idMal": 1010,
+      "title": {
+        "romaji": "Ranma 1/2: Chou Musabetsu Kessen! Ranma Team VS Densetsu no Houou",
+        "english": "Ranma ½: One Flew Over the Kuno's Nest",
+        "native": "らんま1/2 超無差別決戦! 乱馬チームVS伝説の鳳凰"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 31,
+      "season": "SUMMER",
+      "seasonYear": 1994,
+      "averageScore": 70,
+      "popularity": 4323,
+      "favourites": 46,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "Viz Media"
+          },
+          {
+            "name": "Fuji TV"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 8,
+        "day": 20
+      },
+      "endDate": {
+        "year": 1994,
+        "month": 8,
+        "day": 20
+      },
+      "description": "Kuno purchases a strange egg, believing that the mysterious powers of the legendary Phoenix will help him defeat Ranma. But when the egg hatches on his head, the bird goes out of control and wreaks havoc all over Tokyo. Ranma and the gang must use any means necessary to get the Phoenix to leave Kuno's head and fly away.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1011,
+      "idMal": 1011,
+      "title": {
+        "romaji": "Ranma 1/2 SUPER",
+        "english": null,
+        "native": "らんま1/2 SUPER"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 26,
+      "season": "FALL",
+      "seasonYear": 1995,
+      "averageScore": 73,
+      "popularity": 5086,
+      "favourites": 59,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Viz Media"
+          },
+          {
+            "name": "Shogakukan"
+          },
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "Pony Canyon"
+          },
+          {
+            "name": "Kitty Film"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1995,
+        "month": 9,
+        "day": 21
+      },
+      "endDate": {
+        "year": 1996,
+        "month": 1,
+        "day": 19
+      },
+      "description": "Super OVA 1: Based on a story from vol. 27 of the manga, Shampoo and Ukyo arrange to travel to a cave that is legendary for breaking up couples. They hope they will cause Ranma and Akane to break-up and Shampoo hopes to ditch Mousse the same way.<br><br>\nSuper OVA 2: \"Jaaku no Oni\" (lit. \"The Wicked Demon\") was released in 1995. Based on a story from vol. 29 of the manga, an Oni (that wears a tiger-striped diaper just like the Oni of Urusei Yatsura) escapes it`s sealed box and begins to possess people in the neighborhood.<br><br>\nSuper OVA 3: This is a story from vol. 31. Ranma disturbs a doll that takes revenge on anyone that shows it disrespect. In order to teach Ranma a lesson, the doll possesses Akane and tries on many occasions to attack him. <br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": 1014,
+      "idMal": 1014,
+      "title": {
+        "romaji": "Chicchana Yukitsukai Sugar Tokubetsu-hen",
+        "english": "A Little Snow Fairy Sugar OVA",
+        "native": "ちっちゃな雪使いシュガー特別編"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 24,
+      "season": "SUMMER",
+      "seasonYear": 2003,
+      "averageScore": 64,
+      "popularity": 1173,
+      "favourites": 8,
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "Kadokawa Shoten"
+          },
+          {
+            "name": "Broccoli"
+          },
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "Pioneer LDC"
+          },
+          {
+            "name": "Sentai Filmworks"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 8,
+        "day": 21
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 8,
+        "day": 28
+      },
+      "description": "Four years have passed since Saga and Sugar had their adventures, Saga’s grandmother finds an old dress and recalls Saga’s school play. With priceless memories of Saga and the faeries trying out for the school play, we get to see a little glimpse of where Saga is now. <br>\n<br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": 1015,
+      "idMal": 1015,
+      "title": {
+        "romaji": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+        "english": "Full Metal Panic! The Second Raid: A Relatively Leisurely Day in the Life of a Fleet Captain",
+        "native": "わりとヒマな戦隊長の一日"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 30,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 72,
+      "popularity": 11976,
+      "favourites": 61,
+      "genres": [
+        "Comedy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Kyoto Animation"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Kadokawa Shoten"
+          },
+          {
+            "name": "Kadokawa Pictures USA"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 5,
+        "day": 26
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 5,
+        "day": 26
+      },
+      "description": "On her day off, Tessa wakes up in her commander chair. After regaining her composure, she notices that her favorite stuffed animal is missing and thus tries to remember what actually transpired the night before. To do so, she will spend time with all the main characters of the Danaan crew, and eventually recalls the events of the previous night.<br><br>\r\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": 1016,
+      "idMal": 1016,
+      "title": {
+        "romaji": "GUNNM",
+        "english": "Battle Angel Alita",
+        "native": "銃夢"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 30,
+      "season": "SUMMER",
+      "seasonYear": 1993,
+      "averageScore": 67,
+      "popularity": 18880,
+      "favourites": 264,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Animate"
+          },
+          {
+            "name": "Movic"
+          },
+          {
+            "name": "KSS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1993,
+        "month": 6,
+        "day": 21
+      },
+      "endDate": {
+        "year": 1993,
+        "month": 8,
+        "day": 21
+      },
+      "description": "Doc Ido, a doctor and mechanic who lives and works in the hellish, postapocalyptic \"Scrapyard\", finds the&mdash;miraculously preserved&mdash;remains of a female cyborg in a junk heap. After he revives and rebuilds her, the preternaturally strong, amnesiac \"Gally\" begins to forge a life for herself in a world where every day can bring a fight for life. Adapts the first two volumes of the \"Battle Angel Alita\" manga."
+    },
+    {
+      "id": 1017,
+      "idMal": 1017,
+      "title": {
+        "romaji": "Majutsushi Orphen",
+        "english": "Orphen",
+        "native": "魔術士オーフェン"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 1998,
+      "averageScore": 67,
+      "popularity": 10993,
+      "favourites": 124,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "Kadokawa Shoten"
+          },
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "Sentai Filmworks"
+          },
+          {
+            "name": "Selecta Visión"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 10,
+        "day": 3
+      },
+      "endDate": {
+        "year": 1999,
+        "month": 3,
+        "day": 27
+      },
+      "description": "Six years ago at the magic school known as the Tower of Fang, a grave accident happened involving the magical sword Baltanders and the magic user Azali. Unable to control the sword's power, Azali was transformed into the shape of a great dragon who since that day became known as Bloody August. Krilancelo, a young magician at the Tower who cared greatly for Azali found much to his disgust that the elders of the Tower of Fang were less than willing to save Azali and wanted rather to pretend the accident never happened. Angered by their stand, Krilanceloa swore that he would find a way to return Azali to her former self. Thus he forsook the name Krilancelo and declared himself Orphen, leaving the Tower and his magical studies behind to wander the world...\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1018,
+      "idMal": 1018,
+      "title": {
+        "romaji": "Majutsushi Orphen: Revenge",
+        "english": "Orphen 2: Revenge",
+        "native": "魔術士オーフェンRevenge"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 23,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 1999,
+      "averageScore": 65,
+      "popularity": 3981,
+      "favourites": 36,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "Kadokawa Shoten"
+          },
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "Sentai Filmworks"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 10,
+        "day": 2
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 3,
+        "day": 26
+      },
+      "description": "Orphen and his gang has set out on an all new adventure with many monsters to battle and no peace and quiet. But a new friend has joined the group. Her name Lycorus who was sent to find Orphen. Many mysterious shadows are overhanging over head.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1019,
+      "idMal": 1019,
+      "title": {
+        "romaji": "Honoo no Mirage",
+        "english": "Mirage of Blaze",
+        "native": "炎の蜃気楼[ミラージュ]"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2002,
+      "averageScore": 57,
+      "popularity": 4134,
+      "favourites": 33,
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "Studio Matrix"
+          },
+          {
+            "name": "Shueisha"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 1,
+        "day": 7
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 4,
+        "day": 8
+      },
+      "description": "Takaya Ohgi is just a typical high school guy who wants nothing more than to protect his best friend and live a normal life. Enter Nobutsuna Naoe, an older man who informs Takaya that he is in fact the reincarnation of Lord Kagetora. Naoe, himself a possessor, awakens Takaya's abilities to exorcise evil spirits and fight the Fuedal Underworld. While most possessors remember their former lives before being reincarnated, Takaya does not. Naoe is thankful for this, considering his passionate and abusive past with his Lord Kagetora. As Takaya improves his abilities , he also begins to remember what Naoe did because of his love for him. Meanwhile the dark forces of the Hojo and Fuma clans begin their attack as the Fuedal Underworld descends upon the living world. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1020,
+      "idMal": 1020,
+      "title": {
+        "romaji": "Honoo no Mirage: Minagiwa no Hangyakusha",
+        "english": "Mirage of Blaze: Rebels of the River Edge",
+        "native": "炎の蜃気楼～みなぎわの反逆者～"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 30,
+      "season": "SUMMER",
+      "seasonYear": 2004,
+      "averageScore": 61,
+      "popularity": 1932,
+      "favourites": 15,
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "Media Blasters"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 7,
+        "day": 28
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 11,
+        "day": 26
+      },
+      "description": "Takaya was sent to Kyoto to investigate the re-awakening of Ikko sect and Araki Murashige, a member of the Ikko sect who deserted the clan.With the help of his vassal Haruie, Takaya is finally successful in tracing Araki who hunts down a 400-years-old mandala (Buddhist artifact for meditating) that was made of the hair of the deceased Araki clansmen. Unfortunately, by the time they meet, Haruie recognizes Araki as Shintarou, her lover in her past-life. Takaya orders her to eliminate Araki, who is a threat, but will she be able to do it. Furthermore Takaya finally meets Naoe...\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1021,
+      "idMal": 1021,
+      "title": {
+        "romaji": "Kaikan Phrase",
+        "english": null,
+        "native": "快感 フレーズ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 44,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 1999,
+      "averageScore": 64,
+      "popularity": 2476,
+      "favourites": 31,
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Hibari"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 4,
+        "day": 20
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 3,
+        "day": 25
+      },
+      "description": "After the break up of their old band, guitarist Yuki &amp; drummer Santa decide to form a new one. They recruit bass player Towa, young guitarist Atsuro, and after much persuasion, vocalist Sakuya. Together they form Lucifer and they struggle to make it in the music business, and also to stay together. As well, they have to deal with personal issues, such as parental objections, and watching their old bands succeed ahead of them. Sakuya is the most troubled band member, as he has to deal with his tragic past, and his relationship with teenaged lyricist Aine. <br>"
+    },
+    {
+      "id": 1022,
+      "idMal": 1022,
+      "title": {
+        "romaji": "Generator Gawl",
+        "english": null,
+        "native": "ジェネレイターガウル"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 1998,
+      "averageScore": 64,
+      "popularity": 2700,
+      "favourites": 21,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "Tatsunoko Production"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 10,
+        "day": 7
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 12,
+        "day": 23
+      },
+      "description": "Ryo, Gawl and Koji are 3 young boys who travel back into the past with only 1 objective: change history. In their time they discover that their country, Kubere, uses genetically enhanced persons called generators as a military tool. These generators are the cause for the Third War which kills most of the human population. Now Koji, Ryo and Gawl are there to change all the events.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1023,
+      "idMal": 1023,
+      "title": {
+        "romaji": "Wolf's Rain OVA",
+        "english": null,
+        "native": "ウルフズ・レイン"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 4,
+      "duration": 23,
+      "season": "WINTER",
+      "seasonYear": 2004,
+      "averageScore": 77,
+      "popularity": 12023,
+      "favourites": 180,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Psychological",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "bones"
+          },
+          {
+            "name": "Asatsu DK"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 1,
+        "day": 23
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 2,
+        "day": 25
+      },
+      "description": "After leaving Jagara's keep, the story concludes as Kiba, Tsume, Hige, Toboe, Blue and Cheza struggle to finish their journey to Rakuen (Paradise), accompanied by the humans Hubb, Cher and Quent. Darcia confronts the protagonists at last. The secrets of his mysterious existence and Cheza's true form are revealed in this finale.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1024,
+      "idMal": 1024,
+      "title": {
+        "romaji": "Weiß Kreuz OVA",
+        "english": "Knight Hunters OVA",
+        "native": "Weiß Kreuz ヴァイスクロイツ OVA"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 30,
+      "season": "FALL",
+      "seasonYear": 1999,
+      "averageScore": 59,
+      "popularity": 1171,
+      "favourites": 13,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "NYAV Post"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 11,
+        "day": 25
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 2,
+        "day": 23
+      },
+      "description": "Someone out there is determined to see the fall of Weiss Kreuz, and it looks like they have found the perfect plan for it. The four assassins find themselves trapped in a deadly game of deceit, where the question of honor versus duty comes to surface. Now they must fight for their own reasons to survive--and there can be only be one victor in this field of death.<br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": 1025,
+      "idMal": 1025,
+      "title": {
+        "romaji": "Kachou Ouji",
+        "english": "The Legend of Black Heaven",
+        "native": "課長王子"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 25,
+      "season": "SUMMER",
+      "seasonYear": 1999,
+      "averageScore": 66,
+      "popularity": 9359,
+      "favourites": 82,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Music",
+        "Sci-Fi",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "AIC"
+          },
+          {
+            "name": "Pioneer LDC"
+          },
+          {
+            "name": "APPP"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 7,
+        "day": 8
+      },
+      "endDate": {
+        "year": 1999,
+        "month": 10,
+        "day": 7
+      },
+      "description": "Ouji Tanaka has a wife, a child and a mundane job as a salary man in Tokyo's modern society. But life wasn't dull for him to begin with; 15 years ago, he was known as \"Gabriel\", leader of a short-lived heavy metal band called Black Heaven. Ouji's life gets a sudden change in direction when he is invited by a mysterious blonde woman named Layla to pick up his Gibson Flying V and once again display his \"legendary\" guitar skills, not knowing that his music generates power for a massive weapon in an intergalactic war.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1026,
+      "idMal": 1026,
+      "title": {
+        "romaji": "Yakumo Tatsu",
+        "english": "Eight Clouds Rising",
+        "native": "八雲立つ"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 29,
+      "season": "FALL",
+      "seasonYear": 1997,
+      "averageScore": 57,
+      "popularity": 1498,
+      "favourites": 11,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Horror",
+        "Psychological",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "Studio Pierrot"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1997,
+        "month": 10,
+        "day": 25
+      },
+      "endDate": {
+        "year": 1997,
+        "month": 11,
+        "day": 25
+      },
+      "description": "Fuzuchi Kuraki is a quiet young high school student blessed with immense psychic powers and an ancient sword. He is searching for other magical artifacts with the help of Nanachi Takeo, a college student with latent powers of his own. They delve deep into the dark magic of Izumo, only to discover the secrets buried within the birthplace of all Japanese mythology.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1027,
+      "idMal": 1027,
+      "title": {
+        "romaji": "Psychic Force",
+        "english": null,
+        "native": "サイキック フォース"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 30,
+      "season": "SPRING",
+      "seasonYear": 1998,
+      "averageScore": 54,
+      "popularity": 981,
+      "favourites": 7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Triangle Staff"
+          },
+          {
+            "name": "Broccoli"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 5,
+        "day": 25
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 5,
+        "day": 25
+      },
+      "description": "There are two kinds of people in the world, normal and psychics. Psychics are rare, powerful and feared. Burn Griffith met and befriended one of them, Keith Evans, two years ago. Now he has been looking for his friend, but when he finally succeeds, something's not right. The world has changed, and so has Keith.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1028,
+      "idMal": 1028,
+      "title": {
+        "romaji": "Arete-hime",
+        "english": "Princess Arete",
+        "native": "アリーテ姫"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 105,
+      "season": "SUMMER",
+      "seasonYear": 2001,
+      "averageScore": 67,
+      "popularity": 5461,
+      "favourites": 65,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio 4°C"
+          },
+          {
+            "name": "Shogakukan"
+          },
+          {
+            "name": "Imagica"
+          },
+          {
+            "name": "Dentsu"
+          },
+          {
+            "name": "Beyond C."
+          },
+          {
+            "name": "Omega Project"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 7,
+        "day": 21
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 7,
+        "day": 21
+      },
+      "description": "Confined in the castle tower by her father, princess Arete spends her days watching the world outside her window. Sometimes she seeks out to watch the common people at work. The knights of the kingdom compete for the right to marry her and rule the land by competing to see who can find powerful magic objects made by a long dead race of sorcerers. Arete wants none of this. She longs to meet the common people and travel to exotic lands she has only seen in the books she keeps hidden under her bed. One day the sorcerer Boax arrives in a fantastic flying machine and offers to take Arete as his wife and transform her into a proper princess.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1029,
+      "idMal": 1029,
+      "title": {
+        "romaji": "Omoide Poro Poro",
+        "english": "Only Yesterday",
+        "native": "おもひでぽろぽろ"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 118,
+      "season": "SUMMER",
+      "seasonYear": 1991,
+      "averageScore": 73,
+      "popularity": 47147,
+      "favourites": 1427,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Ghibli"
+          },
+          {
+            "name": "Tokuma Shoten"
+          },
+          {
+            "name": "GKIDS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1991,
+        "month": 7,
+        "day": 20
+      },
+      "endDate": {
+        "year": 1991,
+        "month": 7,
+        "day": 20
+      },
+      "description": "Taeko Okajima is a typical \"office lady\" in a big company in a big city. When she takes a sabbatical to the countryside in Yamagata Prefecture, the hometown of her brother-in-law, the journey recalled her memory of her 5th grade year. During her stay in Yamagata, she works hard and happily as a farmer and is surrounded by friendly relatives and villagers, bringing up more memories. Their hospitality makes her to reconsider her choice of life.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1030,
+      "idMal": 1030,
+      "title": {
+        "romaji": "Heisei Tanuki Gassen Ponpoko",
+        "english": "Pom Poko",
+        "native": "平成狸合戦ぽんぽこ"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 111,
+      "season": "SUMMER",
+      "seasonYear": 1994,
+      "averageScore": 70,
+      "popularity": 32049,
+      "favourites": 465,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Kyoto Animation"
+          },
+          {
+            "name": "Studio Ghibli"
+          },
+          {
+            "name": "Daiei"
+          },
+          {
+            "name": "Walt Disney Studios"
+          },
+          {
+            "name": "GKIDS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 6,
+        "day": 13
+      },
+      "endDate": {
+        "year": 1994,
+        "month": 6,
+        "day": 13
+      },
+      "description": "Faced with the destruction of their habitat due to the growth of Tokyo, a group of tanuki try to defend their homes. They decide to use their transforming talents to try to hold back the new development. Two of them, especially skilled at transforming, are sent to Shikoku to enlist the help of three sages. Meanwhile, the rest of them do their best to disrupt the construction site, at first causing accidents, and then actually haunting the site. However, the humans are very persistent, and soon the tanuki are forced to use more and more extreme measures to save their home.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1031,
+      "idMal": 1031,
+      "title": {
+        "romaji": "Yonna in the Solitary Fortress",
+        "english": null,
+        "native": "はなれ砦のヨナ"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 33,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 40,
+      "popularity": 636,
+      "favourites": 1,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Horipro"
+          },
+          {
+            "name": "Capcom"
+          },
+          {
+            "name": "CoMix Wave"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 4,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 4,
+        "day": 8
+      },
+      "description": "Yonna and Stan, brother and sister, live in isolation because of their special powers. There are enigmatic people who plot to use their power, in conflict with the king`s government, which is also planning to draw them onto their side. Intrigue surrounds Yonna, and now a new agent comes to see her."
+    },
+    {
+      "id": 1032,
+      "idMal": 1032,
+      "title": {
+        "romaji": "Kumo no You ni Kaze no You ni",
+        "english": "Like the Clouds, Like the Wind",
+        "native": "雲のように風のように"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 80,
+      "season": "SPRING",
+      "seasonYear": 1990,
+      "averageScore": 64,
+      "popularity": 3442,
+      "favourites": 23,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          },
+          {
+            "name": "Yomiko Advertising"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1990,
+        "month": 3,
+        "day": 21
+      },
+      "endDate": {
+        "year": 1990,
+        "month": 3,
+        "day": 21
+      },
+      "description": "The country of Sokan is in turmoil. Following the death of the Emperor, a power struggle over the line of succession ensues. To cement the crown prince's rule, he must find a suitable bride. And so, the hunt for a new empress begins!<br>\n<br>\nGinga is a straightforward, lively country girl who joins the competition for the emperor's hand. Her earnest innocence shocks and reinvigorates the denizens of the palace. But can one girl's optimistic spirit help to save a kingdom facing threats both from within and without?<br>\n<br>\n(Source: Discotek)"
+    },
+    {
+      "id": 1033,
+      "idMal": 1033,
+      "title": {
+        "romaji": "Sennen Joyuu",
+        "english": "Millennium Actress",
+        "native": "千年女優"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 87,
+      "season": "SUMMER",
+      "seasonYear": 2002,
+      "averageScore": 81,
+      "popularity": 64002,
+      "favourites": 2782,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Genco"
+          },
+          {
+            "name": "WOWOW"
+          },
+          {
+            "name": "KLOCKWORX"
+          },
+          {
+            "name": "Kadokawa Shoten"
+          },
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Techno Sound"
+          },
+          {
+            "name": "Chaos Union"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 9,
+        "day": 14
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 9,
+        "day": 14
+      },
+      "description": "<i>Millennium Actress</i> blurs the lines between the past and the present, and truth and fiction, when a documentary filmmaker fulfills his quest to find the legendary actress Chiyoko Fujiwara, and learn why she mysteriously vanished at the height of her brilliant career. When Chiyoko grants the filmmaker’s request, he, in turn, presents her with a token – a key she had lost and thought was gone forever. The filmmaker could not have imagined that the key would not only unlock the long-held secrets of Chiyoko’s life, but also his own.<br>\n<br>\n(Source: Dreamworks)<br>\n<br>\n<i>Note: The film received an early premiere at the Fantasia Film Festival on July 28, 2001.</i>"
+    },
+    {
+      "id": 1034,
+      "idMal": 1034,
+      "title": {
+        "romaji": "Ouritsu Uchuugun: Honneamise no Tsubasa",
+        "english": "Royal Space Force: The Wings of Honnêamise",
+        "native": "王立宇宙軍 オネアミスの翼"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 121,
+      "season": "SPRING",
+      "seasonYear": 1987,
+      "averageScore": 72,
+      "popularity": 15845,
+      "favourites": 271,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Gainax"
+          },
+          {
+            "name": "Maiden Japan"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1987,
+        "month": 3,
+        "day": 14
+      },
+      "endDate": {
+        "year": 1987,
+        "month": 3,
+        "day": 14
+      },
+      "description": "\"I will not give up. I will realize my dream...even if it means death!\"<br>\n<br>\nWhen cadet Shiro Lhadatt signs up with the Royal Space Force, he encounters ridicule and apathy from manipulative leaders and a cynical public. But a chance encounter with a devout young woman spurs Shiro on towards his destiny: to become the first man in space! While military leaders conspire to use the space program to spark an all-out war, Shiro and a team of aging scientists race against time to complete the first launch.<br>\n<br>\n(Source: Bandai Visual)"
+    },
+    {
+      "id": 1035,
+      "idMal": 1035,
+      "title": {
+        "romaji": "Patalliro Saiyuki!",
+        "english": null,
+        "native": "パタリロ西遊記！"
+      },
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 9,
+      "season": "SUMMER",
+      "seasonYear": 2005,
+      "averageScore": 62,
+      "popularity": 1137,
+      "favourites": 11,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Magic Bus"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 6,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 11,
+        "day": 29
+      },
+      "description": "Genjou Sanzou is a Buddhist monk who has been sent by the Emperor on a journey to find the sacred Buddhist scriptures. One day, Sanzou meets an Earth Deity who tells him that Buddha has sent him a disciple: the mischievous Monkey Deity Son Goku, who was sealed inside of a mountain for five hundred years after wreaking havoc in Heaven! Together with the alcohol-loving playboy Cho Hakkai; the heavenly army General Sagojyou; and their horse, the Dragon Crown Prince Ryuuba; there are plenty of adventures to be had from fighting off monsters to bishounen contests.<br><br>\n(Source: ANN and AniDB)"
+    },
+    {
+      "id": 1036,
+      "idMal": 1036,
+      "title": {
+        "romaji": "Kashou no Tsuki: Aki Kyougen",
+        "english": null,
+        "native": "火宵の月～秋狂言～"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 30,
+      "season": "FALL",
+      "seasonYear": 1998,
+      "averageScore": 50,
+      "popularity": 946,
+      "favourites": 5,
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Tokyo Kids"
+          },
+          {
+            "name": "Four Some"
+          },
+          {
+            "name": "SPE Visual Works"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 12,
+        "day": 19
+      },
+      "endDate": {
+        "year": 1999,
+        "month": 1,
+        "day": 21
+      },
+      "description": "Kagetsu, a member of the Kouga tribe, is in the period of his life when he has to decide which sex he wants to be. His feelings toward his sensei gets him to think seriously about it. Kohryu, another member of the tribe, wants to convince Kagetsu of going back to live with the tribe, leaving his sensei behind. During that time, evil spirits are starting to threaten the village and both Kagetsu and his sensei."
+    },
+    {
+      "id": 1037,
+      "idMal": 1037,
+      "title": {
+        "romaji": "Saint Beast: Seijuu Kourin-hen",
+        "english": null,
+        "native": "セイント・ビースト～聖獣降臨編～"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 6,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 2003,
+      "averageScore": 55,
+      "popularity": 1767,
+      "favourites": 16,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Lantis"
+          },
+          {
+            "name": "Tokyo Kids"
+          },
+          {
+            "name": "Kids Station"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 5,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 6,
+        "day": 13
+      },
+      "description": "The seal which was imprisoning the fallen angels, Kirin no Yuda and Houou no Ruka, is broken and the two decide to get revenge on the God who had cast them to Hell by getting rid of the Heavens that had once been their home. Soon the guardian angels on Earth begin disappearing, and no one in Heaven can explain the happenings. But there is a sense of a vengeful animal spirit at work, and so the four Saint Beasts are called upon to investigate.<br><br>\nThe 4 Gods of Beasts attempt to rescue the guardian angels, as well as to find out what this evil animal spirit is...<br><br>\n(Source: Wikipedia)"
+    },
+    {
+      "id": 1038,
+      "idMal": 1038,
+      "title": {
+        "romaji": "Mizuiro",
+        "english": null,
+        "native": "みずいろ"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 30,
+      "season": "SUMMER",
+      "seasonYear": 2002,
+      "averageScore": 52,
+      "popularity": 735,
+      "favourites": 9,
+      "genres": [
+        "Hentai"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "ARMS"
+          },
+          {
+            "name": "Pink Pineapple"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 8,
+        "day": 23
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 12,
+        "day": 6
+      },
+      "description": "Based on the erotic game by NekoNeko Soft.<br>\n<br>\nMizuiro tells the scenario of two girls who like Kenji a lot. <br>\nThe first episode covers Yuki's story, Kenji's younger sister, whose obsession with her brother makes her sad. This is especially considering they're brother and sister, despite being fact that Yuki was adopted by Kenji's father. <br>\nThe second episode goes through clumsy Hiyori's story, where she appears out of Kenji's dresser - naked and ghost-like, trying to convince Kenji to fall in love with her, even though Hiyori does not remember why she appears out of dresser. <br>\n<br>\n(Source: AniDB)"
+    },
+    {
+      "id": 1039,
+      "idMal": 1039,
+      "title": {
+        "romaji": "Mizuiro (2003)",
+        "english": null,
+        "native": "みずいろ (2003)"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 30,
+      "season": "SPRING",
+      "seasonYear": 2003,
+      "averageScore": 57,
+      "popularity": 1464,
+      "favourites": 6,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "OLM"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 4,
+        "day": 25
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 7,
+        "day": 10
+      },
+      "description": "Based on the erotic game by NekoNeko Soft.<br>\n<br>\nBrother and younger sister-in-law live in the house which parents are often away from. Yuki who is the younger sister is secretly yearning for Kenji who is the elder brother. However, one girl came to show up from the closet in Kenji's room after a certain night. Moreover, her body is transparent, and she looks like the ghost. Her name is Hiyori. She is a friend in their childhood. They are pleased with reunion though Kenji and Yuki are perplexed with the way of Hiyori's strange appearance. However, Yuki gets the mind shaken as Kenji and Hiyori become intimate, and the pain in her mind in the childhood is recalled. <br>\n<br>\nAt the childhood, Yuki was going to pass the light blue toy ring which Kenji had had to Hiyori in exchange for Hiyori's yoyo. However, because Hiyori became sick, and had moved, the promise was not an accomplishment. Their events in the childhood seem to be related to Hiyori's showing up in front of them. <br>\nA painful love story of Kenji and two girls progresses. <br>\n<br>\n(Source: AniDB)"
+    },
+    {
+      "id": 1040,
+      "idMal": 1040,
+      "title": {
+        "romaji": "Mizuiro Jidai",
+        "english": null,
+        "native": "水色時代"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 47,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 1996,
+      "averageScore": 66,
+      "popularity": 1934,
+      "favourites": 24,
+      "genres": [
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Comet"
+          },
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "NAS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1996,
+        "month": 4,
+        "day": 4
+      },
+      "endDate": {
+        "year": 1997,
+        "month": 2,
+        "day": 27
+      },
+      "description": "Yuuko is a shy middle school girl who has feelings for her childhood friend, the boy next door. When she finds out that her best friend also likes him, she is unsure what to do. The story explores the relationships between these three characters as they confront everyday junior high problems.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1041,
+      "idMal": 1041,
+      "title": {
+        "romaji": "Zetsuai 1989",
+        "english": null,
+        "native": "絶愛ー1989ー"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 46,
+      "season": "SUMMER",
+      "seasonYear": 1992,
+      "averageScore": 53,
+      "popularity": 2927,
+      "favourites": 30,
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance",
+        "Sports"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Shueisha"
+          },
+          {
+            "name": "Youmex"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1992,
+        "month": 7,
+        "day": 29
+      },
+      "endDate": {
+        "year": 1992,
+        "month": 7,
+        "day": 29
+      },
+      "description": "Koji Nanjo, a young rock star, falls in love with soccer player Takuto Izumi. Koji eventually learns that Izumi's mother killed his father out of severe and intense love. Izumi took all the guilt for his father's murder and refuses to go pro because of fear that his past will be discovered by the media. Izumi detests Koji's company and encouragement and severely dislikes the attention from the press, but Koji cannot stay away for he soon realizes that his love for Izumi is very similar to the love that Izumi's mother felt for his father.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1042,
+      "idMal": 1042,
+      "title": {
+        "romaji": "BRONZE: ZETSUAI since 1989",
+        "english": null,
+        "native": "BRONZE ZETSUAI since 1989"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 54,
+      "season": "WINTER",
+      "seasonYear": 1996,
+      "averageScore": 54,
+      "popularity": 2082,
+      "favourites": 25,
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance",
+        "Sports"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Production I.G"
+          },
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Victor Entertainment"
+          },
+          {
+            "name": "Shueisha"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1996,
+        "month": 12,
+        "day": 4
+      },
+      "endDate": {
+        "year": 1996,
+        "month": 12,
+        "day": 4
+      },
+      "description": "Famous rockstar Kouji Nanjou has fallen in love with Izumi Takuto, a soccer player with dreams of seeing \"real\" soccer in Italy. In angsty boy-love fashion, the story consists of Kouji stopping at nothing to have Izumi stay with him, Izumi dealing with his feelings until the time comes where he has no choice but to decide, and all the other things the two must face and the problems from Kouji's family.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1043,
+      "idMal": 1043,
+      "title": {
+        "romaji": "Tokyo BABYLON",
+        "english": null,
+        "native": "東京ＢＡＢＹＬＯＮ"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 50,
+      "season": "FALL",
+      "seasonYear": 1992,
+      "averageScore": 62,
+      "popularity": 6275,
+      "favourites": 60,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Animate"
+          },
+          {
+            "name": "Movic"
+          },
+          {
+            "name": "Sony Music Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1992,
+        "month": 10,
+        "day": 21
+      },
+      "endDate": {
+        "year": 1994,
+        "month": 3,
+        "day": 21
+      },
+      "description": "Subaru Sumeragi is the 13th head of the Sumeragi Clan and a most powerful onmyouji. Subaru is hired to exorcise a construction site, but his employer mysteriously died. The only suspect is a man who repeatedly walks away from situations in which he should have died. Then Subaru meets a young woman intent upon cursing the man, saying that he killed her brother. Subaru must figure out how his employer died and fight the evil spirits that are protecting the man with the help of his friend and twin sister, Seishirou Sakurazuka and Hokuto Sumeragi.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1044,
+      "idMal": 1044,
+      "title": {
+        "romaji": "Taiyou no Ouji: Horus no Daibouken",
+        "english": "The Little Norse Prince",
+        "native": "太陽の王子 ホルスの大冒険"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 82,
+      "season": "SUMMER",
+      "seasonYear": 1968,
+      "averageScore": 63,
+      "popularity": 3886,
+      "favourites": 37,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1968,
+        "month": 7,
+        "day": 21
+      },
+      "endDate": {
+        "year": 1968,
+        "month": 7,
+        "day": 21
+      },
+      "description": "Horus is a boy that one day, hunted by silver wolfs, found the sword of the sun. The day his father died he left his home to find the people from the town his father told him. Together with a small bear named Koro he start the journey an run into a great adventure fighting against Grunwald and his subordinates who wants to rule the world. <br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": 1045,
+      "idMal": 1045,
+      "title": {
+        "romaji": "Elf wo Karu Mono-tachi",
+        "english": "Those Who Hunt Elves",
+        "native": "エルフを狩るモノたち"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 1996,
+      "averageScore": 66,
+      "popularity": 7177,
+      "favourites": 72,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Group TAC"
+          },
+          {
+            "name": "Sentai Filmworks"
+          },
+          {
+            "name": "Amuse"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1996,
+        "month": 10,
+        "day": 4
+      },
+      "endDate": {
+        "year": 1996,
+        "month": 12,
+        "day": 20
+      },
+      "description": "The elves of Middle Earth never faced a foe as terrifying, as determined, as down right demented as Those Who Hunt Elves. Strongman Junpei, Hollywood actress Airi, teenage Ritsuko and their T-74 tank have landed in a (different) world of elves, and the spell to send them home has run amuck and split into five pieces that appear as tattoos on the bodies of five young female elves. So they set out on a quest to strip every elf they can lay their hands on until they find the missing spell pieces. Get ready for the wildest, craziest fantasy ever animated as Those Who Hunt Elves prove that elf stripping is more than just a job; it's an adventure!<br>\n<br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": 1046,
+      "idMal": 1046,
+      "title": {
+        "romaji": "Elf wo Karu Mono-tachi II",
+        "english": "Those Who Hunt Elves II",
+        "native": "エルフを狩るモノたち II"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 1997,
+      "averageScore": 66,
+      "popularity": 3043,
+      "favourites": 24,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Group TAC"
+          },
+          {
+            "name": "Sentai Filmworks"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1997,
+        "month": 10,
+        "day": 1
+      },
+      "endDate": {
+        "year": 1997,
+        "month": 12,
+        "day": 24
+      },
+      "description": "After Junpei botched the second attempt to transport back to Japan, the four embark their journey once again to collect runes imprinted on skin of Elven females by stripping them. Celsia is cursed into the form of another animal this time.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 1047,
+      "idMal": 1047,
+      "title": {
+        "romaji": "On Your Mark: CHAGE & ASKA",
+        "english": "On Your Mark",
+        "native": "On Your Mark CHAGE & ASKA"
+      },
+      "format": "MUSIC",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 6,
+      "season": null,
+      "seasonYear": null,
+      "averageScore": 72,
+      "popularity": 12928,
+      "favourites": 181,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Ghibli"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1995,
+        "month": 7,
+        "day": 15
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 7,
+        "day": 15
+      },
+      "description": "In the future, mankind can no longer live on the ground due to intense radiation, both from the sun and from an abandoned nuclear plant. One day, a group of special police raided a religious cult compound, and after a fierce firefight two policemen found a winged mutant girl, with chains on her arms, barely alive. However, government scientists dressed in hazardous material suits immediately intervened and brought her back to a research facility. Realizing they were merely transferring her from one prison to another, those two policemen formulated a daring plan to set her free once and for all.\n<br><br>\n(Source: Anime News Network)\n<br><br>\n<i>Note: This is a music video created by Hayao Miyazaki for the pop music duo Chage &amp; Aska (after whom the two police officers are modeled).</i>"
+    },
+    {
+      "id": 1048,
+      "idMal": 1048,
+      "title": {
+        "romaji": "The SoulTaker: Tamashiigari",
+        "english": "The SoulTaker",
+        "native": "The SoulTaker ～魂狩～"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 2001,
+      "averageScore": 59,
+      "popularity": 8481,
+      "favourites": 93,
+      "genres": [
+        "Action",
+        "Horror",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "WOWOW"
+          },
+          {
+            "name": "Tatsunoko Production"
+          },
+          {
+            "name": "Pioneer LDC"
+          },
+          {
+            "name": "Toshiba Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 4,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 7,
+        "day": 4
+      },
+      "description": "After the human colony on the moon was destroyed by disease, Kyosuke Date and his mother flee to Earth- separated from their family. They take refuge in a cathedral where his mother hides as a nun for reasons unknown to Kyosuke. After dangerous people find their sanctuary, his mother stabs him before she herself is murdered.<br><br>\nDays later, Kyosuke finds himself alive and in the house of a mysterious girl who claims to be his twin Runa- and she is not the only one! Runa suffered a similar fate at the hands of her adoptive mother; however her soul was divided into several pieces making \"flicker girls\" who are being hunted by the evil Kirihara Group. The reason Kyosuke survived: his body's DNA conformed to the disease and he is able to transform into a fearsome alien mutant known as the SoulTaker.<br><br>\nKyosuke begins his battle against a hospital of evil mutants and dangerous corporate assassins in order to save himself and the sister he has never known."
+    },
+    {
+      "id": 1049,
+      "idMal": 1049,
+      "title": {
+        "romaji": "Cello Hiki no Gauche",
+        "english": "Gauche the Cellist",
+        "native": "セロ弾きのゴーシュ"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 63,
+      "season": "WINTER",
+      "seasonYear": 1982,
+      "averageScore": 66,
+      "popularity": 6182,
+      "favourites": 56,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Music"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Oh! Production"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1982,
+        "month": 1,
+        "day": 23
+      },
+      "endDate": {
+        "year": 1982,
+        "month": 1,
+        "day": 23
+      },
+      "description": "The story concerns Gauche, a professional cellist. During rehearsals for a performance, he is scolded by the conductor because his playing is not good enough. His timing is off and he seems to have no \"feel\" for the music.<br>\n<br>\nGauche returns to his lonely cottage and starts practicing. Then a cat enters who tricks him into understanding the inner meaning of the music. The importance of practice is shown by a cuckoo, rhythm by a badger and tenderness by a mouse. In four days he learns the true meaning and feeling of music and develops into a great musician.<br>\n<br>\nLaced with popular classical music this special combines fun and inspiration for all ages and audiences.<br>\n<br>\n(Source: AnimeNfo, edited)"
+    }
+  ]
+}

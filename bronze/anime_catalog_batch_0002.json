@@ -1,0 +1,2415 @@
+{
+  "ingestion_timestamp": "2026-07-26T17:31:54.324778+00:00",
+  "source": "anilist_graphql",
+  "source_page": 2,
+  "records": [
+    {
+      "id": 69,
+      "idMal": 69,
+      "title": {
+        "romaji": "CLUSTER EDGE",
+        "english": null,
+        "native": "CLUSTER EDGE"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 25,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 55,
+      "popularity": 2260,
+      "favourites": 16,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Sentai Filmworks"
+          },
+          {
+            "name": "Sony Music Entertainment"
+          },
+          {
+            "name": "Marvelous Interactive"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 10,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 3,
+        "day": 28
+      },
+      "description": "Cluster Edge Academy isn't just any school; it's THE school, where the offspring of the elite come together to prepare for their roles running a world where artificial soldiers and religious sects are major factors in the battle for total control. Which may be part of why new transfer student Agate Fluorite doesn't quite seem to fit in. It's not just that Agate's enthusiastic attitude stands out among the somber, brooding balance of the student body. There's something about him that demands notice, even from jaded honors students like Beryl Jasper, and from the moment of arrival he's been at the center of a series of mysteries that not even Agate understands. Because Agate's not just another student, he's part of a something so momentous, and dangerous, that the world that built Cluster Edge may not survive its passing. <br><br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": 71,
+      "idMal": 71,
+      "title": {
+        "romaji": "Full Metal Panic!",
+        "english": "Full Metal Panic!",
+        "native": "フルメタル・パニック！"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2002,
+      "averageScore": 72,
+      "popularity": 95374,
+      "favourites": 1383,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "GONZO"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Kadokawa Shoten"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 1,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 6,
+        "day": 18
+      },
+      "description": "Sousuke Sagara, a seventeen year old military specialist working for the secret organization MITHRIL, has been assigned to protect the latest \"Whispered\" candidate Kaname Chidori. To complete this task Sousuke will have to deal with enemies from his past as well as the occasional panty thief. Unfortunately for Sousuke, the toughest part of his mission isn't only protecting Miss Chidori but also getting used to living an average High School students life, no easy task for someone raised on the battlefield.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 72,
+      "idMal": 72,
+      "title": {
+        "romaji": "Full Metal Panic? Fumoffu",
+        "english": "Full Metal Panic? Fumoffu",
+        "native": "フルメタル・パニック? ふもっふ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "SUMMER",
+      "seasonYear": 2003,
+      "averageScore": 77,
+      "popularity": 45219,
+      "favourites": 926,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Kyoto Animation"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 8,
+        "day": 26
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 10,
+        "day": 18
+      },
+      "description": "It's back-to-school mayhem with Kaname Chidori and her war-freak classmate Sousuke Sagara as they encounter more misadventures in and out of Jindai High School. But when Kaname gets into some serious trouble, Sousuke takes the guise of Bonta-kun - the gun-wielding, butt-kicking mascot. And while he struggles to continue living as a normal teenager, Sousuke also has to deal with protecting his superior officer Teletha Testarossa, who has decided to take a vacation from Mithril and spend a couple of weeks as his and Kaname's classmate.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 73,
+      "idMal": 73,
+      "title": {
+        "romaji": "Full Metal Panic! The Second Raid",
+        "english": "Full Metal Panic! The Second Raid",
+        "native": "フルメタル パニック！The Second Raid"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "SUMMER",
+      "seasonYear": 2005,
+      "averageScore": 77,
+      "popularity": 41350,
+      "favourites": 563,
+      "genres": [
+        "Action",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Kyoto Animation"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Kadokawa Shoten"
+          },
+          {
+            "name": "Kadokawa Pictures USA"
+          },
+          {
+            "name": "Happinet Pictures"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 7,
+        "day": 14
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 10,
+        "day": 20
+      },
+      "description": "This series is set about two months after the events ocurred in the Tuatha de Danaan at the end of the original series. Mithril becomes aware of a secret organization that has technology able to counter the ECS (Electronic Cloaking System) mode. This organization, known as Amalgam, also has \"Black Technology\", obtained from \"Whispered\" like Kaname Chidori, and like the other intelligency agencies, they intend to obtain more. However, when Sousuke's mission to protect Chidori is terminated by Mithril, all seems to be in place for Amalgam's plans... Like many of its fans know, it is based of the FMP novel \"The End of Day by Day.\"\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 74,
+      "idMal": 74,
+      "title": {
+        "romaji": "Gakuen Alice",
+        "english": null,
+        "native": "学園アリス"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 74,
+      "popularity": 18139,
+      "favourites": 575,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "Group TAC"
+          },
+          {
+            "name": "Sogo Vision"
+          },
+          {
+            "name": "The Right Stuf International"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 30
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 5,
+        "day": 14
+      },
+      "description": "Sakura Mikan and Imai Hotaru are best friends, and Mikan is shocked to find that Hotaru is transferring to a school in Tokyo for gifted students like her - Alice Academy. Mikan hears rumors that the students are like prisoners there, and worried what would happen to Hotaru, she runs away to head to the school herself. She finds out all the wonderful things about this school. And she heads into a great adventure!!"
+    },
+    {
+      "id": 75,
+      "idMal": 75,
+      "title": {
+        "romaji": "Soukyuu no Fafner",
+        "english": "Fafner",
+        "native": "蒼穹のファフナー"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 25,
+      "duration": 24,
+      "season": "SUMMER",
+      "seasonYear": 2004,
+      "averageScore": 69,
+      "popularity": 13885,
+      "favourites": 182,
+      "genres": [
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Xebec"
+          },
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "TV Tokyo Music"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 7,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 12,
+        "day": 27
+      },
+      "description": "Tatsumiyajima is the central island in the middle of a small cluster of islands, in a sleepy backwater of the Japanese isles. Not much happens there, and the island's young people go to school knowing that their lives are likely to remain peaceful and undisturbed. Or so they have been taught... but the truth is different. The fate of mankind is on the line, and Tatsumiyajima is the last line of defense against a hostile and incomprehensible enemy. At the center of it all, fighting for Humanity's continued existence, is the giant robot Fafner, the dragon that guards this final treasure of mankind.\n<br><br>\n(Source: Anime News Network)\n<br><br>\n<i>Note: The last episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode. In the DVD release and subsequent home video releases of the series, the final episode was split into two separate ~24 minute long episodes.</i>"
+    },
+    {
+      "id": 76,
+      "idMal": 76,
+      "title": {
+        "romaji": "Mahou Shoujo Lyrical Nanoha",
+        "english": "Magical Girl Lyrical Nanoha",
+        "native": "魔法少女リリカルなのは"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 71,
+      "popularity": 28672,
+      "favourites": 480,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Seven Arcs"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Omnibus Japan"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 12,
+        "day": 26
+      },
+      "description": "3rd grader Takamachi Nanoha stumbled upon an injured talking ferret after hearing his telepathic cries for help. The ferret turned out to be Yuuno, an archeologist and mage from another world who had accidentally scattered the dangerous Jewel Seeds throughout Earth. Without the strength to collect the Jewel Seeds, Yuuno had resumed a ferret form and needed someone else to take on the task for him. He gave a red jewel to Nanoha explaining to her with this she could transform and use magic to combat the monsters that threatened them due to the Jewel Seeds. But the monsters are the least of their worries, as Yuuno and Nanoha are not the only ones out to collect the Jewel Seeds."
+    },
+    {
+      "id": 77,
+      "idMal": 77,
+      "title": {
+        "romaji": "Mahou Shoujo Lyrical Nanoha A's",
+        "english": "Magical Girl Lyrical Nanoha A's",
+        "native": "魔法少女リリカルなのはＡ’ｓ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 78,
+      "popularity": 15803,
+      "favourites": 403,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Seven Arcs"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 10,
+        "day": 2
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 12,
+        "day": 25
+      },
+      "description": "After the events of the Lost Logia case, Nanoha waits patiently for the day she can reunite with her newfound friend, Fate. Although being an exceptionally powerful mage, Nanoha spends her days normally with her friends on Earth. But peace is once again suddenly shattered, as Nanoha is without warning attacked by a powerful mage. A group of violent mages have been attacking anything with magic power for their own goals. Nanoha and Fate, along with their friends Yuuno, Arf, Chrono and the Space/Time Administration Bureau must once more band together to stop these renegade mages from hurting anyone or anything else. Takes place after the first season of Lyrical Nanoha."
+    },
+    {
+      "id": 79,
+      "idMal": 79,
+      "title": {
+        "romaji": "SHUFFLE!",
+        "english": null,
+        "native": "SHUFFLE!"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 23,
+      "season": "SUMMER",
+      "seasonYear": 2005,
+      "averageScore": 65,
+      "popularity": 47109,
+      "favourites": 404,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Ecchi",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Xebec"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Lantis"
+          },
+          {
+            "name": "Asread"
+          },
+          {
+            "name": "Memory-Tech"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 7,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 1,
+        "day": 6
+      },
+      "description": "In present times, Gods and Demons coexist together with Humans after the door between each of these worlds had opened. Tsuchimi Rin is a normal young high school student attending Verbena Academy, spending his days living peacefully with his childhood friend Kaede. Unexpectedly, one day the King of Gods, the King of Demons and their families move into be Rin's next door neighbors. Apparently the daughter of the Gods, Sia, and the daughter of the demons, Nerine, are both deeply in love with Rin after having met him the past. Along with his playful friendship with upperclassmen Asa and his encounter with the silent but cute Primula, Rin has much on his hands dealing with the affections of each of these girls. Based on the eroge by Navel."
+    },
+    {
+      "id": 80,
+      "idMal": 80,
+      "title": {
+        "romaji": "Kidou Senshi Gundam",
+        "english": "Mobile Suit Gundam",
+        "native": "機動戦士ガンダム"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 43,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 1979,
+      "averageScore": 77,
+      "popularity": 47222,
+      "favourites": 1992,
+      "genres": [
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1979,
+        "month": 4,
+        "day": 7
+      },
+      "endDate": {
+        "year": 1980,
+        "month": 1,
+        "day": 26
+      },
+      "description": "What would you do if you suddenly found yourself in the middle of a war? Teenager Amuro Ray sees his life shattered when war comes to his home. During the chaos, Amuro finds himself inside the mobile suit Gundam, the Earth Federation's new secret weapon, and he somehow gets it to work. Amuro and the other refugees flee their homeland on the warship White Base. This group of children and inexperienced soldiers will change the outcome of the war. <br><br>\n(Source: Sunrise)"
+    },
+    {
+      "id": 81,
+      "idMal": 81,
+      "title": {
+        "romaji": "Kidou Senshi Gundam: Dai 08 MS Shotai",
+        "english": "Mobile Suit Gundam: The 08th MS Team",
+        "native": "機動戦士ガンダム 第08MS小隊"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 1996,
+      "averageScore": 77,
+      "popularity": 23676,
+      "favourites": 738,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mecha",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1996,
+        "month": 1,
+        "day": 25
+      },
+      "endDate": {
+        "year": 1999,
+        "month": 7,
+        "day": 25
+      },
+      "description": "UC 0079 - After the success of Operation Odessa, more and more Earth Federation soldiers are sent to earth to free it from the hands of the Principality of Zeon. As Zeonic troops retreat to unknown parts of the world, it's up to the Earth Federation Ground Force to find them and exterminate them. <br><br>\r\nEnsign Shiro Amada is made leader of the 08th MS Team, leading a team of Ground Type Gundams into battle. His mission: to distract the enemy and find a mysterious new Zeon weapon. But can he complete it when he falls in love with a Zeon pilot, named Aina Sahalin? <br><br>\r\n(Source: Otakufreakmk2, copyedited by Kolokotronis)"
+    },
+    {
+      "id": 82,
+      "idMal": 82,
+      "title": {
+        "romaji": "Kidou Senshi Gundam 0080: Pocket no Naka no Sensou",
+        "english": "Mobile Suit Gundam 0080: War in the Pocket",
+        "native": "機動戦士ガンダム 0080 ポケットの中の戦争"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 6,
+      "duration": 27,
+      "season": "SPRING",
+      "seasonYear": 1989,
+      "averageScore": 80,
+      "popularity": 22121,
+      "favourites": 1315,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1989,
+        "month": 3,
+        "day": 25
+      },
+      "endDate": {
+        "year": 1989,
+        "month": 8,
+        "day": 25
+      },
+      "description": "The Side 6 space colony is a neutral oasis in the war between Zeon and the Earth Federation. Alfred Izuruha, a ten-year-old boy, finds relief from the tedium of schoolwork by following the war's progress and collecting military memorabilia. When rumors that the colony is hiding a Federation mobile suit development program bring Zeon special forces to Side 6, Alfred views them as a source of additional excitement. But, as the Zeon mission becomes more urgent and both sides take increasingly desperate measures, he might be in for an unexpectedly close look at the reality of war."
+    },
+    {
+      "id": 83,
+      "idMal": 83,
+      "title": {
+        "romaji": "Kidou Senshi Gundam: Dai 08 MS Shotai - Miller's Report",
+        "english": "Mobile Suit Gundam: The 08th MS Team - Miller's Report",
+        "native": "機動戦士ガンダム 第08MS小隊 ミラーズ・リポート"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 51,
+      "season": "SUMMER",
+      "seasonYear": 1998,
+      "averageScore": 63,
+      "popularity": 3937,
+      "favourites": 18,
+      "genres": [
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 8,
+        "day": 1
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 8,
+        "day": 1
+      },
+      "description": "Shortly after being rescued off the Himalayas, Federation Ensign Shiro Amada is accused of espionage due to his encounter with Zeon's top-secret mobile armor. Intelligence officer Alice Miller is assigned to investigate on Shiro's whereabouts during his disappearance. Her documented findings will determine whether or not Shiro is a traitor, and what his fate will be as commander of the 08th MS Team.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 84,
+      "idMal": 84,
+      "title": {
+        "romaji": "Kidou Senshi Gundam 0083: STARDUST MEMORY",
+        "english": "Mobile Suit Gundam 0083: Stardust Memory",
+        "native": "機動戦士ガンダム0083 STARDUST MEMORY"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 30,
+      "season": "SPRING",
+      "seasonYear": 1991,
+      "averageScore": 67,
+      "popularity": 15076,
+      "favourites": 193,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1991,
+        "month": 5,
+        "day": 23
+      },
+      "endDate": {
+        "year": 1992,
+        "month": 9,
+        "day": 24
+      },
+      "description": "U.C. 0083 - Three years after the end of the catastrophic One Year War, peace on Earth and the colonies is shattered by the presence of the Delaz Fleet, a rogue Zeon military group loyal to the ideals of the late dictator Gihren Zabi. Delaz Fleet's ace pilot Anavel Gato, once hailed as \"The Nightmare of Solomon\", infiltrates the Federation's Torrington base in Australia and steals the nuclear-armed Gundam GP02A \"Physalis\" prototype. Rookie pilot Kou Uraki - with the aid of Anaheim Electronics engineer Nina Purpleton and the crew of the carrier Albion - pilots the Gundam GP01 \"Zephyranthes\" prototype in an attempt to recover the stolen Gundam unit and prevent another war from breaking out. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 85,
+      "idMal": 85,
+      "title": {
+        "romaji": "Kidou Senshi Z Gundam",
+        "english": "Mobile Suit Zeta Gundam",
+        "native": "機動戦士Zガンダム"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 50,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 1985,
+      "averageScore": 78,
+      "popularity": 27608,
+      "favourites": 1857,
+      "genres": [
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1985,
+        "month": 3,
+        "day": 2
+      },
+      "endDate": {
+        "year": 1986,
+        "month": 2,
+        "day": 22
+      },
+      "description": "The year is Universal Century 0087. Seven years have passed since the end of the One Year War. In its zeal to stamp out any remaining opposition, the Earth Federation has organized the Titans, an elite fighting force. However, the Titans soon get out of hand, committing atrocities on par with the worst the Principality of Zeon had to offer during the war. In response, dissatisified citizens, former Zeon soldiers, and even members of the Earth Federal Forces form a resistance group known as the Anti-Earth Union Group, or AEUG. As the next war is brewing, a small AEUG group arrives at Side 7 to investigate the new Gundam Mk. II...\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 86,
+      "idMal": 86,
+      "title": {
+        "romaji": "Kidou Senshi Gundam ZZ",
+        "english": "Mobile Suit Gundam ZZ",
+        "native": "機動戦士ガンダムZZ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 47,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 1986,
+      "averageScore": 66,
+      "popularity": 17727,
+      "favourites": 407,
+      "genres": [
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1986,
+        "month": 3,
+        "day": 8
+      },
+      "endDate": {
+        "year": 1987,
+        "month": 1,
+        "day": 31
+      },
+      "description": "It is the year 0088 of the Universal Century in Mobile Suit Gundam ZZ. The badly damaged assault cruiser Argama docks at the run-down space colony of Shangri-La for much-needed repairs. While the Argama is in drydock, a young junk dealer named Judau Ashta sneaks aboard in an attempt to steal the Zeta Gundam. He wants to sell it in order to help his sister, but instead he finds himself coerced into joining the Argama’s crew. Unfortunately for Judau, the Argama is being pursued by a dedicated Neo Zeon officer named Mashymre Cello. In order to protect both his sister and himself, Judau must master the Argama’s newest mobile suit, the ZZ Gundam.<br>\n<br>\n(Source: Right Stuf)"
+    },
+    {
+      "id": 87,
+      "idMal": 87,
+      "title": {
+        "romaji": "Kidou Senshi Gundam: Gyakushuu no Char",
+        "english": "Mobile Suit Gundam: Char's Counterattack",
+        "native": "機動戦士ガンダム 逆襲のシャア"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 119,
+      "season": "SPRING",
+      "seasonYear": 1988,
+      "averageScore": 76,
+      "popularity": 18130,
+      "favourites": 873,
+      "genres": [
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Studio Hibari"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1988,
+        "month": 3,
+        "day": 12
+      },
+      "endDate": {
+        "year": 1988,
+        "month": 3,
+        "day": 12
+      },
+      "description": "U.C. 0093. 13 years have passed since the events of the original Mobile Suit Gundam series. But the foundations of peace are once again threatened by a new Neo Zeon army, led by the infamous Char Aznable! Their ultimate goal is to plunge Earth into a nuclear winter, forcing humanity to emigrate completely into space. Armed with the state-of-the-art Nu Gundam, Amuro Ray and his Federation comrades are all that stand against Neo Zeon. Torn between vengeance, duty, and love - the final battle is at hand!\n<br><br>\n(Source: Sunrise)"
+    },
+    {
+      "id": 88,
+      "idMal": 88,
+      "title": {
+        "romaji": "Kidou Senshi Gundam F91",
+        "english": "Mobile Suit Gundam F91",
+        "native": "機動戦士ガンダムF91"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 120,
+      "season": "SPRING",
+      "seasonYear": 1991,
+      "averageScore": 63,
+      "popularity": 12058,
+      "favourites": 150,
+      "genres": [
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Shouchiku"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1991,
+        "month": 3,
+        "day": 16
+      },
+      "endDate": {
+        "year": 1991,
+        "month": 3,
+        "day": 16
+      },
+      "description": "U.C. 0123.  Mobile Suit Gundam F91 is Gundam creator Yoshiyuki Tomino's attempt to launch a new Gundam saga, set thirty years after Char's Counterattack.<br><br>\r\nThe story of Gundam F91 revolves around teenage space colonist Seabook Arno, his friend Cecily Fairchild, and the efforts of the Crossbone Vanguard militia, led by Cecily's grandfather Meitzer Ronah, to establish an aristocracy known as \"Cosmo Babylonia\".<br><br>\r\nIn keeping with Gundam tradition, the civilian Seabook is forced by circumstance to pilot the F91 Gundam, coincidentally designed in part by his estranged mother, Dr. Monica Arno.<br><br>\r\n(Source: Wikipedia)"
+    },
+    {
+      "id": 89,
+      "idMal": 89,
+      "title": {
+        "romaji": "Kidou Senshi V Gundam",
+        "english": "Mobile Suit Victory Gundam",
+        "native": "機動戦士Vガンダム"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 51,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 1993,
+      "averageScore": 66,
+      "popularity": 10562,
+      "favourites": 231,
+      "genres": [
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "Apollon"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1993,
+        "month": 4,
+        "day": 2
+      },
+      "endDate": {
+        "year": 1994,
+        "month": 3,
+        "day": 25
+      },
+      "description": "It is Universal Century 0153. On the space colonies located at Side 2, the Zanscare Empire has come to power and it holds onto that power through liberal use of the guillotine. With its forces invading the Earth and its space fleets preparing to subjugate the other Sides, the Zanscare Empire has nothing to fear from the weakening Earth Federation. It is opposed only by the League Militaire, whose state of the art mobile suits and young pilots comprise the only real resistance movement. Now, thirteen-year-old Uso Ewin has been dragged into the war by a battle near his home in Eastern Europe. As the Newtype pilot of the Victory Gundam, he fights not only to defeat the Zanscare Empire but also to find out what has become of his parents, who left him behind when they went into space.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 90,
+      "idMal": 90,
+      "title": {
+        "romaji": "Shin Kidou Senki Gundam Wing",
+        "english": "Mobile Suit Gundam Wing",
+        "native": "新機動戦記ガンダムW"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 49,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 1995,
+      "averageScore": 71,
+      "popularity": 31454,
+      "favourites": 778,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "TV Asahi"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1995,
+        "month": 4,
+        "day": 7
+      },
+      "endDate": {
+        "year": 1996,
+        "month": 3,
+        "day": 29
+      },
+      "description": "Mankind has moved into space. Thousands of people live on giant orbiting space colonies called \"Sides.\" However, the Earth Government, which rules the colonies, is unjust and cruel. A group of revolutionaries build five robotic weapons called Gundams and plan to send them to Earth to begin their fight for independence. Piloted by five young men, these Gundams carry the colonists' hopes and dreams of freedom with them as they descend to Earth to begin Operation Meteor!<br>\n<br>\n(Source: Nozomi Entertainment)"
+    },
+    {
+      "id": 91,
+      "idMal": 91,
+      "title": {
+        "romaji": "Shin Kidou Senki Gundam Wing: Endless Waltz",
+        "english": "Mobile Suit Gundam Wing: Endless Waltz",
+        "native": "新機動戦記ガンダムW Endless Waltz"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 30,
+      "season": "WINTER",
+      "seasonYear": 1997,
+      "averageScore": 72,
+      "popularity": 9254,
+      "favourites": 124,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1997,
+        "month": 1,
+        "day": 25
+      },
+      "endDate": {
+        "year": 1997,
+        "month": 7,
+        "day": 25
+      },
+      "description": "After Colony 196 - One year has passed since the war between Earth and its colonies ended. Heero, Duo, Trowa and Quatre bid farewell to their Gundams and jettison them to the sun. Relena Darlian is now the deputy minister of the Earth Sphere Unified Nation. But as the Gundam pilots are adjusting to the peace on Earth, Relena is kidnapped and a new threat appears, led by Marimeia Khushrenada - daughter of the late dictator Treize Khushrenada and heir to the Barton Foundation. To make matters more complicated, Gundam Nataku pilot Wufei has sided with this faction. The Gundam pilots must recover their mobile suits and once again engage in battle before Marimeia's forces succeed on their bid for global domination.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 92,
+      "idMal": 92,
+      "title": {
+        "romaji": "Kidou Shin Seiki Gundam X",
+        "english": "After War Gundam X",
+        "native": "機動新世紀ガンダムX"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 39,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 1996,
+      "averageScore": 72,
+      "popularity": 11132,
+      "favourites": 255,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1996,
+        "month": 4,
+        "day": 5
+      },
+      "endDate": {
+        "year": 1996,
+        "month": 12,
+        "day": 28
+      },
+      "description": "When one space colony declared its independence from the Earth Federation, the devastating 7th Space War, an all-out war between Earth and space, resulted. The Federation responded to the Space Revolutionary Army with mobile suits, called Gundams. However, the Space Revolutionary forces played their trump card and dropped hundreds of space colonies onto the Earth, plunging the planet into a seven-year-long nuclear winter. The Federation collapsed, but the Space Revolutionary Army was unable to invade the Earth in the aftermath of the colony drop. Fifteen years have passed. The year is now After War 0015, and a New Federation has sprung up on Earth to restore order. In space, the colonial leaders have been rebuilding their own forces as well. By chance, fifteen-year-old Garrod Ran has discovered an old Federation mobile suit, the Gundam X, and now he uses it to help out the Vulture ship Freeden in its struggle to keep the powers that be from repeating the mistakes of the past."
+    },
+    {
+      "id": 93,
+      "idMal": 93,
+      "title": {
+        "romaji": "Kidou Senshi Gundam SEED",
+        "english": "Mobile Suit Gundam Seed",
+        "native": "機動戦士ガンダムSEED"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 50,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2002,
+      "averageScore": 72,
+      "popularity": 31435,
+      "favourites": 803,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Asatsu DK"
+          },
+          {
+            "name": "Mainichi Broadcasting System"
+          },
+          {
+            "name": "Sony Music Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 10,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 9,
+        "day": 27
+      },
+      "description": "C.E. 71: In the midst of war between the Naturals (OMNI) and Coordinators (ZAFT), a unit from ZAFT is dispatched to hijack the Earth Alliance's newly developed mobile suits on the neutral colony of Heliopolis. Orb Civilian Coordinator Kira Yamato attends the technical college on Heliopolis. After ZAFT hijacks 4 of the 5 mobile suits, Kira stumbles upon the last one, Strike, forced to pilot it to save his and his friend's lives. During this confusion, Kira also reunites with his childhood Coordinator friend, Athrun Zala, who ironically turns out to be a ZAFT soldier and one of the hijackers at Heliopolis. Having control of Strike, Kira joins the Earth Alliance boarding the ship known as Archangel, to protect his friends while despairing over becoming the enemy of his childhood friend and people.\n<br><br>\n<i>Note: An HD remaster was broadcasting starting on December 23, 2011 with two recap episodes cut, including new and updated animation, conversion to 16:9, and updated music.</i>"
+    },
+    {
+      "id": 94,
+      "idMal": 94,
+      "title": {
+        "romaji": "Kidou Senshi Gundam SEED DESTINY",
+        "english": "Mobile Suit Gundam Seed Destiny",
+        "native": "機動戦士ガンダムSEED DESTINY"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 50,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 65,
+      "popularity": 19303,
+      "favourites": 331,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Mainichi Broadcasting System"
+          },
+          {
+            "name": "Bandai Entertainment"
+          },
+          {
+            "name": "Sony Music Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 9
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 10,
+        "day": 1
+      },
+      "description": "C.E. 73: While the second battle of Yachin Due brought the war between the Naturals and Coordinators to a close, tensions between the two races are at an all-time high. During a meeting between PLANT Chairman Gilbert Dullindal and Orb Representative Cagalli Yula Athha, a unit of soldiers hijack ZAFT's newly developed Gundams. ZAFT soldier Shinn Asuka along with his friends at the ZAFT ship Minerva sortie in attempt to deter this hijacking. With the assistance of Cagalli's bodyguard, Athrun Zala, the Minerva chases after the unknown ship that hijacked the Gundams until an even greater problem occurs leading to the start of the second Bloody Valentine war.\n<br><Br>\n<i>Note: On March 2013, the airing of the HD Remaster began. Like the HD Remaster of Gundam SEED, the remaster of this series not only improves the animation, but also alters lines and scenes from the original, as well as introducing brand new mobile suits. The episode count for the remaster was 50 episodes. The recap episode \"Refrain\" was completely omitted from the HD Remaster, while the final episode divided into two parts: \"Final Power\" and \"The Chosen Future\", based on the \"The Chosen Future\" television special, with additional footage.</i>"
+    },
+    {
+      "id": 95,
+      "idMal": 95,
+      "title": {
+        "romaji": "∀ Gundam",
+        "english": "Turn A Gundam",
+        "native": "∀ガンダム"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 50,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 1999,
+      "averageScore": 80,
+      "popularity": 21206,
+      "favourites": 1428,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Fuji TV"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 4,
+        "day": 9
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 4,
+        "day": 14
+      },
+      "description": "This story is set thousands of years in the future. The people of Earth have forgotten the space wars of the past, reverting back to a pre-industrial existence. But the lunar settlers known as the Moonrace, who have retained their high technology, now plan to seize their mother planet for themselves. As the war of the worlds begins, a young Moonrace citizen named Loran Cehack, pilot of the legendary Turn A Gundam, struggles to bridge the gap between humanity's long-separated branches.<br><br>\n(Source: GundamOfficial)"
+    },
+    {
+      "id": 96,
+      "idMal": 96,
+      "title": {
+        "romaji": "Kidou Butouden G Gundam",
+        "english": "Mobile Fighter G Gundam",
+        "native": "機動武闘伝Gガンダム"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 49,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 1994,
+      "averageScore": 74,
+      "popularity": 17995,
+      "favourites": 799,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Mecha",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "TV Asahi"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 4,
+        "day": 22
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 3,
+        "day": 31
+      },
+      "description": "It is time for the \"Gundam Fight\" tournament! Each country sends a Gundam to Earth for this prestigious tournament in the hopes of winning power and glory for their homeland! But this time, there's an unseen evil lurking behind the scene. Domon Kasshu, Neo Japan's reluctant Fighter, is determined to uncover this evil and clear his family name! The fight to the top begins now!<br>\n<br>\n(Source: Nozomi Entertainment)"
+    },
+    {
+      "id": 97,
+      "idMal": 97,
+      "title": {
+        "romaji": "Last Exile",
+        "english": "Last Exile",
+        "native": "ラストエグザイル"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2003,
+      "averageScore": 74,
+      "popularity": 35223,
+      "favourites": 548,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "GONZO"
+          },
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          },
+          {
+            "name": "GDH"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "TV Tokyo Music"
+          },
+          {
+            "name": "Victor Entertainment"
+          },
+          {
+            "name": "TV Tokyo"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 4,
+        "day": 7
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 9,
+        "day": 29
+      },
+      "description": "It's the dawn of the Golden Age of Aviation on planet Prester, and retro-futuristic sky vehicles known as vanships dominate the horizon. Claus Valca &ndash; a flyboy born with the right stuff &ndash; and his fiery navigator Lavie are fearless racers obsessed with becoming the first sky couriers to cross the Grand Stream in a vanship. But when the high-flying duo encounters a mysterious girl named Alvis, they are thrust into the middle of an endless battle between Anatoray and Disith &ndash; two countries systematically destroying each other according to the code of chivalric warfare. Lives will be lost and legacies determined as Claus and Lavie attempt to bring peace to their world by solving the riddle of its chaotic core.<br>\n<br>\n(Source: Funimation)"
+    },
+    {
+      "id": 98,
+      "idMal": 98,
+      "title": {
+        "romaji": "Mai-HiME",
+        "english": "My-HiME",
+        "native": "舞-HiME"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 23,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 69,
+      "popularity": 21187,
+      "favourites": 253,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Mecha",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "TV Tokyo Music"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Bandai Visual"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 9,
+        "day": 30
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 31
+      },
+      "description": "Mai Tokiha thought she had enough trouble in life between taking care of her ailing brother and transferring to a new school. But when she saves a mysterious girl wielding a sword, everything changes. A power awakens within her and she becomes a HiME, a battle princess! But she’s not alone with this power—eleven other girls share her fate, and the burden is a heavy one.<br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": 99,
+      "idMal": 99,
+      "title": {
+        "romaji": "Mai-Otome",
+        "english": "My-Otome",
+        "native": "舞-乙HiME"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 69,
+      "popularity": 8785,
+      "favourites": 103,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Lantis"
+          },
+          {
+            "name": "TV Tokyo Music"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 10,
+        "day": 7
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 3,
+        "day": 31
+      },
+      "description": "Arika Yumemiya has traveled far in search of her goal: the prestigious Gualderobe Academy. This is the school where young girls are trained to become Otomes, protectors of royal leaders throughout the lands. Here, Arika makes plenty of friends, but some enemies know something about her past that she does not. Nevertheless, her spirit and determination will keep pushing her forward.<br><br>\nAdapted from its predecessor, Mai-HiME, this series is not a direct sequel, but an alternate universe setting featuring some of the Mai-HiME cast (though with different personalities).\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 100,
+      "idMal": 100,
+      "title": {
+        "romaji": "Shin Shirayuki-hime Densetsu Pretear",
+        "english": "Prétear: The New Legend of Snow White",
+        "native": "新白雪姫伝説プリーティア"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 2001,
+      "averageScore": 67,
+      "popularity": 11378,
+      "favourites": 168,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Hal Film Maker"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Kadokawa Shoten"
+          },
+          {
+            "name": "Rondo Robe"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 4,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 6,
+        "day": 21
+      },
+      "description": "A sixteen year old girl is struggling to adjust to a new step-family when seven guys appear on the scene revealing that she possesses a special magical power. Shying away from the strange group, she later joins them when a monster places her friend's life in jeopardy. Without training, she must prove herself capable to take up the sacred duty of the Pretear. They must resolve their differences and work together to defeat the evil princess intent on destruction. <br><br>\n(Source: FUNimation)"
+    },
+    {
+      "id": 101,
+      "idMal": 101,
+      "title": {
+        "romaji": "AIR",
+        "english": "Air",
+        "native": "AIR"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2005,
+      "averageScore": 68,
+      "popularity": 51798,
+      "favourites": 713,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Kyoto Animation"
+          },
+          {
+            "name": "Pony Canyon"
+          },
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "Key"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 1,
+        "day": 7
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 4,
+        "day": 1
+      },
+      "description": "Yukito Kunisaki is on a journey in search of the Winged Maiden who was bound to the sky centuries ago, after hearing an old childhood tale from his mother. As Yukito shows his puppet show to people in an attempt to make some money, he finds himself in a small town in which he did not expect to stay very long. However, when he meets an unusual girl named Misuzu, things take a drastic turn as he is invited to stay with her.<br><br>\nBy staying in the quaint town, Yukito soon becomes friends with the locals. As he gets to know them better, he learns of their problems and decides to help, putting his search for the Winged Maiden on hold. With his search on hold, and his growing attachment to Misuzu and the small town, will Yukito ever find the Winged Maiden, or is she closer than he thought?\n<br><br>\n[Written by MAL Rewrite]<br><br>\n\n<i>Note: Includes episode 13, Soushuuhen (Summary).</i>"
+    },
+    {
+      "id": 102,
+      "idMal": 102,
+      "title": {
+        "romaji": "Aishiteruze Baby★★",
+        "english": "Love You Baby",
+        "native": "愛してるぜ ベイベ★★"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 2004,
+      "averageScore": 71,
+      "popularity": 14813,
+      "favourites": 188,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TMS Entertainment"
+          },
+          {
+            "name": "Animax"
+          },
+          {
+            "name": "Toei Video"
+          },
+          {
+            "name": "Sunny Side Up"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 4,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 9
+      },
+      "description": "Katakura Kippei is in every way a high school playboy. Spending his days flirting with any female he can see, responsibility is the last thing on his mind. Life takes an unexpected turn for him as one day he returns home to find himself with the fulltime task of caring for his 5 year old cousin. Kippei's aunt Miyako had disappeared, appearing to have abandoned his cousin, Yuzuyu. With Kippei's lack of responsibility and knowledge of childcare and Yuzuyu's injured heart with the disappearance of her mother, their time together is in for a bumpy ride. Based on the manga by Maki Youko."
+    },
+    {
+      "id": 103,
+      "idMal": 103,
+      "title": {
+        "romaji": "Akazukin Chacha",
+        "english": "Red Riding Hood Chacha",
+        "native": "赤ずきんチャチャ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 74,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 1994,
+      "averageScore": 70,
+      "popularity": 4457,
+      "favourites": 93,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "NAS"
+          },
+          {
+            "name": "Studio Gallop"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 1,
+        "day": 7
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 6,
+        "day": 30
+      },
+      "description": "Chacha is a cheerful girl who spends most of her days practicing magic under her teacher Seravi, hoping to become as skilled as he is. Though Chacha is enthusiastic, her tendency to make unfortunate puns out of her magic chants leaves her teacher wondering if she is ready for magic school. Deciding that there is no better time, Seravi gifts Chacha the Princess Medallion, allowing her to transform into a magical princess capable of defeating even the fiercest opponents.\n\nTogether with her best friends Riiya, a werewolf boy, and Shiine, an apprentice of Seravi's old rival, Dorothy, Chacha sets out to defend the world from sinister forces. However, between the Great Evil Lord plotting against them, Riiya and Shiine's rivalry to win Chacha's affection, as well as Seravi and Dorothy's complicated relationship, Chacha struggles to find balance between fighting evil forces and mending relationships in her everyday life. Though obstacles continue to come her way, Chacha is determined to overcome any problem she faces with love, courage, and hope by her side.<br><br>\n(Source: MAL Rewrite)"
+    },
+    {
+      "id": 104,
+      "idMal": 104,
+      "title": {
+        "romaji": "Ayashi no Ceres",
+        "english": "Ceres, Celestial Legend",
+        "native": "妖しのセレス"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 21,
+      "season": "SPRING",
+      "seasonYear": 2000,
+      "averageScore": 65,
+      "popularity": 9147,
+      "favourites": 113,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Horror",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          },
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2000,
+        "month": 4,
+        "day": 20
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 9,
+        "day": 28
+      },
+      "description": "Ceres was a tennyo, a celestial maiden, who came down from the heavens to bathe in a stream. She hung her hagoromo (robe) on a tree nearby, which was her key to returning to the heavens. But the robe was stolen and the man who had stolen it forced her to become his wife, thus producing a family full of human and tennyo blood mixed. <br><br>\nNow, in modern day time, Aya Mikage is a descendent of Ceres, and has quite an amount of tennyo blood. On her 16th birthday, she and her twin brother, Aki, are thrown a party. At the \"party\", Aya's grandpa plans to kill her, for she has tennyo powers unlike the rest of the family, and can actually become Ceres herself and destroy the Mikage family. Aya, however, can switch back, so this transformation happens quite frequently. <br><br>\nWith protector Yuuhi by her side, it is up to Aya to control Ceres and keep her from coming back, but her relationship with an ex-worker for her evil grandpa may be a distraction."
+    },
+    {
+      "id": 105,
+      "idMal": 105,
+      "title": {
+        "romaji": "BOYS BE ...",
+        "english": null,
+        "native": "BOYS BE・・・"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 2000,
+      "averageScore": 59,
+      "popularity": 4588,
+      "favourites": 22,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Hal Film Maker"
+          },
+          {
+            "name": "The Right Stuf International"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2000,
+        "month": 4,
+        "day": 11
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 7,
+        "day": 4
+      },
+      "description": "There are two sides to every love story, and Boys Be... reveals what's really going on - from the guy's point of view!<br><br>\nMeet three normal high school guys with just one thing on their minds: girls. Quiet Kyoichi has been friends with Chiharu ever since they were young, but lately, his feelings have begun to change. Lecherous Makoto, a self-proclaimed master of the rules of romance, is ready to sweep the ladies off their feet. And Yoshihiko, a handsome sports nut, is unfortunately a bit clueless in matters of the heart.<br><br>\nJoin this hapless trio for a year of romantic misadventures that will change their lives forever!<br><br>\n(Source: RightStuf)"
+    },
+    {
+      "id": 106,
+      "idMal": 106,
+      "title": {
+        "romaji": "Hana Yori Dango",
+        "english": "Hana Yori Dango (Boys Over Flowers)",
+        "native": "花より男子"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 51,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 1996,
+      "averageScore": 71,
+      "popularity": 13595,
+      "favourites": 335,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Viz Media"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1996,
+        "month": 9,
+        "day": 8
+      },
+      "endDate": {
+        "year": 1997,
+        "month": 8,
+        "day": 31
+      },
+      "description": "Makino Tsukushi: a girl who comes from a poor family just wants to get through her 2 last years at Eitoku Gakuen, quietly. But once she makes herself known by standing up for her friend to the F4, the 4 most popular, powerful and rich boys at the school. She gets the red card: F4's way of a \"Declaration of War\". But when she doesn't let herself be beaten by them and is starting to fall for one of the F4; Hanazawa Rui. She starts to see that there is more than meets the eye...\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 107,
+      "idMal": 107,
+      "title": {
+        "romaji": "Ou Dorobou JING",
+        "english": "Jing: King of Bandits",
+        "native": "王ドロボウ JING"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2002,
+      "averageScore": 66,
+      "popularity": 7393,
+      "favourites": 76,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "SME Visual Works"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 5,
+        "day": 15
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 8,
+        "day": 14
+      },
+      "description": "Jing may appear to be a young boy, but his remarkable skills make him one of the most feared thieves on the planet. Along with his feathered partner Kir, Jing travels from town to town, stealing anything of value regardless of the amount of security. But when he's in a pinch, he has one more trick up his sleeve: Kir bonds with Jing's right arm to perform the effectively deadly \"Kir Royale\" attack. And because of all this, Jing is infamously known by many as the \"King of Bandits.\" <br>"
+    },
+    {
+      "id": 108,
+      "idMal": 108,
+      "title": {
+        "romaji": "Ou Dorobou JING in Seventh Heaven",
+        "english": "Jing: King of Bandits - Seventh Heaven",
+        "native": "王ドロボウ JING in Seventh Heaven"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 30,
+      "season": "WINTER",
+      "seasonYear": 2004,
+      "averageScore": 65,
+      "popularity": 2481,
+      "favourites": 19,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Psychological"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Studio DEEN"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 1,
+        "day": 21
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 4,
+        "day": 28
+      },
+      "description": "Jing, the infamous King of Bandits, finds himself and his feathered partner Kir behind bars in Seventh Heaven, the most notorious prison complex in the world. There, they seek to steal the Dream Orb from the convict Campari. But before doing so, they must escape from the prison of dreams that Campari has conjured for them. <br>"
+    },
+    {
+      "id": 109,
+      "idMal": 109,
+      "title": {
+        "romaji": "Bakuretsu Tenshi",
+        "english": "Burst Angel",
+        "native": "爆裂天使"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 2004,
+      "averageScore": 63,
+      "popularity": 12965,
+      "favourites": 117,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "GONZO"
+          },
+          {
+            "name": "GDH"
+          },
+          {
+            "name": "TV Asahi"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Imagica"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 5,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 9,
+        "day": 14
+      },
+      "description": "In a crime-ridden future Japan, Kyohei Tachibana is a peaceful student at a culinary school, dreaming of going to France for advanced study as a patissier (pastry chef). To afford the trip, he accepts a part-time job as private cook to a strange group of women - Sei, Meg, Jo and Amy. To Kyohei's astonishment, they turn out to be a band of violent mercenaries, and he finds himself in the line of fire."
+    },
+    {
+      "id": 110,
+      "idMal": 110,
+      "title": {
+        "romaji": "Chuuka Ichiban!",
+        "english": "Cooking Master Boy",
+        "native": "中華一番!"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 52,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 1997,
+      "averageScore": 70,
+      "popularity": 4541,
+      "favourites": 60,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Nippon Animation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1997,
+        "month": 4,
+        "day": 27
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 9,
+        "day": 13
+      },
+      "description": "The story takes place in 19th century China during the Qing Dynasty, where the Emperor was weakened and the country was close to chaos. It is also during a fictitious era called \"The Era of the Cooking Wars\". It was an era in which top chefs with different cooking styles tried their best to improve their skills and to become the best chef in China. It is a country where insulting a high-grade chef or fooling around with cooking could land a person in a jail, and impersonating a top-chef is as good as usurpation of authority. Chefs compete with each other in order to gain respect and even power, but also with the risks of losing everything.<br><br>\nThe country of China has four major regions: Beijing, Szechuan, Shanghai, and Guangdong.<br><br>\nThe beginning of the story takes place in Szechuan, Mao's birthplace.<br><br>\nAfter the death of Mao's mother, Pai, who was called the 'Fairy of Cuisine', Mao becomes a Super Chef in order to take the title as Master Chef of his mother's restaurant. However, before he takes his mother's place as Master Chef, he continues to travel China in order to learn more of the many ways of cooking, in the hopes of becoming a legendary chef, just like his mother. During his journey, he meets great friends and fierce rivals who wish to challenge him in the field of cooking."
+    },
+    {
+      "id": 111,
+      "idMal": 111,
+      "title": {
+        "romaji": "Corrector Yui",
+        "english": "Corrector Yui",
+        "native": "コレクター・ユイ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 1999,
+      "averageScore": 67,
+      "popularity": 5557,
+      "favourites": 115,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Mahou Shoujo",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Nippon Animation"
+          },
+          {
+            "name": "NHK"
+          },
+          {
+            "name": "Viz Media"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 4,
+        "day": 9
+      },
+      "endDate": {
+        "year": 1999,
+        "month": 10,
+        "day": 15
+      },
+      "description": "In the year 2000-something, a massive central network called Comnet links the computers of the world, forming a single global computer system. Comnet, designed to serve the interests of mankind, is managed by the supercomputer, Grosser. But when Grosser decides to take over the world, a savior is needed!<br>\n<br>\nA computer-illiterate girl named Yui Kasuga happens upon software program IR, which recruits her as savior of Comnet and pulls her into the virtual world inside. There, Yui is given the power to become <i>Corrector Yui</i> so that she can fight against Grosser and his evil Corruptors.<br>\n<br>\nInside the virtual world for the first time, Yui must face one of Grosser's henchmen. She must also battle another of Grosser's minions, this time one who's infecting the e-mail passed between Yui and her friends. And finally, Yui and IR suspect foul play when Chef Kirch, a family friend who can never get his recipes quite right, has to face customers who've turned into ravenous zombies!<br>\n<br>\n(Source: VIZ Media)"
+    },
+    {
+      "id": 112,
+      "idMal": 112,
+      "title": {
+        "romaji": "Chou Henshin Cosprayers",
+        "english": "The Cosmopolitan Prayers",
+        "native": "超変身コス∞プレイヤー"
+      },
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "episodes": 8,
+      "duration": 14,
+      "season": "WINTER",
+      "seasonYear": 2004,
+      "averageScore": 38,
+      "popularity": 2314,
+      "favourites": 10,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "m.o.e."
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 1,
+        "day": 12
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 3,
+        "day": 1
+      },
+      "description": "Koto unknowingly seals away the Sun Goddess Amaterasu, and now she is in a different world and can't return. Meeting priestesses who combat the evil in this strange place she learns that Black Towers throughout the land keep Amatersu sealed away and are guarded by evil monsters. Koto must now find a way to help defeat these monsters and return the world to the way it was.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 113,
+      "idMal": 113,
+      "title": {
+        "romaji": "Uchuu no Stellvia",
+        "english": "Stellvia of the Universe",
+        "native": "宇宙のステルヴィア"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 2003,
+      "averageScore": 70,
+      "popularity": 6554,
+      "favourites": 59,
+      "genres": [
+        "Action",
+        "Mecha",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Xebec"
+          },
+          {
+            "name": "TV Tokyo Music"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 4,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 9,
+        "day": 25
+      },
+      "description": "The year is 2356 A.D. - 189 years after a distant supernova caused a global catastrophe that wiped out 99% of the world population. To keep track on all space activities, mankind has built colossal space stations called \"foundations\" all over the Solar System. After passing the Space Academy entrance exams, Shima Katase embarks to the Earth-based foundation Stellvia to fulfill her dream of seeing the galaxy and to prevent another interstellar catastrophe from destroying Earth.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 114,
+      "idMal": 114,
+      "title": {
+        "romaji": "Sakigake!! Cromartie Koukou",
+        "english": "Cromartie High School",
+        "native": "魁!!クロマティ高校"
+      },
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 12,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 75,
+      "popularity": 36777,
+      "favourites": 791,
+      "genres": [
+        "Comedy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Production I.G"
+          },
+          {
+            "name": "Sentai Filmworks"
+          },
+          {
+            "name": "TV Tokyo Music"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 10,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 3,
+        "day": 26
+      },
+      "description": "Is this the real life? Is this just fantasy?<br>\n<br>\nThe only thing for certain is that for Kamiyama, Cromartie High School is his reality. And what a surreal reality it is.<br>\n<br>\nBecause this is where the toughest, meanest (and often dumbest) students are sent to do time. At Cromartie, purple-mohawked bruisers and pencil-chomping street thugs are just part of every day life. And so is a 400-pound gorilla. And a macho brute named Freddie who travels with his own theme music. And, of course, Mechazawa, the student voted most likely to need an oil change. So pack your bags, put on your best tough-guy swagger, and get a lesson in insanity from the hilarious losers at Cromartie High. This is one class you won't ever want to cut.<br>\n<br>\n(Source: Discotek)"
+    },
+    {
+      "id": 115,
+      "idMal": 115,
+      "title": {
+        "romaji": "Ijigen no Sekai El Hazard",
+        "english": "El Hazard: The Alternative World",
+        "native": "異次元の世界エルハザード"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 25,
+      "season": "WINTER",
+      "seasonYear": 1998,
+      "averageScore": 64,
+      "popularity": 2407,
+      "favourites": 20,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "AIC"
+          },
+          {
+            "name": "Pioneer LDC"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 1,
+        "day": 8
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 3,
+        "day": 26
+      },
+      "description": "A new Priestess of Water has arrived! Her name is Qawool Towles, and though she's only 17, everyone (except for Shayla-Shayla) welcomes her with open arms. But during her initiation ceremony, a mysterious entity named Arjah appears and transports them all to an alternate world!<br>\n<br>\nNow, Makoto and the others are stranded all over again in a strange new kingdom called Creteria. It's a bleak, industrial realm ruled by a despot named Dall. If they ever want to make it back to El-Hazard, they'll have to figure out the secret behind an ancient artifact called the Spring of Life. And they'd better do it fast, because the spring seems to be dying...<br>\n<br>\n(Source: Nozomi Entertainment)"
+    },
+    {
+      "id": 116,
+      "idMal": 116,
+      "title": {
+        "romaji": "Shinpi no Sekai El Hazard (TV)",
+        "english": "El Hazard: The Wanderers",
+        "native": "神秘の世界エルハザード (TV)"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 23,
+      "season": "FALL",
+      "seasonYear": 1995,
+      "averageScore": 67,
+      "popularity": 4470,
+      "favourites": 56,
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          },
+          {
+            "name": "AIC"
+          },
+          {
+            "name": "SoftX"
+          },
+          {
+            "name": "Pioneer LDC"
+          },
+          {
+            "name": "The Right Stuf International"
+          },
+          {
+            "name": "TV Tokyo Music"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1995,
+        "month": 10,
+        "day": 6
+      },
+      "endDate": {
+        "year": 1996,
+        "month": 3,
+        "day": 29
+      },
+      "description": "Makoto Mizuhara is working on his latest experiment in the school science lab, but when he takes a break his lifelong rival Katsuhiko Jinnai shows up and attempts to destroy the device and discredit Makoto. This overloads the experiment and transports Makoto, Jinnai, his sister Nanami, and their teacher Mr. Fujisawa to the strange and magnificent world El Hazard. Makoto and Fujisawa land squarely in the Kingdom of Roshtaria, and quickly befriend the princess Rune Venus. Jinnai allies himself with the Bugrom, a race of giant insects bent on taking over El Hazard, while his sister tries to eke out her own living in the desert. Makoto searches desperately for a way to return home, all the while fighting off the Bugrom, enlisting the help of the Holy Priestesses, and stopping the demon god Ifurita from destroying everything.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 117,
+      "idMal": 117,
+      "title": {
+        "romaji": "Shinpi no Sekai El Hazard",
+        "english": "El Hazard: The Magnificent World",
+        "native": "神秘の世界エルハザード"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 7,
+      "duration": 29,
+      "season": "SPRING",
+      "seasonYear": 1995,
+      "averageScore": 69,
+      "popularity": 5604,
+      "favourites": 63,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "AIC"
+          },
+          {
+            "name": "Pioneer LDC"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1995,
+        "month": 5,
+        "day": 26
+      },
+      "endDate": {
+        "year": 1996,
+        "month": 1,
+        "day": 25
+      },
+      "description": "When Makoto Mizuhara discovers an old monument in his school and awakens a beautiful woman, he, his teacher, his worst enemy and one of his female friends is transported to the magnificent world of El Hazard. There they discovers that they have received some special powers. Makoto and his teacher Fujisawa lands in a jungle and saves a princess from some large bugs. Makoto's friend Nanami lands in a desert. And Makoto's rival, Jinnai lands in the middle of the bug's kingdom and becomes their general, plotting to destroy Makoto and his new friends. After several having his attacks repelled by Makoto several times, Jinnai learns about an ultimate weapon, the demon Ifurita. And so everyone sets of to find Ifurita, and when she's found Makoto learns that she is the same woman that sent them to El Hazard. But the one gaining control of her is Jinnai.\n<br><br>\n(Source: Anime News Network)\n<br><br>\n<i>Note: The first & last episode have a duration of ~46 minutes</i>"
+    },
+    {
+      "id": 118,
+      "idMal": 118,
+      "title": {
+        "romaji": "Shinpi no Sekai El Hazard 2",
+        "english": "El Hazard 2: The Magnificent World",
+        "native": "神秘の世界 エルハザード 2"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 4,
+      "duration": 30,
+      "season": "SPRING",
+      "seasonYear": 1997,
+      "averageScore": 64,
+      "popularity": 2218,
+      "favourites": 17,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "AIC"
+          },
+          {
+            "name": "Pioneer LDC"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1997,
+        "month": 3,
+        "day": 21
+      },
+      "endDate": {
+        "year": 1997,
+        "month": 10,
+        "day": 25
+      },
+      "description": "Continuing the from OVAs; When Fujisawa, suffering from cold feet, leaves Miz at the altar, an enraged Priestess drafts Makoto and friends to go find him. In the couse of locating the hapless (and gutless) teacher, they find another Ifurita. Meanwhile Jinnai and Diva searching for a new Bugrom homeland stumble upon another yet another Demon God, the impish Kalia. However, unlike Ifurita she has a mind, and a mission, of her own...\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 119,
+      "idMal": 119,
+      "title": {
+        "romaji": "Final Approach",
+        "english": null,
+        "native": "Φなる・あぷろーち"
+      },
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 12,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 60,
+      "popularity": 5746,
+      "favourites": 32,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Trinet Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 12,
+        "day": 26
+      },
+      "description": "Ever since their parents died a few years ago, Ryo and his sister Akane have been living alone together. Despite their difficult situation, they are still living reasonably happy and normal lives. However, everything is about to be flipped upside-down due to a secret government project. Due to increasingly low birth rates in Japan, the Japanese government is testing a program in which two young people are forced to marry. Ryo wants no part of it, but he is given little choice in the matter; his new fianc&eacute;e, Shizuka, comes to his home late one night with several dozen government issued bodyguards, who are there to ensure the success of the new couple. Unlike Ryo, Shizuka couldn&rsquo;t be more willing to go along with this new program, and eagerly goes about her wifely duties, despite his objections. With meddling friends, pushy bodyguards, and an overenthusiastic new fianc&eacute;e, Ryo&rsquo;s life has taken a turn in a direction the young man certainly didn&rsquo;t expect.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 120,
+      "idMal": 120,
+      "title": {
+        "romaji": "Fruits Basket",
+        "english": "Fruits Basket",
+        "native": "フルーツバスケット"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 24,
+      "season": "SUMMER",
+      "seasonYear": 2001,
+      "averageScore": 75,
+      "popularity": 98080,
+      "favourites": 2479,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 7,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 12,
+        "day": 27
+      },
+      "description": "Tohru Honda is 16 year old orphaned girl who gets invited to live in the house of her classmate, the handsome boy Sohma Yuki, and his cousins, 16 year old Kyo and 27 year old Shigure. However, these young men and parts of the rest of their family (both close and distant) hold a curse; if they are hugged by the opposite gender, they transform into animals of the Chinese Zodiac. Everyday is an adventure for sweet Tohru, as she gets to know everyone in the large family better (especially Yuki and Kyo), in both common and bizarre situations. But, the Sohma Family curse is certainly no laughing matter... it also holds horrible cruelty and heartbreak."
+    }
+  ]
+}

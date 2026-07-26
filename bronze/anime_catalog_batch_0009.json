@@ -1,0 +1,2480 @@
+{
+  "ingestion_timestamp": "2026-07-26T17:32:48.512450+00:00",
+  "source": "anilist_graphql",
+  "source_page": 9,
+  "records": [
+    {
+      "id": 428,
+      "idMal": 428,
+      "title": {
+        "romaji": "Kaleido Star: Arata Naru Tsubasa EXTRA STAGE",
+        "english": "Kaleido Star: New Wings Extra Stage",
+        "native": "カレイドスター ～新たなる翼～ EXTRA STAGE"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 70,
+      "popularity": 3074,
+      "favourites": 32,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Sports"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "GONZO"
+          },
+          {
+            "name": "Hal Film Maker"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 9,
+        "day": 24
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 9,
+        "day": 24
+      },
+      "description": "Sora Naegino has finally consolidated herself as Kaleido Stage's greatest star ever, and a new star starts to shine as Rosetta Passel is selected to participate in the next attraction in a main role. But when things start to go wrong in the rehearsals, Rosetta starts to question her abillity to take the role, as her own capacity to remain in Kaleido Stage. Meanwhile, Fool also struggles with his demons from the past."
+    },
+    {
+      "id": 429,
+      "idMal": 429,
+      "title": {
+        "romaji": "Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari",
+        "english": "Kaleido Star: Legend of Phoenix",
+        "native": "Legend of Phoenix ～レイラ・ハミルトン物語～"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 50,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 74,
+      "popularity": 2751,
+      "favourites": 31,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Sports"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "GONZO"
+          },
+          {
+            "name": "Hal Film Maker"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "MediaNet"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 12,
+        "day": 11
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 12,
+        "day": 11
+      },
+      "description": "Layla is going to perform Phoenix in Broadway. Playing this important role, she sets out on a journey by bicycle alone without leaving any message in order to find out what is missing in her. <br>"
+    },
+    {
+      "id": 430,
+      "idMal": 430,
+      "title": {
+        "romaji": "Hagane no Renkinjutsushi: Shamballa wo Yuku Mono",
+        "english": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
+        "native": "鋼の錬金術師 シャンバラを征く者"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 105,
+      "season": "SUMMER",
+      "seasonYear": 2005,
+      "averageScore": 71,
+      "popularity": 55539,
+      "favourites": 513,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "bones"
+          },
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "Square Enix"
+          },
+          {
+            "name": "Shouchiku"
+          },
+          {
+            "name": "Mainichi Broadcasting System"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 7,
+        "day": 23
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 7,
+        "day": 23
+      },
+      "description": "Munich, Germany, 1923. Two years have passed since Edward Elric was dragged from his own world to ours, leaving behind his country, his friends and his younger brother, Alphonse. Stripped of his alchemical powers, he has been all this time researching rocketry together with Alphonse Heiderich, a young man who resembles his own brother, hoping to one day find a way back home. His efforts so far had proven fruitless, but after lending a hand to a troubled gypsy girl, Edward is thrown in a series of events that can wreak havoc in both worlds. Meanwhile, at his own world, Alphonse Elric ventures deeper into the mysteries of alchemy in search for a way to reunite with his older brother.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 431,
+      "idMal": 431,
+      "title": {
+        "romaji": "Howl no Ugoku Shiro",
+        "english": "Howl‘s Moving Castle",
+        "native": "ハウルの動く城"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 119,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 85,
+      "popularity": 356860,
+      "favourites": 23423,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Ghibli"
+          },
+          {
+            "name": "d-rights"
+          },
+          {
+            "name": "Tokuma Shoten"
+          },
+          {
+            "name": "Walt Disney Studios"
+          },
+          {
+            "name": "GKIDS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 11,
+        "day": 20
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 11,
+        "day": 20
+      },
+      "description": "Sophie, a quiet girl working in a hat shop, finds her life thrown into turmoil when she is literally swept off her feet by a handsome but mysterious wizard named Howl. The vain and vengeful Witch of the Waste, jealous of their friendship, puts a spell on Sophie. In a life-changing adventure, Sophie climbs aboard Howl's magnificent flying castle and enters a magical world on a quest to break the spell. <br><br>\r\n(Source: Disney)"
+    },
+    {
+      "id": 432,
+      "idMal": 432,
+      "title": {
+        "romaji": "I Я I A ZЁIЯAM THE ANIMATION",
+        "english": "Iria: Zeiram The Animation",
+        "native": "I・Я・I・A ZЁIЯAM THE ANIMATION"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 6,
+      "duration": 27,
+      "season": "SUMMER",
+      "seasonYear": 1994,
+      "averageScore": 67,
+      "popularity": 9405,
+      "favourites": 153,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Ashi Productions"
+          },
+          {
+            "name": "Discotek"
+          },
+          {
+            "name": "d-rights"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 6,
+        "day": 23
+      },
+      "endDate": {
+        "year": 1994,
+        "month": 11,
+        "day": 21
+      },
+      "description": "Iria is the story of a girl and the Alien being she loves to hate. The series begins with her brother, Gren, taking a job. He is a bounty hunter, and one well known for his incredible skill. Iria, being a skilled apprentice bounty hunter herself, tags along. What is the job, one might ask. It is to find out what has happened to the crew and cargo of a Space Station. Needless to say, nothing is as it seems, and the war between Iria and Zeiram begins in earnest. <br>"
+    },
+    {
+      "id": 433,
+      "idMal": 433,
+      "title": {
+        "romaji": "Kumo no Mukou, Yakusoku no Basho",
+        "english": "The Place Promised in Our Early Days",
+        "native": "雲のむこう、約束の場所"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 90,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 68,
+      "popularity": 50828,
+      "favourites": 374,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "CoMix Wave"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 11,
+        "day": 20
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 11,
+        "day": 20
+      },
+      "description": "In an alternate timeline, Japan was divided after losing World War II: Hokkaido was annexed by \"Union\" while Honshu and other southern islands were under US sovereignty. A gigantic yet mysterious tower was constructed at Hokkaido and could be seen clearly from Aomori (the northernmost prefecture of Honshu) across Tsugaru Strait. In the summer of 1996, three 9th-graders had made a promise that one day they'll build an aircraft and unravel the tower's mystery, but their project was abandoned after the girl, Sayuri Sawatari, began experiencing sleeping sickness and transferred to Tokyo for better treatment. Three years later, Hiroki Fujisawa accidentally found out that Sayuri had been in a coma since then, and he asked Takuya Shirakawa to help him finding a way to revive her. What they don't know yet is that Sayuri's unconsciousness is somehow linked with secrets of the tower and the world.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 434,
+      "idMal": 434,
+      "title": {
+        "romaji": "Legend of Lemnear: Kyokuguro no Tsubasa Valkisas",
+        "english": "Legend of Lemnear",
+        "native": "Legend of Lemnear 極黒の翼 バルキサス"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 45,
+      "season": "SUMMER",
+      "seasonYear": 1989,
+      "averageScore": 53,
+      "popularity": 3547,
+      "favourites": 33,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "AIC"
+          },
+          {
+            "name": "Central Park Media"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1989,
+        "month": 7,
+        "day": 25
+      },
+      "endDate": {
+        "year": 1989,
+        "month": 7,
+        "day": 25
+      },
+      "description": "The young and beutiful Lemnear's home village is destroyed and his brother is taken away. Lemnear swears to kill the evil wizard Gardin who is responsible for the disaster. With her allies Lemnear goes on a journey to take her revenge. She doesn't know, though, that there is someone above Gardin...\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 435,
+      "idMal": 435,
+      "title": {
+        "romaji": "Magic Knight Rayearth",
+        "english": "Magic Knight Rayearth",
+        "native": "魔法騎士（マジックナイト）レイアース"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 20,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 1994,
+      "averageScore": 71,
+      "popularity": 20720,
+      "favourites": 372,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Mecha"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Tokyo Movie Shinsha"
+          },
+          {
+            "name": "Discotek"
+          },
+          {
+            "name": "Yomiuri TV"
+          },
+          {
+            "name": "Dentsu"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 10,
+        "day": 17
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 3,
+        "day": 13
+      },
+      "description": "Three young girls, Hikaru, Umi, and Fuu, are transported to a magical world called Cephiro during a field trip to Tokyo Tower. They are soon greeted by Master Mage Clef, who explains to them that they have been summoned to become the Legendary Magic Knights and save Cephiro. The girls are less than enthusiastic about this idea, and only want to return home. Clef further explains that they must seek out the three Rune Gods to help them fight. He bestows armor and magical powers to each of them. They learn from Clef that High Priest Zagato has kidnapped the Pillar of Cephiro, Princess Emeraude. The Pillar of Cephiro has the sole responsibility of keeping Cephiro alive and in balance with her prayers. Without Princess Emeraude, Cephiro would fall into ruin. Hikaru, Umi, and Fuu must fight off Zagato's henchman and find the Rune Gods if they ever want to get back home. They soon learn that friendship and loyalty are the only things they can rely on in the crumbling Cephiro.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 437,
+      "idMal": 437,
+      "title": {
+        "romaji": "PERFECT BLUE",
+        "english": "Perfect Blue",
+        "native": "PERFECT BLUE"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 82,
+      "season": "WINTER",
+      "seasonYear": 1998,
+      "averageScore": 85,
+      "popularity": 240301,
+      "favourites": 17006,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Psychological",
+        "Thriller"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Rex Entertainment "
+          },
+          {
+            "name": "ONIRO"
+          },
+          {
+            "name": "Techno Sound"
+          },
+          {
+            "name": "GKIDS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 2,
+        "day": 28
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 2,
+        "day": 28
+      },
+      "description": "Rising pop star Mima has quit singing to pursue a career as an actress and model, but her fans aren’t ready to see her go... Encouraged by her managers, Mima takes on a recurring role on a popular TV show, when suddenly her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima’s reality and fantasy meld into a frenzied paranoia. As her stalker closes in, in person and online, the threat he poses is more real than even Mima knows, in this iconic psychological thriller that has frequently been hailed as one of the most important animated films of all time.<br>\n<br>\n(Source: Shout! Factory)<br>\n<br>\n<i>Note: The film received an early premiere at the Fantasia Film Festival on August 5, 1997.</i>"
+    },
+    {
+      "id": 438,
+      "idMal": 438,
+      "title": {
+        "romaji": "Phantom: THE ANIMATION",
+        "english": "Phantom: The Animation",
+        "native": "ファントム THE ANIMATION"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 30,
+      "season": "WINTER",
+      "seasonYear": 2004,
+      "averageScore": 58,
+      "popularity": 3505,
+      "favourites": 11,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "KSS"
+          },
+          {
+            "name": "Media Blasters"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 2,
+        "day": 27
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 11,
+        "day": 26
+      },
+      "description": "Zwei was an ordinary person, until one day, while walking the streets a night, he witnessed a brutal assassination. He managed to avoid the sniper, a young girl named Ein, but was soon captured, and had the memories of his former life erased. He is spared death only by accepting a condition : to train to become an assassin alongside Ein. Now he must find a way to free himself from this shady world and reclaim his life once again.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 439,
+      "idMal": 439,
+      "title": {
+        "romaji": "Seiden: RG VEDA",
+        "english": "RG Veda",
+        "native": "聖伝-RG VEDA-"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 45,
+      "season": "SUMMER",
+      "seasonYear": 1991,
+      "averageScore": 56,
+      "popularity": 2647,
+      "favourites": 15,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Animate"
+          },
+          {
+            "name": "Central Park Media"
+          },
+          {
+            "name": "Movic"
+          },
+          {
+            "name": "Sony Music Entertainment"
+          },
+          {
+            "name": "KSS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1991,
+        "month": 6,
+        "day": 1
+      },
+      "endDate": {
+        "year": 1992,
+        "month": 6,
+        "day": 21
+      },
+      "description": "At the dawn of time, the gods ruled the universe under the leadership of the mighty Tentei. But suddenly, the ferocious general, Taishakuten, appears, and destroys Tentei. Taishakuten declares that a new age has begun, and all who oppose him will die horribly. But legend says that a shimmering six-pointed star will rise into the heavens and restore the world to a golden age. The six points are six warriors, each with the power to move the stars and the hearts of all people...\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 440,
+      "idMal": 440,
+      "title": {
+        "romaji": "Shoujo Kakumei Utena",
+        "english": "Revolutionary Girl Utena",
+        "native": "少女革命ウテナ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 39,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 1997,
+      "averageScore": 83,
+      "popularity": 79415,
+      "favourites": 6237,
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Psychological",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "The Right Stuf International"
+          },
+          {
+            "name": "Central Park Media"
+          },
+          {
+            "name": "Yomiuri Advertising"
+          },
+          {
+            "name": "SoftX"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1997,
+        "month": 4,
+        "day": 2
+      },
+      "endDate": {
+        "year": 1997,
+        "month": 12,
+        "day": 24
+      },
+      "description": "Just after Utena's parents died, she was consoled by a prince who gave her a ring with a rose crest on it. Utena was so impressed by the Prince that she vowed to become one herself one day. A few years later, Utena is attending Ohtori Academy where she gives all the teachers headaches because she dresses in a boy's uniform so she can be like the prince she met long ago. <br><br>\nAfter Utena's friend is insulted by a member of the Student Council, Utena fights in a duel for her friend's honor. Utena's rose crest allows her to enter the dueling arena, where Utena wins the duel and becomes engaged to the Rose Bride. Unknowingly, Utena is pulled into a series of duels with other members of the Student Council for the possession of the Rose Bride. As she becomes fond of Anthy, the Rose Bride, she must fight to keep her friend safe and to discover the horrifying secret behind Ohtori Academy.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 441,
+      "idMal": 441,
+      "title": {
+        "romaji": "Shoujo Kakumei Utena: Adolescence Mokushiroku",
+        "english": "Revolutionary Girl Utena: The Adolescence of Utena",
+        "native": "少女革命ウテナ アドゥレセンス黙示録"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 90,
+      "season": "SUMMER",
+      "seasonYear": 1999,
+      "averageScore": 79,
+      "popularity": 21687,
+      "favourites": 1231,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Psychological",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "Central Park Media"
+          },
+          {
+            "name": "Toei"
+          },
+          {
+            "name": "Shogakukan"
+          },
+          {
+            "name": "GANSIS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 8,
+        "day": 14
+      },
+      "endDate": {
+        "year": 1999,
+        "month": 8,
+        "day": 14
+      },
+      "description": "In a loose retelling of the Revolutionary Girl Utena TV series, Utena Tenjou arrives at Ohtori Academy, only to be immediately swept up in a series of duels for the hand of her classmate Anthy Himemiya and the power she supposedly holds. At the same time, Utena reunites with Touga Kiryuu, a friend from her childhood who seems to know the secrets behind the duels. Utena must discover those secrets for herself, before the power that rules Ohtori claims her and her friends, new and old. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 442,
+      "idMal": 442,
+      "title": {
+        "romaji": "NARUTO: Dai Katsugeki! Yuki Hime Ninpouchou Dattebayo!!",
+        "english": "Naruto the Movie: Ninja Clash in the Land of Snow",
+        "native": "劇場版 NARUTO -ナルト- 大活劇!雪姫忍法帖だってばよ!!"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 90,
+      "season": "SUMMER",
+      "seasonYear": 2004,
+      "averageScore": 68,
+      "popularity": 51714,
+      "favourites": 384,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          },
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "Viz Media"
+          },
+          {
+            "name": "Bandai"
+          },
+          {
+            "name": "TV Tokyo Music"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 8,
+        "day": 21
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 8,
+        "day": 21
+      },
+      "description": "Kakashi orders Naruto, Sasuke, and Sakura to watch a movie before their next mission. Naruto is a big fan of the lead actress. After the movie, they see the heroine in person and being chased. They help her and Naruto asks for an autograph but she wouldn't give him one. When the three returns, Kakashi tells them about their mission: to escort the actress to the Snow Country to film a new movie.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 443,
+      "idMal": 443,
+      "title": {
+        "romaji": "Onegai☆Teacher OVA",
+        "english": "Please☆Teacher!: Secret Couple",
+        "native": "おねがい☆ティーチャー"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 21,
+      "season": "FALL",
+      "seasonYear": 2002,
+      "averageScore": 68,
+      "popularity": 9009,
+      "favourites": 74,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "WOWOW"
+          },
+          {
+            "name": "Lantis"
+          },
+          {
+            "name": "Bandai Entertainment"
+          },
+          {
+            "name": "Daume"
+          },
+          {
+            "name": "Genco"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 10,
+        "day": 25
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 10,
+        "day": 25
+      },
+      "description": "Kei and Mizuho are having some marital difficulties, and Mizuho's family decides it's high time for a visit.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 444,
+      "idMal": 444,
+      "title": {
+        "romaji": "Maria-sama ga Miteru: Haru",
+        "english": "Maria Watches Over Us: Printemps",
+        "native": "マリア様がみてる～春～"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "SUMMER",
+      "seasonYear": 2004,
+      "averageScore": 73,
+      "popularity": 6561,
+      "favourites": 91,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "The Right Stuf International"
+          },
+          {
+            "name": "d-rights"
+          },
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "Yomiko Advertising"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 7,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 9,
+        "day": 26
+      },
+      "description": "The second season of <i>Maria-sama ga Miteru</i>.<br>\n<br>\nThe spring term is beginning for the students at Lillian Girls' Academy. Friends are reunited, but for the Yamayuri Council, it's a bittersweet time. Yoko, Eriko, and Sei are busy preparing to depart Lillian while Sachiko, Rei, and Shimako are doing their best to ensure that their dear sisters receive a memorable commencement.<br><br>\nSei's departure will leave a sizable hole in the White Roses, and filling it won't be easy. But is there anyone who could appeal to Shimako enough to become the next Rosa Gigantea en bouton?<br><br>\n(Source: RightStuf)"
+    },
+    {
+      "id": 445,
+      "idMal": 445,
+      "title": {
+        "romaji": "Tales of Eternia THE ANIMATION",
+        "english": "Tales of Eternia",
+        "native": "テイルズ オブ エターニア THE ANIMATION"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 22,
+      "season": "WINTER",
+      "seasonYear": 2001,
+      "averageScore": 58,
+      "popularity": 4009,
+      "favourites": 26,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Production I.G"
+          },
+          {
+            "name": "Xebec"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "Yomiko Advertising"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 1,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 3,
+        "day": 26
+      },
+      "description": "In order to prevent the catastrophe called the Grand Fall, Rid Hershel and his companions Farah, Keel and Meredy have obtained the three Greater Spirits (\"Craymels\" in the game version) of Inferia. En route to Mount Farlos, Rid is kidnapped by the bounty hunter Marone Blucarno, and the party is compelled to head to Belcarnu, an archipelago far from the major cities of Inferia. A series of adventures forces them to remain on the islands, where a more immediate threat to Inferia sleeps.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 446,
+      "idMal": 446,
+      "title": {
+        "romaji": "Weiß Kreuz Glühen",
+        "english": "Knight Hunters Eternity",
+        "native": "ヴァイスクロイツ・グリーエン"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 20,
+      "season": "FALL",
+      "seasonYear": 2002,
+      "averageScore": 59,
+      "popularity": 1873,
+      "favourites": 10,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "ufotable"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "NYAV Post"
+          },
+          {
+            "name": "Animate Film"
+          },
+          {
+            "name": "Movic"
+          },
+          {
+            "name": "Kids Station"
+          },
+          {
+            "name": "Studio Flag"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 11,
+        "day": 28
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 3,
+        "day": 20
+      },
+      "description": "Koua is an academy that brings Japanese's most talented people and students together. The mission is to train talented people to bear the world's future leadership. However, recently, the suicide rate in the academy is increasing and there is hardly any information being released to the public. <br><br>\nFujimiya Aya is sent to infiltrate this school carrying out criminal investigation and disguise himself as a teacher. In fact, actually, there is a connection between Koua academy and the global terrorist activities that are frequently occurring. Therefore Persia assigns Hidaka Ken and Kudou Youji as well into this mission to solve the truth and connection of the incident behind Koua academy. <br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": 447,
+      "idMal": 447,
+      "title": {
+        "romaji": "Weiß kreuz",
+        "english": "Knight Hunters",
+        "native": "Weiß kreuz　ヴァイス　クロイツ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 25,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 1998,
+      "averageScore": 60,
+      "popularity": 3450,
+      "favourites": 34,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Polygram Japan"
+          },
+          {
+            "name": "Magic Bus"
+          },
+          {
+            "name": "Plum"
+          },
+          {
+            "name": "Animate Film"
+          },
+          {
+            "name": "Media Blasters"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 4,
+        "day": 9
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 10,
+        "day": 1
+      },
+      "description": "Aya, Yoji, Ken, and Omi are the four young men who comprise Weiss Kreuz (WK), an assassin group who eliminates certain menaces to society. Each member has his own trademark fighting style. Aya is adept at fighting with a katana, Yoji has mastered the art of strangulation via strings, Ken is lethal with his metal claws, while Omi specializes in a wide array of projectiles. Under the command of a mysterious man known only as \"Persia\", the WK is dispatched to take care of drug rings, terrorist factions, and the like. But as things go along, they discover that most, if not all, the bad elements they have dealt with are somehow connected to the Takatori family. The Takatori family is rich, powerful, and influential. It seems if the problem is to be nipped in the bud, the WK would have to put an end to one of Japan's most prominent clans. <br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": 448,
+      "idMal": 448,
+      "title": {
+        "romaji": "Tenjou Tenge: ULTIMATE FIGHT",
+        "english": "Tenjho Tenge: The Ultimate Fight",
+        "native": "天上天下ULTIMATE FIGHT"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 2,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 66,
+      "popularity": 7242,
+      "favourites": 31,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 16
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 16
+      },
+      "description": "Continues from where the original series left off. The characters try to settle their conflicts with each other in this 2 episode OAV. Aya confronts her sister Maya about Nagi, while Nagi receives a challenge from Mitsuomi to fight to the death. Meanwhile, Bob trains as hard as he can for the tournament.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 449,
+      "idMal": 449,
+      "title": {
+        "romaji": "Inuyasha: Guren no Houraijima",
+        "english": "InuYasha the Movie 4: Fire on the Mystic Island",
+        "native": "犬夜叉 紅蓮の蓬莱島"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 88,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 73,
+      "popularity": 16368,
+      "favourites": 164,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Viz Media"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 12,
+        "day": 23
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 12,
+        "day": 23
+      },
+      "description": "The mysterious island of Houraijima has reappeared after 50 years, and with its reappearance has brought the attack of four gods, the Shitoushin, who have their eyes set on the powers that protect and sustain the island. Now it's up to Inuyasha and his friends, along with Sesshoumaru, to find a way to defeat the powerful Shitoushin.\n<br><br>\n(Source: Anime News Network)\n<br>"
+    },
+    {
+      "id": 450,
+      "idMal": 450,
+      "title": {
+        "romaji": "Inuyasha: Kagami no Naka no Mugenjo",
+        "english": "InuYasha the Movie 2: The Castle Beyond the Looking Glass",
+        "native": "犬夜叉 鏡の中の夢幻城"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 99,
+      "season": "FALL",
+      "seasonYear": 2002,
+      "averageScore": 74,
+      "popularity": 18002,
+      "favourites": 236,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Kyoto Animation"
+          },
+          {
+            "name": "Viz Media"
+          },
+          {
+            "name": "Ashi Productions"
+          },
+          {
+            "name": "Sunrise"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 12,
+        "day": 21
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 12,
+        "day": 21
+      },
+      "description": "Inuyasha and company have finally destroyed Naraku. And each start to go in their separate ways. Sango going to find her younger brother Kohaku; Miroku back to his old home; Inuyasha, Kagome and Shippou go to gather the rest of the Shikon shards. Unfortunately this peace is not to last. Shortly afterwards the full moon rises, and just keeps rising each night bringing with it the promise of danger. Kagura and Kanna go in search of a mirror, where locked inside is the ruler of the eternal night, Kaguya. To set her free they must gather five items and drop them into the five lakes of Fuji. Setting her free means the worst danger for Inuyasha and the others. Who are forced to face this new threat.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 451,
+      "idMal": 451,
+      "title": {
+        "romaji": "Inuyasha: Tenka Hadou no Ken",
+        "english": "InuYasha the Movie 3: Swords of an Honorable Ruler",
+        "native": "犬夜叉 天下覇道の剣"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 99,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 75,
+      "popularity": 17134,
+      "favourites": 193,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Kyoto Animation"
+          },
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Viz Media"
+          },
+          {
+            "name": "YTV"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 12,
+        "day": 20
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 12,
+        "day": 20
+      },
+      "description": "Izayoi and Inu no Taishou, Inuyasha's parents, are having problems with a human named Setsuna no Takemaru. Sou'unga a magical sword that has been sealed away for 700 years is found. Now everyone is after the sword and its powers but it seems the sword has something else in mind.\n<br><br>\n(Source: Anime News Network)\n<br>"
+    },
+    {
+      "id": 452,
+      "idMal": 452,
+      "title": {
+        "romaji": "Inuyasha: Toki wo Koeru Omoi",
+        "english": "InuYasha the Movie: Affections Touching Across Time",
+        "native": "犬夜叉 時代を越える想い"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 100,
+      "season": "FALL",
+      "seasonYear": 2001,
+      "averageScore": 73,
+      "popularity": 18655,
+      "favourites": 214,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Viz Media"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 12,
+        "day": 22
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 12,
+        "day": 22
+      },
+      "description": "200 years ago, InuYasha's father sealed away a powerful demon from China named Hyoga... A Shikon Jewel shard awakens Hyoga's son, Menomaru, inspiring him to absorb the remains of his father's power to take control of the world! It's now up to InuYasha and his friends to stop this nearly invincible foe!<br>\n<br>\n(Source: VIZ Media)"
+    },
+    {
+      "id": 454,
+      "idMal": 454,
+      "title": {
+        "romaji": ".hack//GIFT",
+        "english": ".hack//Gift",
+        "native": ".hack//GIFT"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 26,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 55,
+      "popularity": 3872,
+      "favourites": 10,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bee Train"
+          },
+          {
+            "name": "CyberConnect2"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 11,
+        "day": 16
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 11,
+        "day": 16
+      },
+      "description": "As an expression of gratitude for the heroes of both the \".hack//Sign\" and the \".hack\" game series, Helba has prepared a special event for all the characters to find the newly established 'Twilight Hot Springs'. The characters can get their well deserved rest and relaxation by having a soak in the wonderful hot springs, but there is only one problem -- the hot springs are hidden and there have been mysterious player murders. With the only clue being the word &ldquo;GIFT&rdquo;, the race has begun to find the culprit and the location of the hot springs.<br><br>\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": 455,
+      "idMal": 455,
+      "title": {
+        "romaji": "Fantastic Children",
+        "english": "Fantastic Children",
+        "native": "ファンタジックチルドレン"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 73,
+      "popularity": 9955,
+      "favourites": 156,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Nippon Animation"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 29
+      },
+      "description": "A group of enigmatic white-haired children has been spotted at different times and places in Europe for over 500 years. Always with the appearance of 11-year-olds, they behave far more mature than they should be, never grow old, and seem to have supernatural power. What they have been seeking is a girl, and the only clue they have is a picture with a crescent moon. Now, in the year of 2012, an athletic boy named Tohma is about to be involved in this centuries-long mystery.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 456,
+      "idMal": 456,
+      "title": {
+        "romaji": "Gokujou Seitokai",
+        "english": "Best Student Council",
+        "native": "極上生徒会"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 65,
+      "popularity": 4424,
+      "favourites": 27,
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "Konami"
+          },
+          {
+            "name": "ADV Films"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 4,
+        "day": 7
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 9,
+        "day": 29
+      },
+      "description": "Randou Rino is a young girl with a head full of air and a talking puppet on her hand. She is accepted into the illustrious Gokujou all-girl's school, and is summarily, almost curiously, accepted as part of the even more illustrious Gokujou Student Council, who has more power and business ventures than most large businesses. Now a part of the student council, she befriends the talented members of the Gokujou Student Council, leaving one to wonder how a girl with seemingly no talents or redeeming qualities would get chosen for such a group.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 457,
+      "idMal": 457,
+      "title": {
+        "romaji": "Mushishi",
+        "english": "MUSHI-SHI",
+        "native": "蟲師"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 85,
+      "popularity": 191197,
+      "favourites": 8668,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Mystery",
+        "Psychological",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Artland"
+          },
+          {
+            "name": "Marvelous Entertainment"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Delfi Sound"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 10,
+        "day": 23
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 6,
+        "day": 19
+      },
+      "description": "Neither good nor evil, they are life in its purest form. Vulgar and strange, they have inspired fear in humans since the dawn of time and have, over the ages, come to be known as \"mushi.\" The stories of the Mushi and the people they affect are all linked together by a traveling Mushi-shi, or \"Mushi Master,\" who seeks rare Mushi sightings and uses his shaman-like knowledge of Mushi to help the affected people.<br>\n<br>\nWhat are the Mushi and what do they want?<br>\n<br>\n(Source: Funimation)"
+    },
+    {
+      "id": 458,
+      "idMal": 458,
+      "title": {
+        "romaji": "Buttobi!! CPU",
+        "english": "I Dream of Mimi",
+        "native": "ぶっとび!!CPU"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 27,
+      "season": "SPRING",
+      "seasonYear": 1997,
+      "averageScore": 60,
+      "popularity": 4141,
+      "favourites": 41,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "OLM"
+          },
+          {
+            "name": "The Right Stuf International"
+          },
+          {
+            "name": "Pink Pineapple"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1997,
+        "month": 4,
+        "day": 25
+      },
+      "endDate": {
+        "year": 1997,
+        "month": 9,
+        "day": 26
+      },
+      "description": "For three years Akira has been saving up for a computer. When a model 9821 goes on sale he runs to the store only to find it sold out in five minutes. Discouraged, walking home he discovers a man in an alley who happens to have the computer he was looking for. Excited he buys the computer and runs home only to find that he didn&rsquo;t purchase a 9821 but a 2198, a super advanced biomechanical computer girl named Mimi."
+    },
+    {
+      "id": 459,
+      "idMal": 459,
+      "title": {
+        "romaji": "ONE PIECE (Movie)",
+        "english": "ONE PIECE: The Movie",
+        "native": "ONE PIECE (Movie)"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 50,
+      "season": "WINTER",
+      "seasonYear": 2000,
+      "averageScore": 68,
+      "popularity": 34873,
+      "favourites": 286,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2000,
+        "month": 3,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 3,
+        "day": 4
+      },
+      "description": "There once was a pirate known as the Great Gold Pirate Woonan, who obtained almost 1/3 of the world's gold. Over the course of a few years, the pirate's existence faded, and a legend grew that he disappeared with his gold to a remote island, an island pirates continue to search for. Aboard the Going Merry, Luffy and his crew, starved and reckless, are robbed of their treasure. In an attempt to get it back, they wreck the getaway ship, guided by a young boy named Tabio, who's a captured part of El Drago's pirate crew. El Drago's love for gold has driven him to look for Woonan's island, and thanks to Woonan's treasure map, he finds it. During this time, Luffy's crew have been split up, and despite their own circumstances, they must find a way to stop El Drago from obtaining Woonan's gold. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 460,
+      "idMal": 460,
+      "title": {
+        "romaji": "ONE PIECE: Nejimaki-jima no Bouken",
+        "english": "One Piece: Clockwork Island Adventure",
+        "native": "ONE PIECE ねじまき島の冒険"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 55,
+      "season": "SPRING",
+      "seasonYear": 2001,
+      "averageScore": 67,
+      "popularity": 26498,
+      "favourites": 160,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Fujipacific Music"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 3,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 3,
+        "day": 3
+      },
+      "description": "Informed by the Thief Brothers his ship has been stolen by the Trump Kyoudai (Trump Siblings) who have set up base on Clockwork Island. Monkey D. Luffy, Captain of the Going Merry and aspiring Pirate King works with his crew - Ussop, Zoro, Sanji and Nami to battle their way up Clockwork Island to reclaim their ship.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 461,
+      "idMal": 461,
+      "title": {
+        "romaji": "ONE PIECE: Chinjuu-jima no Chopper Oukoku",
+        "english": "One Piece: Chopper’s Kingdom on the Island of Strange Animals",
+        "native": "ONE PIECE 珍獣島のチョッパー王国"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 55,
+      "season": "SPRING",
+      "seasonYear": 2002,
+      "averageScore": 64,
+      "popularity": 22620,
+      "favourites": 140,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Fujipacific Music"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 3,
+        "day": 2
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 3,
+        "day": 2
+      },
+      "description": "The crew comes upon Crown Island where the animals can talk and they makes Chopper their new king. But there are human hunters there also looking for the legendary horns that will give the person who consumes it immense power. Luffy and friends must stop them from destroying this animal kingdom.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 462,
+      "idMal": 462,
+      "title": {
+        "romaji": "ONE PIECE THE MOVIE: Dead End no Bouken",
+        "english": "One Piece The Movie: The Dead End Adventure",
+        "native": "ONE PIECE THE MOVIE デッドエンドの冒険"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 95,
+      "season": "SPRING",
+      "seasonYear": 2003,
+      "averageScore": 72,
+      "popularity": 25111,
+      "favourites": 207,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Fujipacific Music"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 3,
+        "day": 1
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 3,
+        "day": 1
+      },
+      "description": "Luffy and crew arrive at the harbour of Anabaru. The local casino is holding a competition in which the winner will obtain a huge monetary reward if he reaches the finishing line first. Nami is elated and decides to participate in the competition. However, there is a conspiracy going behind the competition and the mastermind is an ex-military commander, Gasparde. His plan is to lure all the pirates to the military base and send them to their deaths. Luffy and gang have to overcome the numerous tests and tribulations along the way to complete this dead-end adventure. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 463,
+      "idMal": 463,
+      "title": {
+        "romaji": "ONE PIECE: Norowareta Seiken",
+        "english": "One Piece: The Curse of the Sacred Sword",
+        "native": "ONE PIECE 呪われた聖剣"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 95,
+      "season": "SPRING",
+      "seasonYear": 2004,
+      "averageScore": 67,
+      "popularity": 21131,
+      "favourites": 142,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 3,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 3,
+        "day": 6
+      },
+      "description": "Luffy and crew go to an island searching for a legendary sword, said to be the most expensive in the world. Soon attacking marines and beautiful maidens split the crew. Zoro betrays the crew to help an old friend, Luffy and Usopp wander through a cave, and the rest help a village fight marines. When Zoro defeats Sanji he takes the sacred pearls that are the only defense against the evil sword that will plunge the world into darkness. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 464,
+      "idMal": 464,
+      "title": {
+        "romaji": "ONE PIECE THE MOVIE: Omatsuri Danshaku to Himitsu no Shima",
+        "english": "One Piece: Baron Omatsuri and the Secret Island",
+        "native": "ONE PIECE THE MOVIE オマツリ男爵と秘密の島"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 91,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 78,
+      "popularity": 33279,
+      "favourites": 926,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Fuji TV"
+          },
+          {
+            "name": "Fujipacific Music"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 5
+      },
+      "description": "The Straw Hat crew obtain an advertisement for a recreational island on the Grand Line run by the Baron Omatsuri. Luffy decides to take this opportunity to kick back and relax. Unfortunately, when they arrive at the island, they are asked to compete in contests through unity for access to relaxation. However, there seems to be a mysterious air on the island, as the Straw Hat Pirates begin to fight amongst themselves, while Robin, Chopper, and Luffy individually search for the secret behind Baron Omatsuri's island.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 465,
+      "idMal": 465,
+      "title": {
+        "romaji": "ONE PIECE THE MOVIE: Karakuri-jou no Mecha Kyohei",
+        "english": "One Piece: Mega Mecha Soldier of Karakuri Castle",
+        "native": "ONE PIECE THE MOVIE カラクリ城のメカ巨兵"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 94,
+      "season": "SPRING",
+      "seasonYear": 2006,
+      "averageScore": 67,
+      "popularity": 19528,
+      "favourites": 115,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Fujipacific Music"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2006,
+        "month": 3,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 3,
+        "day": 4
+      },
+      "description": "The crew salvages a treasure chest from a sinking wreck, but inside turns out to be an old lady hiding. To get the Straw Hat Pirates to take her home, she promises them the treasure of a golden crown on her island, Mecha Island. When they arrive, their ship is first attacked by the lord of the island. But later he decides to use the pirates to help him solve the riddle of the Golden Crown.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 466,
+      "idMal": 466,
+      "title": {
+        "romaji": "ONE PIECE: Taose! Kaizoku Ganzack",
+        "english": "One Piece: Defeat the Pirate Ganzack!",
+        "native": "ONE PIECE 倒せ!海賊ギャンザック"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 28,
+      "season": "SUMMER",
+      "seasonYear": 1998,
+      "averageScore": 64,
+      "popularity": 13290,
+      "favourites": 90,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Production I.G"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 7,
+        "day": 26
+      },
+      "endDate": {
+        "year": 1998,
+        "month": 7,
+        "day": 26
+      },
+      "description": "While Luffy and his crew of Zoro and Nami are starving on their small boat, they are attacked by a large monster. Nami is taken away, while Luffy and Zoro wash up on shore. There they meet a young girl, Medaka, and learn of the sad history of the island. The evil Pirate Ganzack has taken away all the men in the village and enslaved them, including Medaka's father. Now Luffy, Zoro, and Medaka must infiltrate Ganzack's base in order to rescue the villagers and Nami. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 467,
+      "idMal": 467,
+      "title": {
+        "romaji": "Koukaku Kidoutai: STAND ALONE COMPLEX",
+        "english": "Ghost in the Shell: Stand Alone Complex",
+        "native": "攻殻機動隊 STAND ALONE COMPLEX"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 2002,
+      "averageScore": 82,
+      "popularity": 81054,
+      "favourites": 2758,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Production I.G"
+          },
+          {
+            "name": "Kodansha"
+          },
+          {
+            "name": "Trilogy Future Studio"
+          },
+          {
+            "name": "Bandai Entertainment"
+          },
+          {
+            "name": "Tokuma Shoten"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 10,
+        "day": 1
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 3,
+        "day": 25
+      },
+      "description": "In the not so distant future, mankind has advanced to a state where complete body transplants from flesh to machine is possible. This allows for great increases in both physical and cybernetic prowess and blurring the lines between the two worlds. However, criminals can also make full use of such technology, leading to new and sometimes, very dangerous crimes. In response to such innovative new methods, the Japanese Government has established Section 9, an independently operating police unit which deals with such highly sensitive crimes.<br><br>\nLed by Daisuke Aramaki and Motoko Kusanagi, Section 9 deals with such crimes over the entire social spectrum, usually with success. However, when faced with a new A level hacker nicknamed “The Laughing Man”, the team is thrown into a dangerous cat and mouse game, following the hacker’s trail as it leaves its mark on Japan.<br><br>\n(Source: MyAnimeList)"
+    },
+    {
+      "id": 468,
+      "idMal": 468,
+      "title": {
+        "romaji": "Innocence",
+        "english": "Ghost in the Shell 2: Innocence",
+        "native": "イノセンス"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 100,
+      "season": "SPRING",
+      "seasonYear": 2004,
+      "averageScore": 75,
+      "popularity": 40503,
+      "favourites": 1031,
+      "genres": [
+        "Action",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Production I.G"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 3,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 3,
+        "day": 6
+      },
+      "description": "The year is 2032. With the advancement of medical technology humanity has grown into a more technologically driven creature, creating a breed of cyborg citizen. Along with the development of cybernetics the world has seen rapid development in the field of artificial intelligence, making androids a commercially viable venture.<br>\n<br>\nA recent string of murders perpetrated by a prototype female android has drawn the attention of Section 9, a unit specializing in counter cyber-terrorism. With none of the victims' families pressing charges, suspicions arise regarding the nature of the androids and their production.<br>\n<br>\nMonths have passed since the end of the Puppet Master incident, and with the Major still missing investigative duties fall to her cyborg commando partner Batou and his newly recruited biological partner, Togusa. Can the two overcome their differences and discover the truth behind this string of murders?<br>\n<br>\n(Source: Bandai Entertainment)"
+    },
+    {
+      "id": 469,
+      "idMal": 469,
+      "title": {
+        "romaji": "Karin",
+        "english": "Karin: Chibi Vampire",
+        "native": "かりん"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 23,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 67,
+      "popularity": 27167,
+      "favourites": 338,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "Kadokawa Shoten"
+          },
+          {
+            "name": "Frontier Works"
+          },
+          {
+            "name": "WOWOW"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 11,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 5,
+        "day": 11
+      },
+      "description": "Maaka Karin comes from a family of vampires living in Japan, but she is not a normal vampire. Vampires are normally supposed to drink the blood of their victims but Karin suffers from a condition that causes her body to produce excessive amounts of blood. About once a month, she has to get rid of the excess blood by giving it to her \"victims.\" But she somehow manages to go to school like everyone else her age.<br><br>\nWell, things are about to get more complicated. When a new student, Usui Kenta transfers into Karin's class, she starts producing unusually huge amounts of blood, almost as if in reaction to him. Worse, he happens upon Karin's true nature..."
+    },
+    {
+      "id": 470,
+      "idMal": 470,
+      "title": {
+        "romaji": "Okusama wa Joshikousei",
+        "english": null,
+        "native": "おくさまは女子高生"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "SUMMER",
+      "seasonYear": 2005,
+      "averageScore": 59,
+      "popularity": 6253,
+      "favourites": 52,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 7,
+        "day": 2
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 9,
+        "day": 24
+      },
+      "description": "Asami Onohara is a seventeen-year old high-school student with a secret which has not been revealed to anyone: She is already married. Her husband, Kyosuke Ichimaru, is a Physics teacher in the same high school as her. However, even though they are officially a married couple, Asami's father forbids them to have any sexual contact until after Asami has graduated. Asami has to hide the fact that she is married to Kyosuke while trying desperately to further their relationship, and it does not help when there are so many interferences and obstacles from her father and other third parties. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 471,
+      "idMal": 471,
+      "title": {
+        "romaji": "ToHeart2",
+        "english": "To Heart 2",
+        "native": "ToHeart2"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 60,
+      "popularity": 4690,
+      "favourites": 44,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "OLM"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 10,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 12,
+        "day": 26
+      },
+      "description": "Following her graduation from middle school, Konomi Yuzuhara enters the same high school as Takaaki Kono, her childhood friend. As the new school year begins, they meet their childhood friend Tamaki Kosaka, as well as many new accquaintances. Unbeknownst to the group, their encounters with each other will soon lead to many memorable adventures.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 472,
+      "idMal": 472,
+      "title": {
+        "romaji": "ToHeart",
+        "english": "To Heart",
+        "native": "ToHeart"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 1999,
+      "averageScore": 64,
+      "popularity": 8743,
+      "favourites": 138,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "KSS"
+          },
+          {
+            "name": "The Right Stuf International"
+          },
+          {
+            "name": "OLM"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 4,
+        "day": 2
+      },
+      "endDate": {
+        "year": 1999,
+        "month": 6,
+        "day": 25
+      },
+      "description": "For as long as Akari can remember, she and Hiroyuki have always been friends. But with time, everything changes, and her feelings have turned into something more. As a new semester of high school begins, will the two childhood friends come closer together or drift further apart? Join Hiroyuki, Akari and all their friends - the bubbly Shiho, the quiet Serika, the lovely Kotone, and more - in this heartwarming tale of love, relationships and friendship! <br><br>\n(Source: RightStuf)"
+    },
+    {
+      "id": 473,
+      "idMal": 473,
+      "title": {
+        "romaji": "Tide-Line Blue",
+        "english": null,
+        "native": "タイドライン・ブルー"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 20,
+      "season": "SUMMER",
+      "seasonYear": 2005,
+      "averageScore": 63,
+      "popularity": 2077,
+      "favourites": 10,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "TV Asahi"
+          },
+          {
+            "name": "Telecom Animation Film"
+          },
+          {
+            "name": "Lantis"
+          },
+          {
+            "name": "Bandai Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 7,
+        "day": 7
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 9,
+        "day": 29
+      },
+      "description": "The catastrophe, \"Hammer of Eden\", resulted in the loss of six billion lives and the flooding of 90% of the land. The New United Nations were formed to pursue peace on the ruined lands 14 years later. Keel is a boy living in a town called Yabitsu, an area which prospered due to the energy from the nuclear generator brought by the catastrophe. His next kin, Aoi, is the secretary general of the New United Nations. She views the catastrophe as an opportunity to create a new world in which nations can help one another overcome differences in races and religions. However, her efforts to realise that vision fail because of the unwillingness of the nations to change. Gould, a military officer, feels that the only way to make an order is through the military. Using Ulysses, a nuclear submarine, along with his crew, including Keel's brother Tean, Gould carries out a coup to declare war against the New United Nations in his attack on Yabitsu.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 474,
+      "idMal": 474,
+      "title": {
+        "romaji": "Macross Plus",
+        "english": "Macross Plus",
+        "native": "マクロスプラス"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 4,
+      "duration": 39,
+      "season": "SUMMER",
+      "seasonYear": 1994,
+      "averageScore": 75,
+      "popularity": 16806,
+      "favourites": 424,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Music",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Triangle Staff"
+          },
+          {
+            "name": "Manga Entertainment"
+          },
+          {
+            "name": "Madman Entertainment"
+          },
+          {
+            "name": "Selecta Visión"
+          },
+          {
+            "name": "Studio Nue"
+          },
+          {
+            "name": "Shogakukan-Shueisha Productions"
+          },
+          {
+            "name": "Hero"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1994,
+        "month": 8,
+        "day": 25
+      },
+      "endDate": {
+        "year": 1995,
+        "month": 6,
+        "day": 25
+      },
+      "description": "The year is 2040 and the galaxy is flourishing with several colonies and advanced technology. AI is near perfection and the current top idol is the near-completed Virturoid Idol Sharon Apple. All that is missing are her actual feelings, which instead are supplied by Myung Fang Lone. Sharon's debut concert is on planet Eden, where at the same time, fighter pilots Isamu Dyson and Guld Bowman battle over air superiority for the \"Supernova Project.\" Isamu, Guld and Myung were once childhood friends, but after an accident seven years ago, they went their own separate ways. With Myung back in the picture, the old disputes are once again awakened. And when an unstable and illegal AI technique is installed in Sharon, the situation is worsened.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 475,
+      "idMal": 475,
+      "title": {
+        "romaji": "Hotori: Tada Saiwai wo Koinegau",
+        "english": "Hotori: Simply Wishing for Hope",
+        "native": "ほとり～たださいわいを希う"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 40,
+      "season": "SUMMER",
+      "seasonYear": 2005,
+      "averageScore": 64,
+      "popularity": 2056,
+      "favourites": 13,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Animax"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 8,
+        "day": 28
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 8,
+        "day": 28
+      },
+      "description": "At the Personality Plant, robots are being built and slowly outfitted with the artificial memories of real people. Suzu is one such robot, being made to replace the young boy a family has lost. By chance, he meets a Hotori, a young girl suffering from progressive memory loss. The two children become friends and attempt to define themselves in the light of their changing memories.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 476,
+      "idMal": 476,
+      "title": {
+        "romaji": "Ginban Kaleidoscope",
+        "english": "Skating Rink Kaleidoscope",
+        "native": "銀盤カレイドスコープ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 68,
+      "popularity": 8345,
+      "favourites": 63,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sports",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "Karaku"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 10,
+        "day": 9
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 12,
+        "day": 25
+      },
+      "description": "With $10 billion worth of beauty (or so she says), Sakurano Tazusa is a contestant for the selection of the Japanese representative at the winter Olympics' figure skating competition. However, her ability is questionable in the eyes of the media and public, as she constantly falls during critical moments in her competitions. During a particular fall, at the same time, a Canadian teen by the name of Pete Pumps perishes as an accident occurs during an air stunt. Before being allowed to pass on into the after life, Pete possess' Tazusa supposedly for a hundred days, living on in her body. Despite the discontent and anger Tazusa faced having her body and privacy invaded by this Canadian ghost, she moves her focus onto improving herself in hopes to be selected for the Olympics."
+    },
+    {
+      "id": 477,
+      "idMal": 477,
+      "title": {
+        "romaji": "ARIA The ANIMATION",
+        "english": "ARIA The ANIMATION",
+        "native": "ARIA The ANIMATION"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 76,
+      "popularity": 55585,
+      "favourites": 1333,
+      "genres": [
+        "Fantasy",
+        "Sci-Fi",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Hal Film Maker"
+          },
+          {
+            "name": "The Right Stuf International"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 10,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 12,
+        "day": 29
+      },
+      "description": "Drift peacefully into Neo Venezia, a city on the planet Aqua (formerly known as Mars). By the 24th century, humans have found a way to colonize the previously uninhabitable planet. As futuristic as that sounds, Neo Venezia is still teeming with rustic beauty; gondolas on wide canals and waterways are the main mode of transportation. The city itself is a faithful replication of Manhome's (the planet formerly known as Earth) Venice.<br>\n<br>\nTo make sure that residents and tourists alike get the most from Neo Venezia's many wonders, companies offering guided tours via gondola were formed, one of which is named Aria Company.<br>\n<br>\nThis is the workplace of Akari Mizunashi, a free spirited teenager from Manhome who is now a novice Undine (the title given to tour guides). Join Akari as she becomes intimately acquainted with other Undine, tourists, Neo Venezia's residents, and even the city itself, learning many valuable life lessons along the way, such as the wonderful truth that there are such things as manmade miracles.\n"
+    },
+    {
+      "id": 478,
+      "idMal": 478,
+      "title": {
+        "romaji": "Sousei no Aquarion",
+        "english": "Aquarion",
+        "native": "創聖のアクエリオン"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 67,
+      "popularity": 17490,
+      "favourites": 224,
+      "genres": [
+        "Action",
+        "Mecha",
+        "Romance",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Satelight"
+          },
+          {
+            "name": "Touhouku Shinsha"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Media Factory"
+          },
+          {
+            "name": "Ashi Productions"
+          },
+          {
+            "name": "Bandai"
+          },
+          {
+            "name": "Tohokushinsha Film Corporation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 4,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 9,
+        "day": 27
+      },
+      "description": "When the Shadow Angels invade after 12,000 years of slumber, humanity is held captive by fear and sheer alien dominance. Eleven years after the Great Catastrophe decimated the world, most of those left alive are scavengers, dirty and starving in the streets. There is hope, however: Mechanical Angel Aquarion!<br>\n<br>\nPowered by three souls intertwined, a rare breed of pilot takes the controls. Known as Elements, one among them must rise if mankind is to survive. Prophecy is being fulfilled as the end of the world approaches... Through a swirling cloud of love, betrayal, loss and destiny, the last hope for the new century arrives and takes flight!<br>\n<br>\n(Source: Funimation)"
+    },
+    {
+      "id": 479,
+      "idMal": 479,
+      "title": {
+        "romaji": "Ueki no Housoku",
+        "english": "The Law of Ueki",
+        "native": "うえきの法則"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 51,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 73,
+      "popularity": 22100,
+      "favourites": 370,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          },
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "Shogakukan-Shueisha Productions"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Studio Izena"
+          },
+          {
+            "name": "Studio Tulip"
+          },
+          {
+            "name": "TV Tokyo Music"
+          },
+          {
+            "name": "TV Tokyo"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 4,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 3,
+        "day": 27
+      },
+      "description": "Kousuke Ueki, a student of the Hinokuni Junior High School, is picked by a God Candidate, Koba-sen, to participate in a competition where people battle out to become God and only the strongest will prevail. Embodied with the ability to turn garbage into trees, Kousuke will be joining in the battle against other junior high school students in this selection. This sets the premise for the earth-friendly battle where the students will pit their powers against the rest.\n<br><br>\n(Source: Anime News Network)"
+    }
+  ]
+}

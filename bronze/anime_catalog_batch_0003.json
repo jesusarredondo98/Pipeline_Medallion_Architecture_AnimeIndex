@@ -1,0 +1,2581 @@
+{
+  "ingestion_timestamp": "2026-07-26T17:31:56.475444+00:00",
+  "source": "anilist_graphql",
+  "source_page": 3,
+  "records": [
+    {
+      "id": 121,
+      "idMal": 121,
+      "title": {
+        "romaji": "Hagane no Renkinjutsushi",
+        "english": "Fullmetal Alchemist",
+        "native": "鋼の錬金術師"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 51,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 79,
+      "popularity": 261923,
+      "favourites": 7943,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "bones"
+          },
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "Square Enix"
+          },
+          {
+            "name": "Mainichi Broadcasting System"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 10,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 2
+      },
+      "description": "The rules of alchemy state that to gain something, one must lose something of equal value. Alchemy is the process of taking apart and reconstructing an object into a different entity, with the rules of alchemy to govern this procedure. However, there exists an object that can bring any alchemist above these rules, the object known as the Philosopher's Stone. The young Edward Elric is a particularly talented alchemist who through an accident years back lost his younger brother Alphonse and one of his legs. Sacrificing one of his arms as well, he used alchemy to bind his brother's soul to a suit of armor. This lead to the beginning of their journey to restore their bodies, in search for the legendary Philosopher's Stone.\n<br><br>\n<i>Note: Episodes 11, 12 and 37 were adapted from the light novel \"Fullmetal Alchemist: The Land of Sand.\"</i>"
+    },
+    {
+      "id": 122,
+      "idMal": 122,
+      "title": {
+        "romaji": "Full Moon wo Sagashite",
+        "english": "Looking for the Full Moon",
+        "native": "満月をさがして"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 52,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2002,
+      "averageScore": 76,
+      "popularity": 21869,
+      "favourites": 716,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mahou Shoujo",
+        "Music",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "Viz Media"
+          },
+          {
+            "name": "NAS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 4,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 3,
+        "day": 29
+      },
+      "description": "Twelve-year-old Kouyama Mitsuki was devastated when she was diagnosed with a malignant tumor of the throat. She had made a promise to the boy she loves that she would one day become a singer, but her illness made singing impossible. To make matters even worse, two angels of death, Takuto and Meroko, appeared to Mitsuki and informed her that she only had one year left to live. This news provides an even greater motivation for Mitsuki to fulfill her dreams, and with a little bit of divine intervention, she begins her quest to become a professional singer so she can be reunited with Eichi before time runs out. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 123,
+      "idMal": 123,
+      "title": {
+        "romaji": "Fushigi Yuugi",
+        "english": "Fushigi Yugi: The Mysterious Play",
+        "native": "ふしぎ遊戯"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 52,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 1995,
+      "averageScore": 71,
+      "popularity": 21312,
+      "favourites": 526,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          },
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          },
+          {
+            "name": "Shogakukan-Shueisha Productions"
+          },
+          {
+            "name": "Yomiko Advertising"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "Apollon"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1995,
+        "month": 4,
+        "day": 6
+      },
+      "endDate": {
+        "year": 1996,
+        "month": 3,
+        "day": 28
+      },
+      "description": "While visiting the National Library, junior-high students Miaka Yuuki and Yui Hongo are transported into the world of a mysterious book set in ancient China, &ldquo;The Universe of The Four Gods.&rdquo; Miaka suddenly finds herself with the responsibility of being the priestess of Suzaku, and must find all of her celestial warriors for the purpose of summoning Suzaku for three wishes. However, the enemy nation of the god Seiryuu has manipulated Yui into becoming the priestess of Seiryuu. As enemies, the former best friends begin their long struggle to summon their respective gods and obtain their wishes&hellip;<br><br>\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": 124,
+      "idMal": 124,
+      "title": {
+        "romaji": "Fushigi Yuugi: Eikoden",
+        "english": "Mysterious Play: Eikoden",
+        "native": "ふしぎ遊戯 -永光伝-"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 4,
+      "duration": 29,
+      "season": "FALL",
+      "seasonYear": 2001,
+      "averageScore": 61,
+      "popularity": 3169,
+      "favourites": 32,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          },
+          {
+            "name": "Fuji Creative Corporation"
+          },
+          {
+            "name": "Shogakukan-Shueisha Productions"
+          },
+          {
+            "name": "Geneon Entertainment"
+          },
+          {
+            "name": "Studio Pierrot"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 12,
+        "day": 21
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 6,
+        "day": 25
+      },
+      "description": "Taka (technically Tamahome) and Miaka are now happily married and only six months before their new family would be born, but an obessed girl named Mayo would do anything to make Taka hers. She enters the world of the Four Gods, determined to win Taka's heart and be the new priestess."
+    },
+    {
+      "id": 125,
+      "idMal": 125,
+      "title": {
+        "romaji": "Futakoi",
+        "english": "Futakoi",
+        "native": "双恋"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 60,
+      "popularity": 6700,
+      "favourites": 40,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Telecom Animation Film"
+          },
+          {
+            "name": "Lantis"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 12,
+        "day": 29
+      },
+      "description": "With his mother dead and his father working abroad, Futami Nozomu returns to the town where he lived as a child, to attend high school and work part-time at a local shrine. He soon finds himself caught up in a local legend of twin girls loving the same man. And there are many twin girls in this town....\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 126,
+      "idMal": 126,
+      "title": {
+        "romaji": "Futakoi Alternative",
+        "english": "Futakoi Alternative",
+        "native": "フタコイ オルタナティブ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 65,
+      "popularity": 6558,
+      "favourites": 69,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "ufotable"
+          },
+          {
+            "name": "feel."
+          },
+          {
+            "name": "Studio Flag"
+          },
+          {
+            "name": "Lantis"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 4,
+        "day": 7
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 6,
+        "day": 30
+      },
+      "description": "The Futaba Detective Agency, being run by Rentarou, who has taken over the family business, after his father's death 3 weeks ago. Along with Sara &amp; Souju, his live-in identical twin assistants, he ends up running afoul of the local Yakuza.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 127,
+      "idMal": 127,
+      "title": {
+        "romaji": "Gate Keepers",
+        "english": "Gate Keepers",
+        "native": "ゲートキーパーズ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 2000,
+      "averageScore": 64,
+      "popularity": 4618,
+      "favourites": 50,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "GONZO"
+          },
+          {
+            "name": "Media Factory"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2000,
+        "month": 4,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 9,
+        "day": 18
+      },
+      "description": "It is Tokyo, 1969. Earth is under the attack of the \"Invaders.\" Fortunately, though, the public is unaware of this. But to the secret orginazation, A.E.G.I.S., the threat is very real, and it is up them to stop this invasion. One day on his route to high school, Ukiya Shun observes a battle between a young girl and a group of Invaders. He ends up helping her and discovers that much like the girl, he possesses the ability to generate a \"gate\" of special power that only a few other people are gifted with. As a result, Ukiya then joins A.E.G.I.S. in an effort to recruit other Gate Keepers in order to protect the city, all while doing his best not to imitate his late father, whom he dispises.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 128,
+      "idMal": 128,
+      "title": {
+        "romaji": "Gate Keepers 21",
+        "english": null,
+        "native": "ゲートキーパーズ21"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 6,
+      "duration": 30,
+      "season": "SPRING",
+      "seasonYear": 2002,
+      "averageScore": 62,
+      "popularity": 2233,
+      "favourites": 20,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "GONZO"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 4,
+        "day": 24
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 1,
+        "day": 8
+      },
+      "description": "32 years have passed since the initial defeat of the Invaders. A.E.G.I.S is all but dismantled now and has become an underground organiziation consisting of only a few Gate Keepers left to save humanity. One of the members, Ayane Isuzu, is sick of society as a whole, though she continues to defeat the Invaders out of spite for her father. Suddenly, she learns of the revival of Machine General (Kikai Shogun) and Devil Count (Akuma Hakushaku), but a mysterious ghost girl now accompanies them. It is up to Ayane and the remnants of A.E.G.I.S to stop them and save humanity once again.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 129,
+      "idMal": 129,
+      "title": {
+        "romaji": "Gensou Maden Saiyuuki",
+        "english": "Saiyuki",
+        "native": "幻想魔伝 最遊記"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 50,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 2000,
+      "averageScore": 70,
+      "popularity": 10881,
+      "favourites": 188,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Group TAC"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "Studio Pierrot"
+          },
+          {
+            "name": "Dentsu"
+          },
+          {
+            "name": "TV Tokyo"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2000,
+        "month": 4,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 3,
+        "day": 27
+      },
+      "description": "Many years ago, humans and demons lived in harmony. But that unity ended when demons started attacking humans and plotted a mission to unleash Gyumao - an evil demon imprisoned for thousands of years. Now, Genjo Sanzo, a rogue priest, must team up with three demons - Sha Gojyo, Son Goku, and Cho Hakkai - and embark on a perilous journey to the west to stop these demons from resurrecting Gyumao and restore the balance between humans and demons on Earth.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 130,
+      "idMal": 130,
+      "title": {
+        "romaji": "Saiyuuki RELOAD",
+        "english": "Saiyuki Reload",
+        "native": "最遊記RELOAD"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 25,
+      "duration": 20,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 69,
+      "popularity": 6400,
+      "favourites": 74,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          },
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "Dentsu"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 10,
+        "day": 2
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 3,
+        "day": 25
+      },
+      "description": "Priest Genjo Sanzo and companions Cho Hakkai, Sha Gojyo, and Son Goku maintain their westward journey to stop the resurrection of the demon Gyoumao. As the reputation of the Sanzo Ikkou precedes them, they continue to fight demon assassins at every turn, but they must also deal with increasing tensions within their group in order to defeat a powerful enemy.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 131,
+      "idMal": 131,
+      "title": {
+        "romaji": "Saiyuuki RELOAD GUNLOCK",
+        "english": "Saiyuki Gunlock",
+        "native": "最遊記RELOAD GUNLOCK"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2004,
+      "averageScore": 68,
+      "popularity": 4194,
+      "favourites": 36,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 4,
+        "day": 2
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 9,
+        "day": 24
+      },
+      "description": "The Sanzo Ikkou continues its westward journey, on a mission to prevent a demonic resurrection. As Genjo Sanzo, Cho Hakkai, Sha Gojyo, and Son Goku fight their way to their goal, their path is fraught with internal strife. When they encounter a formidable pair of adversaries from the west, the cohesion of the group -- and the fate of the mission -- may be at stake.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 132,
+      "idMal": 132,
+      "title": {
+        "romaji": "GetBackers: Dakkanya",
+        "english": "GetBackers",
+        "native": "GetBackers 奪還屋"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 49,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2002,
+      "averageScore": 71,
+      "popularity": 20179,
+      "favourites": 322,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "Kodansha"
+          },
+          {
+            "name": "Rondo Robe"
+          },
+          {
+            "name": "Rakuonsha"
+          },
+          {
+            "name": "Sentai Filmworks"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 10,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 9,
+        "day": 20
+      },
+      "description": "Ban Mido and Ginji Amano run a freelance business of recovering anything lost or stolen from a client—and they claim a 100% success rate. They call themselves the GetBackers, and they're a super powered duo whose job lands them in dangerous predicaments. Although they have many adventures on their recovery quests, each has a mysterious past that rears its ugly head at the most inoportune moments. It's wild and crazy and one awesome anime ride!<br>\n<br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": 133,
+      "idMal": 133,
+      "title": {
+        "romaji": "Green Green",
+        "english": "Green Green",
+        "native": "グリーングリーン"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "SUMMER",
+      "seasonYear": 2003,
+      "averageScore": 53,
+      "popularity": 16714,
+      "favourites": 98,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Matrix"
+          },
+          {
+            "name": "Pony Canyon"
+          },
+          {
+            "name": "Media Blasters"
+          },
+          {
+            "name": "Memory-Tech"
+          },
+          {
+            "name": "Pony Canyon Enterprise"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 7,
+        "day": 12
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 9,
+        "day": 27
+      },
+      "description": "Kanenone Academy was an all-boys high school isolated from the world by mountains and hills. Yusuke Takasaki, the average 11th grader, led a normal life in the academy until the academy announced attempting for co-ed, and high-school girls were being transferred for the summer semester.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 134,
+      "idMal": 134,
+      "title": {
+        "romaji": "GUNSLINGER GIRL",
+        "english": "Gunslinger Girl",
+        "native": "GUNSLINGER GIRL"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 74,
+      "popularity": 42576,
+      "favourites": 1847,
+      "genres": [
+        "Action",
+        "Drama",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Marvelous Entertainment"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Fuji TV"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 10,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 2,
+        "day": 19
+      },
+      "description": "Officially, the Social Welfare Agency is a government sponsored corporation that's in the business of saving lives. In reality, it's an agency on the fringe of technology. They give terminal patients another shot at life using cybernetic implants. This conditioning process then shapes the patient into an efficient machine for handling all of the government's dirty work.<br>\n<br>\n(Source: Funimation)"
+    },
+    {
+      "id": 135,
+      "idMal": 135,
+      "title": {
+        "romaji": "Hikaru no Go",
+        "english": "Hikaru no Go",
+        "native": "ヒカルの碁"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 75,
+      "duration": 23,
+      "season": "FALL",
+      "seasonYear": 2001,
+      "averageScore": 78,
+      "popularity": 27624,
+      "favourites": 766,
+      "genres": [
+        "Comedy",
+        "Sports",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          },
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "Dentsu"
+          },
+          {
+            "name": "Viz Media"
+          },
+          {
+            "name": "Dream Force"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 10,
+        "day": 10
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 3,
+        "day": 26
+      },
+      "description": "With a two-tone hairstyle and a streak of immaturity, Hikaru Shindou finds an old Go board with a hidden surprise - trapped within the Go Board is Fujiwara-no-Sai, the ghost of an ancient Go master! In the blink of an eye, Sai becomes part of Hikaru's consciousness and soon begins to learn the true essence behind this ancient game of skill and strategy.<br>\n<br>\n(Source: VIZ Media)"
+    },
+    {
+      "id": 136,
+      "idMal": 136,
+      "title": {
+        "romaji": "HUNTER×HUNTER",
+        "english": "Hunter x Hunter",
+        "native": "HUNTER×HUNTER"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 62,
+      "duration": 23,
+      "season": "FALL",
+      "seasonYear": 1999,
+      "averageScore": 83,
+      "popularity": 132109,
+      "favourites": 4653,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Nippon Animation"
+          },
+          {
+            "name": "Viz Media"
+          },
+          {
+            "name": "Fuji TV"
+          },
+          {
+            "name": "Shueisha"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 10,
+        "day": 16
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 3,
+        "day": 31
+      },
+      "description": "A Hunter is one who travels the world doing all sorts of dangerous tasks. From capturing criminals to searching deep within uncharted lands for any lost treasures. Gon is a young boy whose father disappeared long ago, being a Hunter. He believes if he could also follow his father's path, he could one day reunite with him.<br><br>\nAfter becoming 12, Gon leaves his home and takes on the task of entering the Hunter exam, notorious for its low success rate and high probability of death to become an official Hunter. He befriends the revenge-driven Kurapika, the doctor-to-be Leorio and the rebellious ex-assassin Killua in the exam, with their friendship prevailing throughout the many trials and threats they come upon taking on the dangerous career of a Hunter. Based on the manga by Togashi Yoshihiro."
+    },
+    {
+      "id": 137,
+      "idMal": 137,
+      "title": {
+        "romaji": "HUNTER×HUNTER OVA",
+        "english": "Hunter x Hunter: Yorknew City",
+        "native": "HUNTER×HUNTER OVA"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 8,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2002,
+      "averageScore": 82,
+      "popularity": 30080,
+      "favourites": 559,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Nippon Animation"
+          },
+          {
+            "name": "Shueisha"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 1,
+        "day": 17
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 4,
+        "day": 17
+      },
+      "description": "After reuniting with Gon and his friends, Kurapika explained to them the risks he bears because of his abilities. Believing that his target of revenge is no longer alive and the search for his fallen comrade's eyes could truly begin, Kurapika soon after receives a message informing him that all the Spiders still lived. After much discussion between his friends, Gon, Kurapika and company decided to hunt after the one Spider member who's ability could ultimately result in Kurapika's defeat and death. Based on the manga by Togashi Yoshihiro."
+    },
+    {
+      "id": 138,
+      "idMal": 138,
+      "title": {
+        "romaji": "HUNTER×HUNTER: Greed Island",
+        "english": null,
+        "native": "HUNTER×HUNTER: Greed Island"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 8,
+      "duration": 22,
+      "season": "WINTER",
+      "seasonYear": 2003,
+      "averageScore": 79,
+      "popularity": 33501,
+      "favourites": 392,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Nippon Animation"
+          },
+          {
+            "name": "Shueisha"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 2,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 4,
+        "day": 16
+      },
+      "description": "After the battle with the Spiders, the search for Ging continues as Gon and Killua decided to once again attempt to purchase the rare game \"Greed Island\". However, Gon came up with a better plan, which was to volunteer to complete the game for the billionaire who owned it. But some training must be done, as Gon and Killua's abilities are still at a developing stage and \"Greed Island\" is no simple game for anyone to play with. It is the infamous game that could easily lead to one's death. Based on the manga by Togashi Yoshihiro."
+    },
+    {
+      "id": 139,
+      "idMal": 139,
+      "title": {
+        "romaji": "HUNTER×HUNTER: Greed Island Final",
+        "english": null,
+        "native": "HUNTER×HUNTER　G・I　Final"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 14,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2004,
+      "averageScore": 79,
+      "popularity": 27853,
+      "favourites": 300,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Nippon Animation"
+          },
+          {
+            "name": "Studio Matrix"
+          },
+          {
+            "name": "Shueisha"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 3,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 8,
+        "day": 18
+      },
+      "description": "Continuing with their adventure at Greed Island, Gon and Killua train furiously under the guidance of Biscuit for better preparation at attempting the game. With their abilities vastly improving and the threat of player killers menacing Greed Island, Gon and company continue the game despite the dangers that they will face with the game activities and encounters with other players. Based on the manga by Togashi Yoshihiro."
+    },
+    {
+      "id": 141,
+      "idMal": 141,
+      "title": {
+        "romaji": "Jinki:Extend",
+        "english": "Jinki:Extend",
+        "native": "ジンキ・エクステンド"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 23,
+      "season": "WINTER",
+      "seasonYear": 2005,
+      "averageScore": 56,
+      "popularity": 3065,
+      "favourites": 12,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "feel."
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "GANSIS"
+          },
+          {
+            "name": "TV Asahi"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 1,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 3,
+        "day": 23
+      },
+      "description": "Aoba used to spend all her time building model robots. But after a strange enemy emerges from beneath the planet’s surface, she joins an elite unit that uses giant robots to save the world! Aoba’s new life is dangerous, and the action can only intensify when a greater threat appears from the shadows. <br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": 142,
+      "idMal": 142,
+      "title": {
+        "romaji": "Kamikaze Kaitou Jeanne",
+        "english": null,
+        "native": "神風怪盗ジャンヌ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 44,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 1999,
+      "averageScore": 71,
+      "popularity": 11068,
+      "favourites": 278,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Mystery",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "TV Asahi"
+          },
+          {
+            "name": "Toei Agency"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 2,
+        "day": 13
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 1,
+        "day": 29
+      },
+      "description": "A normal looking high school girl on the outside, Kusakabe Maron is actually the reincarnation of Jeanne d' Arc. With the help of the angel, Fin Fish, Maron works as the thief Jeanne at night to seal the demons that reside in pieces of artwork, preying upon the weak hearts of the owners. She is branded as a thief due to the fact that the artworks disappear after she seals the demons. One day, a new neighbor and classmate appears, as well as a rival in her night job, the thief Sinbad. With her own best friend being the detective's daughter, out to capture her and the appearance of her new rival, Maron's work is anything but easy."
+    },
+    {
+      "id": 143,
+      "idMal": 143,
+      "title": {
+        "romaji": "Kannazuki no Miko",
+        "english": "Destiny of the Shrine Maiden",
+        "native": "神無月の巫女"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2004,
+      "averageScore": 62,
+      "popularity": 16038,
+      "favourites": 229,
+      "genres": [
+        "Drama",
+        "Mecha",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Fantasia"
+          },
+          {
+            "name": "NBCUniversal Entertainment Japan"
+          },
+          {
+            "name": "Remic"
+          },
+          {
+            "name": "Front Line"
+          },
+          {
+            "name": "TNK"
+          },
+          {
+            "name": "Kodansha"
+          },
+          {
+            "name": "Rondo Robe"
+          },
+          {
+            "name": "Sentai Filmworks"
+          },
+          {
+            "name": "Memory-Tech"
+          },
+          {
+            "name": "Toshiba Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 10,
+        "day": 2
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 12,
+        "day": 18
+      },
+      "description": "The highborn Himemiya Chikane is cool and aloof, the perfect young lady of good breeding. Kurusegawa Himeko is devoted to her, and secretly her friend. Their lives are undisturbed in their school, until an ancient evil suddenly rears its head. To combat it, Chikane and Himeko must take on the roles of shrine maidens of the Moon and Sun."
+    },
+    {
+      "id": 144,
+      "idMal": 144,
+      "title": {
+        "romaji": "Kanon",
+        "english": null,
+        "native": "カノン"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2002,
+      "averageScore": 65,
+      "popularity": 15560,
+      "favourites": 113,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Movic"
+          },
+          {
+            "name": "Fuji TV"
+          },
+          {
+            "name": "Fujipacific Music"
+          },
+          {
+            "name": "Key"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 1,
+        "day": 31
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 3,
+        "day": 28
+      },
+      "description": "Changing schools is something Yuuchi is accustomed to, due to his parent's profession, and with their recent venture to Africa, he is returning to his aunt's home after 7 years. The time that has passed since his last visit has faded his memories of the people he knew, and the ties that bonded them to him, including his cousin Nayuki. Slowly those people, coincidently all being girls, find their way back to him. However, time has passed and things have happened in their own lives that sets the tone for the series. Secrets that are coming to surface, and memories that are returning to not only Yuuichi, but to those surrounding him. A very heartwarming tale that touches upon a spectrum of emotions, mystery, and the supernatural.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 145,
+      "idMal": 145,
+      "title": {
+        "romaji": "Kareshi Kanojo no Jijou",
+        "english": "His and Her Circumstances",
+        "native": "彼氏彼女の事情"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 1998,
+      "averageScore": 76,
+      "popularity": 66602,
+      "favourites": 2283,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Gainax"
+          },
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "The Right Stuf International"
+          },
+          {
+            "name": "GANSIS"
+          },
+          {
+            "name": "TV Tokyo"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1998,
+        "month": 10,
+        "day": 2
+      },
+      "endDate": {
+        "year": 1999,
+        "month": 3,
+        "day": 26
+      },
+      "description": "Miyazawa Yukino is the perfect student. Kind, intelligent, pretty and modest, it's unbelievable that such a person could exist. Little did everyone know Yukino's perfection was just a facade. An act to fulfill her desire for praise and admiration. Her life took a turn however, as a newcomer to their school Arima Soichiro topped the exam rankings. Arima is more than just intelligent, he's also kind, handsome and modest, an unbelievable person who can actually exist. Even worse luck, Arima found out Yukino's secret, blackmailing her to help him out. Their odd relationship soon develops into friendship and eventually into love. But can their love prevail through the many problems that come their way?"
+    },
+    {
+      "id": 146,
+      "idMal": 146,
+      "title": {
+        "romaji": "Kono Minikuku mo Utsukushii Sekai",
+        "english": "This Ugly Yet Beautiful World",
+        "native": "この醜くも美しい世界"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2004,
+      "averageScore": 62,
+      "popularity": 10976,
+      "favourites": 53,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Gainax"
+          },
+          {
+            "name": "Shaft"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "Rondo Robe"
+          },
+          {
+            "name": "Movic"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 4,
+        "day": 2
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 6,
+        "day": 18
+      },
+      "description": "High school student Takeru Takemoto works part time as a (motor)bike courier. During one of his deliveries, he saw a mysterious light passing him and fell into a forest. What he had found was a beautiful girl coming out from a glowing cocoon, calling herself \"Hikari.\" While Takeru was quite embarrassed because of Hikari's nudity, a strange monster suddenly showed up and immediately attacked the two. Both Takeru and Hikari demonstrated the power of their other selves before Takeru had a clue of what's going on.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 147,
+      "idMal": 147,
+      "title": {
+        "romaji": "Kimi ga Nozomu Eien",
+        "english": "Rumbling Hearts",
+        "native": "君が望む永遠"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 14,
+      "duration": 23,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 67,
+      "popularity": 25186,
+      "favourites": 267,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Fantasia"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Lantis"
+          },
+          {
+            "name": "Media Factory"
+          },
+          {
+            "name": "Age"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 10,
+        "day": 5
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 1,
+        "day": 4
+      },
+      "description": "At first, Takayuki Narumi is befriended by Mitsuki Hayase only because Mitsuki's best friend, Haruka Suzumiya has a crush on him; however since then, Takayuki, his pal Shinji Taira, and Mitsuki have grown to be the best of friends. Then one day, Haruka confesses to Takayuki her love for him. Not wanting to hurt her feelings, Takayuki agrees to go out with her. After a few incidents, their relationship gets intimate, even while Takayuki and Mitsuki begin to realize their feelings for each other. But suddenly, when tragedy strikes, things are never the same for these four friends again. <br>"
+    },
+    {
+      "id": 148,
+      "idMal": 148,
+      "title": {
+        "romaji": "Kita e.: Diamond Dust Drops",
+        "english": "Diamond Daydreams",
+        "native": "北へ。 ～Diamond Dust Drops～"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2004,
+      "averageScore": 62,
+      "popularity": 2529,
+      "favourites": 11,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "AT-X"
+          },
+          {
+            "name": "Avex Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 1,
+        "day": 20
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 4,
+        "day": 5
+      },
+      "description": "If a couple sees the diamond dust together, then they will certainly find eternal happiness. Or so it is said. This is a drama about the romances, friendships and conflicts of six girls from Hokkaido and how the diamond dust affects them and eventually links them together in the search for happiness.\n<br><br>\n(Source: Anime News Network)\n<br>"
+    },
+    {
+      "id": 149,
+      "idMal": 149,
+      "title": {
+        "romaji": "LOVELESS",
+        "english": "Loveless",
+        "native": "LOVELESS"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2005,
+      "averageScore": 58,
+      "popularity": 17025,
+      "favourites": 179,
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "TV Asahi"
+          },
+          {
+            "name": "Movic"
+          },
+          {
+            "name": "Media Blasters"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 4,
+        "day": 7
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 6,
+        "day": 30
+      },
+      "description": "Twelve-year old Aoyagi Ritsuka is left with his insane mother as his only family when his brother, Seimei, is killed suddenly. After moving to a new school, he meets Agatsuma Soubi, who claims to have known his brother. Ritsuka eventually discovers that Soubi and Seimei used to be a fighting pair, whereby Soubi was the \"Fighter\" and Seimei was the \"Sacrifice\". Now that Seimei is gone, Ritsuka has inherited Soubi, who will become his \"Fighter\". After learning that Seimei was killed by an organisation known as the \"Seven Moons\", Ritsuka decides to investigate into his brother's death, with the sometimes useless help of Soubi, along the way.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 150,
+      "idMal": 150,
+      "title": {
+        "romaji": "BLOOD+",
+        "english": "Blood+",
+        "native": "BLOOD+"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 50,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 76,
+      "popularity": 65758,
+      "favourites": 3202,
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Production I.G"
+          },
+          {
+            "name": "Aniplex"
+          },
+          {
+            "name": "Mainichi Broadcasting System"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 10,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 9,
+        "day": 23
+      },
+      "description": "Saya Otonashi, a seemingly normal high school student, suffers from amnesia and she can't remember the past year of her life. One day, after a man appears and gives her a katana sword, her destiny begins to be revealed.<br>\n<br>\nSoon she finds herself fighting the latest threat to humanity - Chiropteran monsters, ravenous immortal creatures that can change their form, disguising themselves as human beings. They feed off blood and hide themselves within the human world. An organization known as the Red Shield has been waging a private war to wipe them out and now the struggle has grown. Saya's journey for the truth has begun.<br>\n<br>\n(Source: Sony Pictures Home Entertainment)"
+    },
+    {
+      "id": 151,
+      "idMal": 151,
+      "title": {
+        "romaji": "Re: Cutie Honey",
+        "english": null,
+        "native": "Re:キューティーハニー"
+      },
+      "format": "OVA",
+      "status": "FINISHED",
+      "episodes": 3,
+      "duration": 45,
+      "season": "SUMMER",
+      "seasonYear": 2004,
+      "averageScore": 71,
+      "popularity": 13661,
+      "favourites": 347,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Ecchi",
+        "Mahou Shoujo",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Gainax"
+          },
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "Toei Video"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 7,
+        "day": 24
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 9,
+        "day": 25
+      },
+      "description": "A mysterious organization known as Panther Claw make their presence known by terrorizing Tokyo and giving the cops a run for their money. Police are further baffled by the appearance of a lone cosplaying vigilante who thwarts all of Panther Claw's evil schemes before disappearing. That cosplayer is Honey Kisaragi, the result of the late Professor Kisaragi's prize experiment. A master of disguise, Honey can magically alter her physical appearance and outfits. But with a push of the heart-shaped button on her choker, she transforms herself into Cutie Honey, the scantily-clad, sword-wielding warrior of love and justice.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 152,
+      "idMal": 152,
+      "title": {
+        "romaji": "Solty Rei",
+        "english": "Solty Rei",
+        "native": "ソルティレイ"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 23,
+      "season": "FALL",
+      "seasonYear": 2005,
+      "averageScore": 69,
+      "popularity": 6603,
+      "favourites": 70,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "GONZO"
+          },
+          {
+            "name": "AIC"
+          },
+          {
+            "name": "TV Asahi"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 10,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2006,
+        "month": 3,
+        "day": 30
+      },
+      "description": "In a future-based disaster-ridden city with an enormous gap between the rich and the poor, it is hard to tell which humans are walking around with cybernetic body parts. This makes Roy Revant's job as a renegade bounty hunter/bodyguard-for-hire even more difficult. When a young girl with unbeliveable strength rescues him from a particularly dangerous criminal, Roy realizes that perhaps help can be found in the strangest of places. Joining together with a few others, they engage in a battle to find out the truth behind the giant conglomerates that are supposedly serving mankind and making life better.<br><br>\nSolty, an android who has lost her memory, has escaped and is being hunted by the RUC Security Bureau. She encounters the bounty hunter Roy and he adopts her as his daughter after being hired as a bodygaurd for Miranda.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 153,
+      "idMal": 153,
+      "title": {
+        "romaji": "Juuni Kokuki",
+        "english": "The Twelve Kingdoms",
+        "native": "十二国記"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 45,
+      "duration": 25,
+      "season": "SPRING",
+      "seasonYear": 2002,
+      "averageScore": 77,
+      "popularity": 40366,
+      "favourites": 950,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          },
+          {
+            "name": "Sogo Vision"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 4,
+        "day": 9
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 8,
+        "day": 30
+      },
+      "description": "Nakajima Youko is your average somewhat timid high school student. One day, a strange man named Keiki appears before her, swearing allegiance. Before she could properly register what was happening, demon-like creatures attack Youko and her friends, after which they are pulled into a different world. A world unlike what she has ever known. Separated from Keiki, Youko and her friends must do whatever they can if they wish to survive in this new world."
+    },
+    {
+      "id": 154,
+      "idMal": 154,
+      "title": {
+        "romaji": "Shaman King",
+        "english": "Shaman King",
+        "native": "シャーマンキング"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 64,
+      "duration": 23,
+      "season": "SUMMER",
+      "seasonYear": 2001,
+      "averageScore": 74,
+      "popularity": 59508,
+      "favourites": 1394,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TV Tokyo"
+          },
+          {
+            "name": "NAS"
+          },
+          {
+            "name": "4Kids Entertainment"
+          },
+          {
+            "name": "TV Tokyo Music"
+          },
+          {
+            "name": "Xebec"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 7,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 9,
+        "day": 25
+      },
+      "description": "Shamans possess mysterious powers that allow them to commune with gods, spirits, and even the dead…and Manta Oyamada's about to learn all about them, because his class just welcomed a new transfer student: Yoh Asakura, a boy from way off in Izumo…and a shaman in training!\n<br><br>\n(Source: Kodansha USA)"
+    },
+    {
+      "id": 155,
+      "idMal": 155,
+      "title": {
+        "romaji": "X",
+        "english": null,
+        "native": "X -エックス-"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 93,
+      "season": "SUMMER",
+      "seasonYear": 1996,
+      "averageScore": 61,
+      "popularity": 10507,
+      "favourites": 109,
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Kadokawa Shoten"
+          },
+          {
+            "name": "Victor Entertainment"
+          },
+          {
+            "name": "Marubeni"
+          },
+          {
+            "name": "Movic"
+          },
+          {
+            "name": "Sega Games"
+          },
+          {
+            "name": "Shelty"
+          },
+          {
+            "name": "Manga Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1996,
+        "month": 8,
+        "day": 3
+      },
+      "endDate": {
+        "year": 1996,
+        "month": 8,
+        "day": 3
+      },
+      "description": "The future of the universe rests on one young man, Kamui Shirou, who must destroy either the Dragons of Earth or the Dragons of Heaven - two opposing armies. He alone must decide whether humanity should be destroyed to create a purified universe, or whether it should be protected to preserve civilization.<br>\n<br>\nTwo oracles, the sisters Hinoto and Kanoe foresee the coming of the Dragons and predict opposite outcomes. Each sister gathers strength and ammunition to insure her own vision for the future. However, neither sister realizes that there is one man who has an even greater power than the Dragons, and that ultimately he will determine the fate of the earth.<br>\n<br>\nWhich sister will prevail and how does Kamui fit into their struggle? The answer to this question will forever affect humanity.<br>\n<br>\n(Source: Manga Entertainment)"
+    },
+    {
+      "id": 156,
+      "idMal": 156,
+      "title": {
+        "romaji": "X (TV)",
+        "english": "X (TV)",
+        "native": "X−エックス− (TV)"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2001,
+      "averageScore": 69,
+      "popularity": 16677,
+      "favourites": 202,
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Bandai Visual"
+          },
+          {
+            "name": "Kadokawa Shoten"
+          },
+          {
+            "name": "Character and Anime Dot Com"
+          },
+          {
+            "name": "d-rights"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 10,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 3,
+        "day": 27
+      },
+      "description": "His destiny has finally arrived as the young Shirou Kamui returns to Tokyo after 6 years. A powerful psychic, Kamui vows to protect the happiness of his childhood friends Fuuma and Kotori, even if it means avoiding them. But fate is cruel, whether or not Kamui wants to be involved; he holds the future of the world in his hands, given the choice of becoming a Dragon of Heaven or a Dragon of Earth. The Seven Seals gather, and so do the Seven Angels; all individuals who have their destiny carved out as one who would battle for the fate of the world. What future will Kamui choose to become reality?"
+    },
+    {
+      "id": 157,
+      "idMal": 157,
+      "title": {
+        "romaji": "Mahou Sensei Negima!",
+        "english": "Negima!",
+        "native": "魔法先生 ネギま！"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 23,
+      "season": "WINTER",
+      "seasonYear": 2005,
+      "averageScore": 65,
+      "popularity": 27756,
+      "favourites": 239,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Xebec"
+          },
+          {
+            "name": "Starchild Records"
+          },
+          {
+            "name": "Sentai Filmworks"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2005,
+        "month": 1,
+        "day": 6
+      },
+      "endDate": {
+        "year": 2005,
+        "month": 6,
+        "day": 30
+      },
+      "description": "10-year old Negi Springfield is a wizard-in-training, and needs only to pass one more test in order to become a Master Wizard. Unfortunately, his final task is a bizarre one- to become a English teacher at an all-females boarding school. As soon as he arrives, he completely embarasses one of his students, Asuna Kagurazaka, and replaces the teacher she loves, which garners her hatred. To make matters worse, Asuna learns that Negi is a wizard,and promises to tell unless he helps her out. But, unfortunately, circumstances force them to work together to do many things, from fighting evil wizards to helping the class pass their final exam, with a lot of humor, magic, and romances thrown in.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 158,
+      "idMal": 158,
+      "title": {
+        "romaji": "Maria-sama ga Miteru",
+        "english": "Maria Watches Over Us",
+        "native": "マリア様がみてる"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 24,
+      "season": "WINTER",
+      "seasonYear": 2004,
+      "averageScore": 69,
+      "popularity": 19171,
+      "favourites": 248,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio DEEN"
+          },
+          {
+            "name": "Rondo Robe"
+          },
+          {
+            "name": "TV Tokyo Music"
+          },
+          {
+            "name": "Maiden Japan"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 1,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 4,
+        "day": 1
+      },
+      "description": "At Lillian Girls’ Academy, a renowned all-girls Catholic school, pairs of girls become soeurs, or “sisters”, in order to support and guide each other during their time at school. The shy Yumi Fukuzawa thought she was far too ordinary to attract a soeur as popular and beautiful as Sachiko Ogasawara, but for some reason, Sachiko has set her sights on Yumi — but why does she want to become Yumi’s soeur, anyway, and just what will become Sachiko’s soeur entail?<br>\n<br>\n(Source: Maiden Japan)"
+    },
+    {
+      "id": 159,
+      "idMal": 159,
+      "title": {
+        "romaji": "Boukyaku no Senritsu",
+        "english": "Melody of Oblivion",
+        "native": "忘却の旋律"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 2004,
+      "averageScore": 59,
+      "popularity": 4165,
+      "favourites": 30,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Horror",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Gainax"
+          },
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "Kadokawa Shoten"
+          },
+          {
+            "name": "KENMedia"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 4,
+        "day": 7
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 9,
+        "day": 22
+      },
+      "description": "A great war occurred in the 20th century between humans and monsters. Since that time, the monsters rule the world in fear but keep relatively hidden from public view. A boy named Bokka ponders the past and wonders what became of the Meros Warriors who defended the world so bravely against the demons. He soon meets Kurofune and learns of the power of the Meros and the I-bar machines they ride in battle. Warriors are the only ones who can see and hear the Melody of Oblivion, a phantom girl hidden away waiting to be rescued and be the savior of mankind. During a battle between Kurofune and a demon, Bokka discovers something only his wildest dreams could possibly imagine...he too can hear that melody. Throughout his journeys, Bokka meets many monsters and their agents, friends, and companions as he discovers the true extent of his new powers. He must continue to battle evil in the hope of releasing Boukyaku no Senritsu and free a world that has forgotten its once beautiful melody.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 160,
+      "idMal": 160,
+      "title": {
+        "romaji": "Ima, Soko ni Iru Boku",
+        "english": "Now and Then, Here and There",
+        "native": "今、そこにいる僕"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 25,
+      "season": "FALL",
+      "seasonYear": 1999,
+      "averageScore": 73,
+      "popularity": 43066,
+      "favourites": 611,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "AIC"
+          },
+          {
+            "name": "Pioneer LDC"
+          },
+          {
+            "name": "Central Park Media"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 10,
+        "day": 14
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 1,
+        "day": 20
+      },
+      "description": "Shu is a typical Japanese boy, but has an unbeatable, optimistic and determined attitude. However, when he sees a mysterious girl with strange eyes named Lala-Ru up on a smokestack, he is soon pulled into a strange desert world. Shu soon discovers the true terrors of war, which includes genocide, brutal torture, hunger, thirst, and child exploitation. Now Shu is trying to save Lala-Ru, as well as his hard earned, and often relunctant, new friends from the insane dictator, Hamdo. Whether Shu can possibly accomplish saving those he cares about while still holding up to his values remains to be seen. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 161,
+      "idMal": 161,
+      "title": {
+        "romaji": "PEACE MAKER Kurogane",
+        "english": "Peacemaker",
+        "native": "PEACE MAKER 鐵"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 68,
+      "popularity": 9545,
+      "favourites": 95,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "GONZO"
+          },
+          {
+            "name": "GDH"
+          },
+          {
+            "name": "TV Asahi"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Imagica"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 10,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 3,
+        "day": 24
+      },
+      "description": "Although traumatized by witnessing the murder of his parents by one of the Choushuu, Ichimura Tetsunosuke's thirst for revenge lead him to desire strength. At the age of 15, Tetsunosuke approached the Shinsengumi, wanting to become one of its members. However, Tetsunosuke lacked the skill, mind and will to emotionlessly cut down whoever threatened peace and the Shinsengumi. Even with the support of his brother Tatsunosuke and his newfound friends of the Shinsengumi, little did Tetsunosuke know the blood and pain he would have to face being part of this historical group."
+    },
+    {
+      "id": 162,
+      "idMal": 162,
+      "title": {
+        "romaji": "Pitaten",
+        "english": "Pita-Ten",
+        "native": "ぴたテン"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 24,
+      "season": "SPRING",
+      "seasonYear": 2002,
+      "averageScore": 65,
+      "popularity": 5159,
+      "favourites": 67,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          },
+          {
+            "name": "Broccoli"
+          },
+          {
+            "name": "Studio Matrix"
+          },
+          {
+            "name": "TV Osaka"
+          },
+          {
+            "name": "Yomiuri Advertising"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 4,
+        "day": 7
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 9,
+        "day": 29
+      },
+      "description": "Kotarou was pretty much supposed to be your average boy, worried about the pressures of education while enjoying a simple life with his friends. Much to his despair, he one day finds the overly cheerful Misha at his door, asking to be friends out of nowhere. Even more shocking is that Misha is an apprentice angel, yet she does more bad then good. Along with Kotarou's school friends Takashi and Koboshi and the so called devil Shia (once again being able to do more good then bad), the group of friends spend their days getting into all sorts of adventures and troubles. Based on the manga by Koge-Donbo."
+    },
+    {
+      "id": 163,
+      "idMal": 163,
+      "title": {
+        "romaji": "Power Stone",
+        "english": "Power Stone",
+        "native": "パワーストーン"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 1999,
+      "averageScore": 61,
+      "popularity": 2287,
+      "favourites": 31,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          },
+          {
+            "name": "Avex Entertainment"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "TBS"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1999,
+        "month": 4,
+        "day": 3
+      },
+      "endDate": {
+        "year": 1999,
+        "month": 9,
+        "day": 25
+      },
+      "description": "An ancient legend tells of a magical Powerstone that granted its owner any wish desired. Adventurers from all over the globe clash as they seek this mystical gem. <br><br>\nBased upon the Dreamcast game, POWERSTONE tries to entertain us with the story behind the game's premise. The plot begins with our hero, Fokker, training to be a fighter like his idol, Vargas. <br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": 164,
+      "idMal": 164,
+      "title": {
+        "romaji": "Mononoke-hime",
+        "english": "Princess Mononoke",
+        "native": "もののけ姫"
+      },
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "episodes": 1,
+      "duration": 134,
+      "season": "SUMMER",
+      "seasonYear": 1997,
+      "averageScore": 85,
+      "popularity": 296997,
+      "favourites": 15126,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Ghibli"
+          },
+          {
+            "name": "Tokuma Shoten"
+          },
+          {
+            "name": "GKIDS"
+          },
+          {
+            "name": "Nippon Television Network"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1997,
+        "month": 7,
+        "day": 12
+      },
+      "endDate": {
+        "year": 1997,
+        "month": 7,
+        "day": 12
+      },
+      "description": "A calm village residing in the mountains comes under attack from a demon-possessed boar one day.<br><br>\nAshitaka, a young man and prince of the tribe, engages the creature in an attempt to save his village. During the battle, the boar bites him on the arm, leaving it blackened and cursed. Following his village's traditions, Ashitaka is exiled and becomes a wanderer, looking for a solution to the curse before it engulfs him.<br><br>\nIron Town is a fortress under the leadership of Lady Eboshi. Through the clearing of the surrounding forests, Iron Town produces large amounts of Ironsand, used for gunpowder and other machinery. However, because of the forests destruction, nearby animal clans seek revenge led by a human girl of the Wolf clan called San.<br><br>\nWhen Ashitaka comes to Iron Town, he discovers the area consumed in battle. Horrified, he attempts to create peace and befriend the Wolf Clan. However, after the forest's eradication and the ongoing war between Human and Beast, will the Spirit of the Forest be forgiving and accept Ashitaka's request to expel his curse?<br><br>\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": 165,
+      "idMal": 165,
+      "title": {
+        "romaji": "RahXephon",
+        "english": "RahXephon",
+        "native": "ラーゼフォン"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 23,
+      "season": "WINTER",
+      "seasonYear": 2002,
+      "averageScore": 71,
+      "popularity": 29018,
+      "favourites": 443,
+      "genres": [
+        "Drama",
+        "Mecha",
+        "Music",
+        "Mystery",
+        "Psychological",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "bones"
+          },
+          {
+            "name": "ADV Films"
+          },
+          {
+            "name": "Asatsu DK"
+          },
+          {
+            "name": "Madman Entertainment"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2002,
+        "month": 1,
+        "day": 21
+      },
+      "endDate": {
+        "year": 2002,
+        "month": 9,
+        "day": 10
+      },
+      "description": "In the year 2012 Japan was invaded by the Mu. Human-like beings from another dimension with blue blood.<br><br>\nIn the year 2015 Tokyo is attacked by invaders, who are repelled by a humanoid weapon called a Dolem. During the chaos, Ayato Kamina meets Reika Mishima, a classmate.<br><br>\nDuring that same day, he is attacked by government officials but a woman named Haruka comes to his rescue, informing him that she was sent to get him by the Organization TERRA, and that Tokyo had been sealed in a time rift where time flows one third as fast as the outside world.<br><br>\nHe flees from Haruka onto a train where he sees Reika once more. Arriving at the Room of Rah, he follows her to a tremendous egg where the Dolem RahXephon is hatched from, and upon her singing his mother appears atop the Dolem that had stopped the TERRA Invasion. In the battle Ayato's mother is injured, and Ayato flees Tokyo Jupiter with Haruka upon seeing his mother's blue blood."
+    },
+    {
+      "id": 166,
+      "idMal": 166,
+      "title": {
+        "romaji": "Samurai 7",
+        "english": "Samurai 7",
+        "native": "サムライセブン"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 26,
+      "season": "SUMMER",
+      "seasonYear": 2004,
+      "averageScore": 70,
+      "popularity": 22017,
+      "favourites": 269,
+      "genres": [
+        "Action",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "GONZO"
+          },
+          {
+            "name": "GDH"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2004,
+        "month": 6,
+        "day": 12
+      },
+      "endDate": {
+        "year": 2004,
+        "month": 12,
+        "day": 25
+      },
+      "description": "In the far distant future, on a planet that might have been called \"earth\", there was a war between samurai who mechanized their bodies. After the long war, people enjoyed a modest peace.<br><br>\nFacing starvation and abductions at the hands of fearsome mechanized bandits (Nobuseri), the farmers of Kanna Village make the dangerous choice to hire samurai for protection. The village's water priestess, Kirara, her younger sister, Komachi, and a heartbroken villager, Rikichi, set off to hire willing samurai with nothing to offer but rice from their meager harvests. Through dangerous encounters and a bit of luck, seven samurai of varying specialties and experience are gathered for an epic battle against the bandits and the merchants that influence them.<br><br>\n<i>Note: Samurai 7 is based loosely upon Kurosawa Akira's famous movie \"Seven Samurai\"/\"Shichinin no Samurai\".</.i>"
+    },
+    {
+      "id": 167,
+      "idMal": 167,
+      "title": {
+        "romaji": "Scrapped Princess",
+        "english": "Scrapped Princess",
+        "native": "スクラップド・プリンセス"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 23,
+      "season": "SPRING",
+      "seasonYear": 2003,
+      "averageScore": 71,
+      "popularity": 19593,
+      "favourites": 165,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "bones"
+          },
+          {
+            "name": "Lantis"
+          },
+          {
+            "name": "Funimation"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 4,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 10,
+        "day": 7
+      },
+      "description": "Pacifica Cassul is a kindhearted girl living on the run, for prophecy has named her the poison that would destroy the world. Known as the Scrapped Princess, she’s the target of countless followers of a powerful religion. But even when it seems like the whole world is out to get her, she always has her two adoptive siblings - Shannon and Raquel. Together they travel the countryside, making new friends and battling countless foes. Bit by bit, they uncover the incredible truth behind the prophecy and its ties to mysterious events from 5,000 years ago. With the fate of the world in her naïve hands, Pacifica and her siblings must learn who to trust and take on enemies of godly power. But for all their struggle, should such a poison be allowed to live?<br>\n<br>\n(Source: Funimation)"
+    },
+    {
+      "id": 168,
+      "idMal": 168,
+      "title": {
+        "romaji": "Scryed",
+        "english": "s-CRY-ed",
+        "native": "スクライド"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 26,
+      "duration": 24,
+      "season": "SUMMER",
+      "seasonYear": 2001,
+      "averageScore": 70,
+      "popularity": 16029,
+      "favourites": 281,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          },
+          {
+            "name": "Yomiko Advertising"
+          },
+          {
+            "name": "Discotek"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2001,
+        "month": 7,
+        "day": 4
+      },
+      "endDate": {
+        "year": 2001,
+        "month": 12,
+        "day": 26
+      },
+      "description": "A strange environmental phenomenon 22 years ago in the Kanazawa prefecture caused the land to split and protrude upwards reaching unprecedented heights, creating the secluded area known as The Lost Ground. Kazuma is a young mercenary who lives in the Lost Ground, looking for any work he can find to sustain his livelihood within the harsh environment. He is one of the few people that are gifted with the Alter ability, which allows him to plaster his right arm and torso with a metallic alloy. When this mercenary encounters HOLY, an order whose purpose is to suppress and capture what they call Native Alter Users, and one of the elite members of HOLY, Ryuho, an epic rivalry begins.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 169,
+      "idMal": 169,
+      "title": {
+        "romaji": "Shingetsutan Tsukihime",
+        "english": "Lunar Legend Tsukihime",
+        "native": "真月譚 月姫"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 12,
+      "duration": 24,
+      "season": "FALL",
+      "seasonYear": 2003,
+      "averageScore": 60,
+      "popularity": 35020,
+      "favourites": 314,
+      "genres": [
+        "Action",
+        "Horror",
+        "Mystery",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "J.C.STAFF"
+          },
+          {
+            "name": "TBS"
+          },
+          {
+            "name": "Movic"
+          },
+          {
+            "name": "Geneon Entertainment"
+          },
+          {
+            "name": "Sentai Filmworks"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2003,
+        "month": 10,
+        "day": 10
+      },
+      "endDate": {
+        "year": 2003,
+        "month": 12,
+        "day": 26
+      },
+      "description": "Shiki Tohno sustained a life threatening injury as a child, and due to that incident he was sent away from the Tohno household and was given to a relative to be raised. Years later, when Shiki is in high school, the head of the Tohno household&mdash;his father&mdash;dies, and he is ordered to move back in by his sister Akiha, who is the new head of the household. However, Shiki holds a huge secret. Ever since that injury, he has been seeing lines on objects, and only with a special pair of glasses is he able to stop seeing them. Also he is unable to remember anything well from the time before his accident. The day he moves back to the Tohno household is the day he stumbles upon a woman named Arcueid Brunstud and decapitates her with one stab of his knife in a temporary fit of insanity. When she suddenly showed up beside him later alive and well, and ask him to be her bodyguard, Shiki's journey to unravel the mysteries of his past begins.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": 170,
+      "idMal": 170,
+      "title": {
+        "romaji": "SLAM DUNK",
+        "english": "Slam Dunk",
+        "native": "SLAM DUNK"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 101,
+      "duration": 23,
+      "season": "FALL",
+      "seasonYear": 1993,
+      "averageScore": 83,
+      "popularity": 72243,
+      "favourites": 3271,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Slice of Life",
+        "Sports"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          },
+          {
+            "name": "TV Asahi"
+          },
+          {
+            "name": "Funimation"
+          },
+          {
+            "name": "Animax"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 1993,
+        "month": 10,
+        "day": 16
+      },
+      "endDate": {
+        "year": 1996,
+        "month": 3,
+        "day": 23
+      },
+      "description": "Hanamichi Sakuragi, an entering Shohoku high school freshman holds a record for being rejected by 50 girls during middle school. His nearly 2 meters height and bright red hair causes most students to write him off as a delinquent. <br><br>\nOne day, a girl named Haruko Akagi approaches Hanamichi without any fear. When she asks Hanamichi: \"do you like basketball?\" Hanamichi falls head over heels for the girl of his dreams. Without missing a beat, Hanamichi tells her he loves basketball, and the two head to the gymnasium where Hanamichi learns about the slam dunk. He also learns of Rukawa, one of the country&rsquo;s top basketball prospects, also a freshman at Shohoku.<br><br>\n(Source: Funimation)"
+    },
+    {
+      "id": 171,
+      "idMal": 171,
+      "title": {
+        "romaji": "Strange Dawn",
+        "english": null,
+        "native": "ストレンジ・ドーン"
+      },
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 13,
+      "duration": 20,
+      "season": "SUMMER",
+      "seasonYear": 2000,
+      "averageScore": 61,
+      "popularity": 2534,
+      "favourites": 15,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Hal Film Maker"
+          },
+          {
+            "name": "Pioneer LDC"
+          },
+          {
+            "name": "WOWOW"
+          }
+        ]
+      },
+      "startDate": {
+        "year": 2000,
+        "month": 7,
+        "day": 11
+      },
+      "endDate": {
+        "year": 2000,
+        "month": 9,
+        "day": 26
+      },
+      "description": "Yuko and Eri are two normal girls who are sucked into the alternate world filled with tiny people. The people of this mysterious world sees them as their \"Great Protectors\" who can protect their land in a time of strife. The two girls set out on a mission with a group of warriors from the village to find out how they were brought here and how might they return home. However, there is a war brewing and these two Great Protectors are the political tool that every faction lusts for to rally the people to their side.\n<br><br>\n(Source: Anime News Network)"
+    }
+  ]
+}
