@@ -1,0 +1,26 @@
+# Datos generados por el pipeline (INV-9 — nunca versionados)
+/bronze/
+/silver/
+/gold/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Variables de entorno
+.env
+
+# Cache de modelos (sentence-transformers / huggingface)
+.cache/
+.hf_cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Sistema
+.DS_Store
